@@ -1,0 +1,17 @@
+#version=1.0
+#pageName|urlType|inlineUrlId|Url|dumpFileName|ContentType|redirectionDepth|redirectUrl|UrlHost|urlFilePath|rootPath|statusCode|time(Sec.)|bytesRecieved|bodySize|method|SnapShotBeforAction|SnapShotAfterAction|snapShotClickAction|clickAPIName|future1|future2|future3|future4|future5|future6|comments
+
+index|Main|0|https://www.google.com/|www.google.com/index|NA|0|NA|www.google.com|/|./|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+index|Inline|-1|https://www.google.com/|www.google.com/index|NA|0|NA|www.google.com|/|./|0|0|0|-1|GET|NA|NA|webpage_1629433289224.png|index|NA|NA|NA|NA|NA|NA|NA
+index|Inline|-1|https://www.google.com/|www.google.com/index|NA|0|NA|www.google.com|/|./|0|0|0|-1|GET|NA|NA|webpage_1629433296665.png|index_2|NA|NA|NA|NA|NA|NA|NA
+index|Inline|1|https://ogs.google.com/widget/callout?prid=19019113&pgid=19019112&puid=3fc84c0df4dbfbbf&cce=1&dc=1&fdb=1&bc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en|ogs.google.com/widget/callout_prid=19019113_pgid=19019112_puid=3fc84c0df4dbfbbf_cce=1_dc=1_fdb=1_bc=1_origin=https_3A_2F_2Fwww.|NA|0|NA|ogs.google.com|/widget/|./../|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+index|Inline|2|https://www.google.com/doodles/|www.google.com/doodles/index.html|NA|0|NA|www.google.com|/doodles/|./../|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+doodles|Main|0|https://www.google.com/search?q=&btnI=I%27m+Feeling+Lucky&source=hp&ei=xi0fYeCVEIvT1sQPw8WZIA&iflsig=AINFCbYAAAAAYR871pJzJLKaMubJbmmK4rpHF50BE8dF|www.google.com/search_q=_btnI=I_27m_Feeling_Lucky_source=hp_ei=xi0fYeCVEIvT1sQPw8WZIA_iflsig=AINFCbYAAAAAYR871pJzJLKaMubJbmmK4r|NA|0|NA|www.google.com|/|./|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+doodles|Inline|1|https://www.google.com/doodles|www.google.com/doodles|NA|0|NA|www.google.com|/|./|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+doodles|Inline|-1|https://www.google.com/doodles|www.google.com/doodles|NA|0|NA|www.google.com|/|./|0|0|0|-1|GET|NA|NA|webpage_1629433330526.png|doodles|NA|NA|NA|NA|NA|NA|NA
+doodles|Inline|-1|https://www.google.com/doodles?q%3Dhappy|www.google.com/doodles_q=happy|NA|0|NA|www.google.com|/|./|0|0|0|-1|GET|NA|NA|webpage_1629433381533.png|doodles_2|NA|NA|NA|NA|NA|NA|NA
+india_independence_day_2021|Main|0|https://www.google.com/doodles/india-independence-day-2021|www.google.com/doodles/india-independence-day-2021|NA|0|NA|www.google.com|/doodles/|./../|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+india_independence_day_2021|Inline|-1|https://www.google.com/doodles/india-independence-day-2021|www.google.com/doodles/india-independence-day-2021|NA|0|NA|www.google.com|/doodles/|./../|0|0|0|-1|GET|NA|NA|webpage_1629433349693.png|india_independence_day_2021|NA|NA|NA|NA|NA|NA|NA
+india_independence_day_2021|Inline|-1|https://www.google.com/doodles/india-independence-day-2021|www.google.com/doodles/india-independence-day-2021|NA|0|NA|www.google.com|/doodles/|./../|0|0|0|-1|GET|NA|NA|webpage_1629433351301.png|india_independence_day_2021_2|NA|NA|NA|NA|NA|NA|NA
+doodles_2|Main|0|https://www.google.com/doodles?q=happy|www.google.com/doodles_q=happy|NA|0|NA|www.google.com|/|./|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA
+dr_govindappa_venkataswamys_|Main|0|https://www.google.com/doodles/dr-govindappa-venkataswamys-100th-birthday|www.google.com/doodles/dr-govindappa-venkataswamys-100th-birthday|NA|0|NA|www.google.com|/doodles/|./../|0|0|0|-1|null|NA|NA|NA|NA|0.0|0.0|NA|NA|NA|NA|NA

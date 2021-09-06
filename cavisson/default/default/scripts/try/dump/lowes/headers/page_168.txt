@@ -1,0 +1,159 @@
+--Request 
+GET https://ct.pinterest.com/user/?tid=2615619520270&pd=%7B%22page%22%3A%22product-display%22%2C%22pin_unauth%22%3A%22dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag%22%7D&cb=1628659883181
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-credentials: true
+access-control-expose-headers: Epik,Pin-Unauth
+pin-unauth: dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+access-control-allow-origin: https://www.lowes.com
+content-type: application/json; charset=utf-8
+content-encoding: gzip
+x-envoy-upstream-service-time: 1
+referrer-policy: origin
+x-pinterest-rid: 1221715795214120
+date: Wed, 11 Aug 2021 05:31:23 GMT
+x-cdn: fastly
+content-length: 308
+----
+--Request 
+GET https://d.impactradius-event.com/A2490986-6272-4119-80d2-3e11fba8509a1.js
+Host: d.impactradius-event.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-guploader-uploadid: ADPycdursdNHVvynv6CsHorswIDLSC7OOcPRmUfTfoft32o3j5Bc9sSYZbeBLzfnOIRCGre3ZlLVZ4QaCJnGwUQjX2YLR4weJg
+date: Wed, 11 Aug 2021 05:30:25 GMT
+expires: Wed, 11 Aug 2021 05:35:25 GMT
+last-modified: Wed, 07 Jul 2021 19:52:08 GMT
+etag: \"0c438a3c854ad9fa9031766d943637ed\"
+x-goog-generation: 1625687528900606
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: gzip
+x-goog-stored-content-length: 13145
+content-type: text/javascript; charset=utf-8
+content-encoding: gzip
+x-goog-hash: crc32c=wqa/+g==
+x-goog-hash: md5=DEOKPIVK2fqQMXZtlDY37Q==
+x-goog-storage-class: MULTI_REGIONAL
+accept-ranges: bytes
+vary: Accept-Encoding
+content-length: 13145
+server: UploadServer
+age: 23
+cache-control: public,max-age=900,s-maxage=300
+alt-svc: clear
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC61df4c46e1804f5885d1d9487d3249f5-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 445
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://ct.pinterest.com/v3/?tid=2615619520270&pd=%7B%22page%22%3A%22product-display%22%2C%22pin_unauth%22%3A%22dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner%22%2C%22if%22%3Afalse%2C%22sh%22%3A663%2C%22sw%22%3A1360%2C%22mh%22%3A%2289cd5bf4%22%2C%22ecm_enabled%22%3Afalse%7D&cb=1628659883185
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-type: image/gif
+access-control-allow-origin: *
+x-envoy-upstream-service-time: 3
+referrer-policy: origin
+x-pinterest-rid: 1095387251678680
+date: Wed, 11 Aug 2021 05:31:23 GMT
+x-cdn: fastly
+content-length: 35
+----
+--Request 
+GET https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22customer_type%22%3A%22%22%2C%22known_state%22%3A%22%22%2C%22identity_id%22%3A%22%22%2C%22line_items%22%3A%5B%7B%22product_id%22%3A%225000143961%22%2C%22product_name%22%3A%226100-btu_doe_8000-btu_ashrae_115-volt_white_portable_air_conditioner%22%7D%5D%7D&tid=2615619520270&pd=%7B%22page%22%3A%22product-display%22%2C%22pin_unauth%22%3A%22dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner%22%2C%22if%22%3Afalse%2C%22sh%22%3A663%2C%22sw%22%3A1360%2C%22mh%22%3A%2289cd5bf4%22%2C%22ecm_enabled%22%3Afalse%7D&cb=1628659883186
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-type: image/gif
+access-control-allow-origin: *
+set-cookie: _pinterest_ct_ua=\"TWc9PSZJV3NSUkJBVTFDVTBld1U2OUVYVDVadnU5OFNveUJiSTRwK1YvZE54RytoeWJHRWVFSEl5WlNGRnEwcnh0VGNVOENrOFZwRG4rdlZMa1hmTW1IOE5EUmVLZUQ4S1l3THV2SjNlRWk1TDZQST0maXVoS0t5VEtzbTRvVFR5NjVkWHJkM3ZpLzdZPQ==\"; Expires=Thu, 11 Aug 2022 05:31:23 GMT; Path=/; Domain=ct.pinterest.com; Secure; SameSite=None
+x-envoy-upstream-service-time: 3
+referrer-policy: origin
+x-pinterest-rid: 9035026632134930
+date: Wed, 11 Aug 2021 05:31:23 GMT
+x-cdn: fastly
+content-length: 35
+----
+

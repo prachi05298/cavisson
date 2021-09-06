@@ -1,0 +1,172 @@
+
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=utf-8
+content-length: 30
+x-envoy-upstream-service-time: 1
+server: istio-envoy
+date: Wed, 11 Aug 2021 05:31:02 GMT
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=385
+server-timing: origin; dur=574
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746262~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=00a0efd0171926e5133bdb223ba93191; path=/; Expires=Thu, 12 Aug 2021 05:31:02 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZsYLlDvbPq26FQs5hWBnOyLVlYYIn2xwJHE6vaQf4zHWka03TyM1FqQKX4VwRJRhTA=; Domain=.lowes.com; Path=/; Max-Age=7179; HttpOnly
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=teadspartner&partner_uid=043548c650a0d2566bd277ed854cb7ed8ebaf981
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:31:03 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:31:03 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n015-pdx-prod.krxd.net
+x-request-time: D=26 t=1628659863
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=flashtalking&partner_uid=4971A57BD143B2
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:31:03 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:31:03 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n002-pdx-prod.krxd.net
+x-request-time: D=32 t=1628659863
+----
+--Request 
+GET https://tpc.googlesyndication.com/safeframe/1-0-38/js/ext.js
+Host: tpc.googlesyndication.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://6ab5493f32139d791f31b2662f1432a4.safeframe.googlesyndication.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+cross-origin-resource-policy: cross-origin
+timing-allow-origin: *
+content-length: 7022
+date: Sat, 07 Aug 2021 02:33:41 GMT
+expires: Sun, 07 Aug 2022 02:33:41 GMT
+last-modified: Tue, 02 Mar 2021 20:17:03 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 356243
+cache-control: public, immutable, max-age=31536000
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://tpc.googlesyndication.com/simgad/9286444732552013533?
+Host: tpc.googlesyndication.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://6ab5493f32139d791f31b2662f1432a4.safeframe.googlesyndication.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+timing-allow-origin: *
+content-length: 219876
+date: Thu, 05 Aug 2021 04:49:33 GMT
+expires: Fri, 05 Aug 2022 04:49:33 GMT
+last-modified: Mon, 10 May 2021 17:14:25 GMT
+x-content-type-options: nosniff
+x-dns-prefetch-control: off
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 520891
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914
+Host: www.googletagservices.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://6ab5493f32139d791f31b2662f1432a4.safeframe.googlesyndication.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/active-view-scs-read-write-acl
+content-length: 38212
+date: Wed, 11 Aug 2021 05:31:03 GMT
+expires: Wed, 11 Aug 2021 05:31:03 GMT
+cache-control: private, max-age=3000
+etag: \"1628508775336984\"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:31:03 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:31:03 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n014-pdx-prod.krxd.net
+x-request-time: D=27 t=1628659863
+----
+

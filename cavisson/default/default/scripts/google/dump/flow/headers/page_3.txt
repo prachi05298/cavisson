@@ -1,0 +1,31 @@
+--Request 
+POST https://www.google.com/gen_204?atyp=i&ei=aTUnYfDUA6zO1sQPyr2bCA&ct=slh&v=t1&m=HV&pv=0.7185444378603332&me=1:1629959531100,x:1,V,0,0,1366,607:0,N,1,aTUnYfDUA6zO1sQPyr2bCA:0,R,1,1,0,0,1366,607:1,B,607:2116,h,1,1,i:295,h,1,1,o:10654,h,1,1,i:1103,h,1,1,o:14213,h,1,1,i:1445,G,1,1,626,263:2,V,0,0,1366,607,1:1100,B,700:17116,e,U&zx=1629959579146
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.google.com
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; OGPC=19019112-1:; NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 204
+content-type: text/html; charset=UTF-8
+bfcache-opt-in: unload
+date: Thu, 26 Aug 2021 06:32:58 GMT
+server: gws
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

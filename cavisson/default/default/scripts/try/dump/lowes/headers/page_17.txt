@@ -1,0 +1,32 @@
+--Request 
+GET https://www.lowes.com/recs/v1/location/lws_hp_personalization_2?channel=desktop&dbid=0c4d60e8-af11-4882-8069-11671292895b&domain=www.lowes.com
+Host: www.lowes.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: dbidv2=0c4d60e8-af11-4882-8069-11671292895b; akavpau_default=1628660139~id=cfd53143bdbc46752d07c1954685ff2b; al_sess=FuA4EWsuT07UWryyq/3foO5fKp+UCNFOOXqnqQDypxfeGCVe3QM/S4JU25cW9pe7; region=east; AKA_A2=A; bm_sz=C3B382F883B8A81A11497C9F542A09D1~YAAQbHIsMXftTJ16AQAABPWwMwyIw/S8Rj0KiTQue/1PYud9NtYgs8N4h8z1YALbBHCOWJtJoty1dYZq3bsn4L8F660kjUm4lG/FuofafLKo45cTHvseGETTqB9D6WskKO6XF5pdWUUYJ2fA5o1uTbLfNhKd6sHAXhqN4OYtkc5QcQqr1fw1brfO44J/fdHsbCYvrjKzQsQ0m6+CgUBBPQ8feJfyhN13TXPeYTQMXrbxjlxUlfjuNn+0gLQ/vWtkhlqKw4K1tHITboeQWEEtheiF6uLjebtQxRdxAaLt6MpfZA==~4405303~4342068; AMCV_5E00123F5245B2780A490D45%40AdobeOrg=-1303530583%7CMCIDTS%7C19581%7CMCMID%7C71747673865418841840298191736677393887%7CMCAAMLH-1629264641%7C12%7CMCAAMB-1629264641%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1628667041s%7CNONE%7CvVersion%7C3.3.0; AMCVS_5E00123F5245B2780A490D45%40AdobeOrg=1; g_amcv_refreshed=1; at_check=true; mbox=session#31e45163a4dc4f69bb43b3ae2d42ea61#1628661702; _abck=60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMcftTJ16AQAAxvywMwZHmMsgpj2ZJ9P4Dv+aFA4pq4h/g1DsktEHcMwpWfMQb1C+dDVxIlmzqkHIT4Q025NO1eR65CCKfpP4ZEhhNNwB6fDDZdN/5TeI8xdocC0qM+0Xa7kvso841d6IIPMxRId+/Lep+5ERxs8mccru/PW5lJF8KlUnT+cohBisikseW7OjEfZhkYVfpxQaKEfXEV1gcyOZZv2pLNDhJks53MddXRQqRrM51h3efDuzZ5Zpx7dVpRyfX3HpHVqxSvrSR+9oClXeoyxVXDrAJ4WadeQbCg07lwg5oyaxbrPa7p8xYADTiqL10nkWVnilH3GkMyJp9x3R+Wo5wUUuBAFZZlE4+AS3btiNaoUb4zIPRWfM1yHvOkk=~-1~-1~-1; ak_bmsc=CFD6BB6B1F11B52B3D9C07B63E32F299~000000000000000000000000000000~YAAQbHIsMeDtTJ16AQAAyv6wMwyC/QVxtX6PVcOAzw7MbeRMt9DdYDeLnz+FHJYET6tfShANdOrfub/wBbip/qQKiMtTBFKvBQ8OaR2GjELvygRsX083I5j/PHuYInl3nw8R64ZACTCOK0SeuAtTpSNt5k6fhNHltREjBfbK7STgXLeOb/bOt3qof5CyCaCKWgEj4weksh+YFvWJ8jcWzSflRb1YuplwDxhkmVfN8LAlt1Zomi+Ex9sOwfmFZTniRSUrlAMVtJ5FMihcoPfLpMpKKoAZxu/2bYxnMMXYoP2Oel7Qg62x/1Hm4icm4NyNci5eR7aS2ADW6xm541slFVu7+GNPBDpFv2RH39M0Y3SBXQP+wMl1UpC2AivVyLI1BbowGxCDJV+1HJLAFc+wSyyGWUdqmsBs+YXzEWkOCfC6TPS6eXBrFkQpfiZNsBR4Tskac39XXHnvxkaZziKjgCdZ0St3E4ZGmb8HjvlknY5x8Hu+kd5BEw==; akaalb_prod_dual=1628746243~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=18db5f36e1474f835b9c7d3fe034f130; bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZv+nKHd5FTDkqqglXDDfMlon6+brczuT+q1a2b1jdb5BAlTAOISFuO3S9JiWizfau4=; p13n=%7B%22zipCode%22%3Anull%2C%22storeId%22%3Anull%2C%22state%22%3Anull%2C%22userType%22%3A%22diy%22%2C%22audienceList%22%3A%5B%5D%7D
+----
+--Response 
+HTTP/1.1 204
+content-type: application/json; charset=utf-8
+access-control-expose-headers: WWW-Authenticate,Server-Authorization
+cache-control: no-cache
+x-envoy-upstream-service-time: 17
+server: istio-envoy
+date: Wed, 11 Aug 2021 05:30:43 GMT
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=277
+server-timing: origin; dur=64
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746243~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=18db5f36e1474f835b9c7d3fe034f130; path=/; Expires=Thu, 12 Aug 2021 05:30:43 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZsvZVh15lnnqCOxPD1kqhyuLSUXcazxddS4YMXwwCKm/71Jp8ZL0O5PcBJN1+WBb5I=; Domain=.lowes.com; Path=/; Max-Age=7198; HttpOnly
+----
+

@@ -1,0 +1,35 @@
+--Request 
+GET https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.lowes.com
+Host: securepubads.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+access-control-allow-origin: *
+date: Wed, 11 Aug 2021 05:31:00 GMT
+expires: Wed, 11 Aug 2021 05:31:00 GMT
+cache-control: private, max-age=3600, stale-while-revalidate=3600
+content-type: application/json; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+server: cafe
+content-length: 160
+x-xss-protection: 0
+set-cookie: test_cookie=CheckForPermission; expires=Wed, 11-Aug-2021 05:46:00 GMT; path=/; domain=.doubleclick.net; Secure; SameSite=none
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

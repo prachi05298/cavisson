@@ -1,0 +1,31 @@
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC72d2ec0cab6f4408838d32aa7124111c-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 422
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

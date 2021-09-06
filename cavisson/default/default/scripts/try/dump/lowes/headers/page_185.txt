@@ -1,0 +1,111 @@
+--Request 
+POST https://collector-px61wvsvi8.px-cloud.net/api/v2/collector
+Host: collector-px61wvsvi8.px-cloud.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA [key: "payload"
+value: "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"
+, key: "appId"
+value: "PX61WVsvi8"
+, key: "tag"
+value: "v6.9.2"
+, key: "uuid"
+value: "5eb12280-fa65-11eb-a6ff-031c0d1f5b86"
+, key: "ft"
+value: "226"
+, key: "seq"
+value: "2"
+, key: "en"
+value: "NTA"
+, key: "cs"
+value: "2f97607ecf55a706ee59ead8c27d6dd4ef94f0dbb2964685622010158817d375"
+, key: "pc"
+value: "1352593052871878"
+, key: "sid"
+value: "49bdd2b0-fa65-11eb-8dd5-15f5bf611991\363\240\204\261\363\240\204\266\363\240\204\262\363\240\204\270\363\240\204\266\363\240\204\265\363\240\204\271\363\240\204\270\363\240\204\270\363\240\204\265\363\240\204\265\363\240\204\271\363\240\204\267"
+, key: "vid"
+value: "49bd93fc-fa65-11eb-8ed2-0242ac120008"
+, key: "cts"
+value: "49bdf9c0-fa65-11eb-8dd5-15f5bf611991"
+, key: "rsc"
+value: "2"
+]
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 430
+access-control-allow-credentials: true
+access-control-allow-methods: GET,HEAD,PUT,PATCH,POST,DELETE
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://adservice.google.com/ddm/fls/z/dc_pre=CNXU7e-eqPICFRGoaAodA80GJA;src=6450450;type=vfpro0;cat=produ0;ord=1104003070829;gtm=2od891;auiddc=*;u1=;u3=1985;u4=99701;u24=;u25=;u26=;u13=ge;u14=6100-btu_doe_8000-btu_ashrae_115-volt_white_portable_air_conditioner;u15=heating_cooling;u16=air_conditioners_fans;u17=room_air_conditioners;u18=5000143961;~oref=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961
+Host: adservice.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:27 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: image/gif
+x-content-type-options: nosniff
+server: cafe
+content-length: 42
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://accdn.lpsnmedia.net/api/account/22554410/configuration/domainprotection/refererrestrictions?cb=lpCb64907x25340
+Host: accdn.lpsnmedia.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://lpcdn.lpsnmedia.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:27 GMT
+content-type: application/javascript
+vary: Accept
+expires: Wed, 11 Aug 2021 05:32:07 GMT
+x-envoy-upstream-service-time: 0
+server: ws
+x-cache-status: HIT
+content-encoding: gzip
+----
+

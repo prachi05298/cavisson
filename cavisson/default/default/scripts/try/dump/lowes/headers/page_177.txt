@@ -1,0 +1,59 @@
+--Request 
+GET https://vwonwkaqvq-a.global.ssl.fastly.net/LLODOWS854.json
+Host: vwonwkaqvq-a.global.ssl.fastly.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Length: 39010
+Last-Modified: Mon, 12 Jul 2021 07:04:12 GMT
+ETag: \"43a691e732ca527436e7a28d2e11ae42\"
+Content-Encoding: gzip
+Content-Type: application/x-javascript
+Access-Control-Allow-Origin: *
+cache-control: max-age=3600
+Accept-Ranges: bytes
+Date: Wed, 11 Aug 2021 05:30:50 GMT
+Via: 1.1 varnish
+Age: 2896
+X-Served-By: cache-bom4751-BOM
+X-Cache: HIT
+X-Cache-Hits: 4
+X-Timer: S1628659850.456747,VS0,VE0
+Vary: Accept-Encoding
+----
+--Request 
+GET https://colrep.sitelabweb.com/rp/?d=pCL9aA3XOC2P8dKEvoO1ZTGmLaIPjpSNFMTAMJrn0b7IZBS4YcJs1XfUMADdBY7f1o70ZCzphJ6H0_TB66mFLcKq9chVJGGyybaemmjBJL2I_MW1zlxQkBTlaNJ4mn~ZPCTOTNHmmojJPO2HWPrPpmCU9PmBCdKjnb8x~GEg8UJX1Y8ZRMXS_MXiu_dkMNmbmNZ45ZOZ6LjAMNnm4_OUgDDCdNJOwUjV4CUBKeqEsowELBk3eL30lXfABJDOMJXrCW7IWIGHWdsXlXfBTBDi4NnupW7IWFXiYbbLXjSJjOX_AMo01ZdcUBz3NM30ocyhsGU4AMoqlZOBSQWPNJo8wb~V6O2IEJXmwcihYR2ZNJo9GZPAH9CERNHqwYOYX8TpYUO5miTJC6TTgNXq3YOMd8mDJcML4oCVHQ2vKbnVwWSVcQWxmMZDmYvB5BThLO_rj_iZKNWlZZZDhYPl6ATqMNnnjZ7QMS2HMPrG2YPYPBWOVZXnilwVKCGyLMZ0yjSMTATvAMnq2_7Ae8nifPoCmlDJ8MjBDdLvwpcUZFS-_R2KybjdSRyFHb76lpc5JR2YNM4Pwj8ULEknfLX0wZtATFly6Lq1vnjR4Lm5ALYjppN1oR2cMasHpm~58QidNRnywZtAXCDtiN34moCVAQjBKJqEzeA5MOWudZrG9jiFFQ2dBY6ixb7MXOTxeMoOziPR7LzaBNnEikOQZNjuJZo9kY9J8LThMJqrhZd0ZBW-dNo42X~EPMGWRZn05kRIbB2paYrKyj9QLMWOTMWZzZ98W8muWd6bkXv1MMXXOa_duW7IZBzmNNZKxYfN4AGa8NK02aAJICDuKMO5lXiQP9me6NnilZOMXCjphN3OxYvAL6TndUIqlZOMZBW-dNo42X~EPMGWRZn05kRIbB2paYrKyj9QLMWOTMWZzZ98W8TpaMoO5XPkJADhUOW1spd1bSn0NJ79z_TRLRWdBbrn2b7AMSm0YbP90_OZLOTAM&c=522
+Host: colrep.sitelabweb.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: image/gif
+Date: Wed, 11 Aug 2021 05:31:25 GMT
+ETag: \"60ed64cb-2a\"
+Last-Modified: Tue, 13 Jul 2021 10:02:51 GMT
+Server: nginx
+Content-Length: 42
+Connection: keep-alive
+----
+

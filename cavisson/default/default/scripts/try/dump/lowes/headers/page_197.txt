@@ -1,0 +1,26 @@
+--Request 
+POST https://ls.chatid.com/events
+Host: ls.chatid.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Accept: application/json, text/plain, */*
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"app":"sxp_sdk","channel":"s-881400d6-9158-4ed0-bdca-17f321f14d04","csid":"3a2dd283-a5e0-4975-8767-569a0913fcb2","timestamp":1628659892.355,"logs":[{"code":"sdk_navigation","properties":{"hasEnhancedContent":false,"productIdType":"LOWESID","productId":"2759118-83-APFD06JASW","brand":"GE","category":"PORTABLE_AIR_CONDITIONERS","price":349,"quantity":1},"context":{"page":{"url":"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961","title":"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner in the Portable Air Conditioners department at Lowes.com"}},"timestamp":1628659892.355}]}
+--Response 
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Date: Wed, 11 Aug 2021 05:31:32 GMT
+Content-Length: 7
+Connection: keep-alive
+----
+

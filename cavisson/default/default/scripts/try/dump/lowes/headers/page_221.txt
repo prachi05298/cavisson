@@ -1,0 +1,31 @@
+--Request 
+OPTIONS https://api.revlifter.io/v1/kinesis-collect
+Host: api.revlifter.io
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type,x-requested-with
+Origin: https://www.lowes.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/json
+content-length: 0
+date: Wed, 11 Aug 2021 05:31:37 GMT
+x-amzn-requestid: 87d92952-a704-4e7f-b46e-ec41a2dff508
+access-control-allow-origin: *
+access-control-allow-headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,X-Requested-With
+x-amz-apigw-id: D4wNEFESDoEFt5Q=
+access-control-allow-methods: POST,OPTIONS
+x-cache: Miss from cloudfront
+via: 1.1 0955350518c2b6b9de47200fe8a193ae.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: 2fv_KREC1mftJsvRxx1dBrFZier6cAfak_OwUXX6TVsjr6nUJxK9VA==
+----
+

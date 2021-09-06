@@ -1,0 +1,26 @@
+--Request 
+GET https://network.bazaarvoice.com/id.json?_=yet2xm&callback=_bvajsonp1
+Host: network.bazaarvoice.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: BVID=991ae592-5b46-456e-838c-770a83d60db8; BVSID=63189ce3-a47e-47d2-88df-9a65810a24d7
+----
+--Response 
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-transform
+Content-Type: application/javascript
+Date: Wed, 11 Aug 2021 05:31:28 GMT
+Server: nginx/1.12.1
+Vary: Accept-Encoding
+Content-Length: 123
+Connection: keep-alive
+----
+

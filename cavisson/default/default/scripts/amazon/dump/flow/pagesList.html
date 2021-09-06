@@ -1,0 +1,81 @@
+<!-- NetStorm GUI4  -->
+<html>
+<head><title>Page Response Snapshots for recorded script</title></head>
+<!-- Title of the screen -->
+  <link rel="stylesheet" href="/netstorm/css/Netstorm.css" type="text/css" /link>
+  <script language="javascript">
+
+    function showRecordedPageOnFrame(url)
+    {
+      parent.Dump.location = url;
+    }
+    //These functions highlight the row when we pass/hover on current row
+    function over(row)
+    {
+      row.oldBackgroundColor = row.style.backgroundColor;
+      row.style.backgroundColor = 'FFFFCC';
+    }
+
+    function out(row)
+    {
+      row.style.backgroundColor = row.oldBackgroundColor;
+    }
+
+    function highLightRow(rowId)
+    {
+      var newElement = document.getElementById(rowId);
+      if(typeof(oldElement)!='undefined'){
+        oldElement.style.backgroundColor = oldElement.oldBackgroundColor;}
+      newElement.oldBackgroundColor = newElement.style.backgroundColor;
+      newElement.style.backgroundColor = "#FFCC00";
+      oldElement = newElement;  } 
+</script>
+</head>
+<body onLoad=showRecordedPageOnFrame('www.amazon.com/index');highLightRow('0');>
+  <form id="form1" name="form1" method="post" action="">
+       <table border="0" bordercolor= red cellpadding=0 cellspacing=0 style = "width:100%;height:60px;background-color:#F2F2F2;background-repeat:repeat-x;" height=20><tr><td width=15% align=left valign=middle><table width = 100%><tr><td width = 100%><img src=/netstorm/images/logo.png></td></tr></table></td><td width = 85% align=center valign=middle><table border=0 bordercolor= green width=100% cellpadding=0 cellspacing=0><tr><td align=center class=screenTitle>Script Page Snapshots - default/scripts/amazon</td></tr></table></td></tr></table> 
+       <table border='0' bordercolor= blue cellpadding=0 cellspacing=0 id=text>
+       <tr><td align="center">
+       <br /><br /></table>
+       <table cellpadding="0" cellspacing="0" class="table" width="98%" align="center" max-width=1200px>
+       <tr><td colspan="2" align="center" valign="top">
+       <table width =" 100%" border="0"  align =" center" cellpadding =" 0" cellspacing =" 0" id="table02" style="width:100%; display;">
+       <tr align="center" class="tableHeader">
+       <td height="20"><b>Page Number</b></td>
+       <td><b>Page Name</b></td>
+ <tr align="center" class="tableRowOdd" id ='0'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('0');><a href=javascript:showRecordedPageOnFrame('./headers/page_1.txt')>01</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('0');><a href=javascript:showRecordedPageOnFrame('./www.amazon.com/index')>index</a></span></td>
+ <tr align="center" class="tableRowEven" id ='1'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('1');><a href=javascript:showRecordedPageOnFrame('./headers/page_2.txt')>02</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('1');><a href=javascript:showRecordedPageOnFrame('./www.amazon.com/s_k%3Damazonbasics_pf_rd_r%3DG6X1Y8N0VBKZCV7W5WAF_pf_rd_p%3D9349ffb9-3aaa-476f-8532-6a4a5c3da3e7_pd_rd_r%3D79f26495-9626-4510-8')>s_2</a></span></td>
+ <tr align="center" class="tableRowOdd" id ='2'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('2');><a href=javascript:showRecordedPageOnFrame('./headers/page_3.txt')>03</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('2');><a href=javascript:showRecordedPageOnFrame('./www.amazon.com/s_k%3Damazonbasics_pd_rd_r%3D79f26495-9626-4510-8f55-d64b6f346b52_pd_rd_w%3DZOtZ7_pd_rd_wg%3DEpste_pf_rd_p%3D9349ffb9-3aaa')>s</a></span></td>
+ <tr align="center" class="tableRowEven" id ='3'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('3');><a href=javascript:showRecordedPageOnFrame('./headers/page_4.txt')>04</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('3');><a href=javascript:showRecordedPageOnFrame('./unagi.amazon.com/1/events/com.amazon.csm.csa.prod_12')>com_amazon_csm_csa_prod</a></span></td>
+ <tr align="center" class="tableRowOdd" id ='4'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('4');><a href=javascript:showRecordedPageOnFrame('./headers/page_5.txt')>05</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('4');><a href=javascript:showRecordedPageOnFrame('./images-na.ssl-images-amazon.com/images/I/41cyy9szMwL._RC_71nFPTOCi5L.js_016tgkOMMNL.js_61xHIeZiYDL.js_41gNKoK0s7L.js_11IfQ013-vL.js_21_3')>ref_sr_1_2_sspa</a></span></td>
+ <tr align="center" class="tableRowEven" id ='5'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('5');><a href=javascript:showRecordedPageOnFrame('./headers/page_6.txt')>06</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('5');><a href=javascript:showRecordedPageOnFrame('./unagi.amazon.com/1/events/com.amazon.csm.csa.prod_16')>com_amazon_csm_csa_prod_2</a></span></td>
+ <tr align="center" class="tableRowOdd" id ='6'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('6');><a href=javascript:showRecordedPageOnFrame('./headers/page_7.txt')>07</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('6');><a href=javascript:showRecordedPageOnFrame('./www.amazon.com/gp/product/handle-buy-box/ref%3Ddp_start-bbf_1_glance')>ref_dp_start_bbf_1_glance</a></span></td>
+ <tr align="center" class="tableRowEven" id ='7'>
+     <td height="20" valign =" middle"><span onClick = highLightRow('7');><a href=javascript:showRecordedPageOnFrame('./headers/page_8.txt')>08</a></span></td>
+<td valign =" middle" ><span onClick = highLightRow('7');><a href=javascript:showRecordedPageOnFrame('./www.amazon.com/ap/signin__encoding%3DUTF8_openid.assoc_handle%3Damazon_checkout_us_openid.claimed_id%3Dhttp_3A_2F_2Fspecs.openid.net_2Fauth_')>signin</a></span></td>
+ </td></tr>
+ </table>
+ </table>
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <br>
+<br>
+<tr>
+ </table>
+<br/>
+</form>
+</body>
+</html>

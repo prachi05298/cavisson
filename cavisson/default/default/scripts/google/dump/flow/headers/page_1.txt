@@ -1,0 +1,1453 @@
+--Request 
+GET https://www.google.com/
+Host: www.google.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Thu, 26 Aug 2021 06:32:09 GMT
+expires: -1
+cache-control: private, max-age=0
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000
+bfcache-opt-in: unload
+p3p: CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"
+content-encoding: br
+server: gws
+content-length: 42113
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: 1P_JAR=2021-08-26-06; expires=Sat, 25-Sep-2021 06:32:09 GMT; path=/; domain=.google.com; Secure
+set-cookie: NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4; expires=Fri, 25-Feb-2022 06:32:09 GMT; path=/; domain=.google.com; Secure; HttpOnly
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/xjs/_/js/k=xjs.s.en_GB.Uj81MSuoybs.O/am=QEQACAAAAAAAAAAAAAAAChcEAgAAAIwBAAAAAAAAgBAAAYmDCQkAAECADTIvBQwAAIAABAZgjoACGFBEQAQBAAAAjsAXAPgbAPAIbMIBAAAAAACAALgEZqiBREEAAgAAAIBYrawIAEIACA/d=1/ed=1/dg=2/br=1/rs=ACT90oFiJKpkDPP6uJiO9-2n-HARaOzCNA/m=cdos,dpf,hsm,jsa,d,csi
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gws-team
+cross-origin-resource-policy: cross-origin
+content-length: 221682
+date: Wed, 25 Aug 2021 23:51:32 GMT
+expires: Thu, 25 Aug 2022 23:51:32 GMT
+last-modified: Wed, 25 Aug 2021 22:10:34 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 24037
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/external_hosted/createjs/createjs-2015.11.26.min.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+cross-origin-resource-policy: cross-origin
+content-length: 49674
+date: Thu, 26 Aug 2021 06:32:10 GMT
+expires: Thu, 26 Aug 2021 06:32:10 GMT
+last-modified: Thu, 03 Oct 2019 10:15:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 0
+cache-control: public, max-age=0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/external_hosted/cannonjs/cannon.min.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+cross-origin-resource-policy: cross-origin
+content-length: 36699
+date: Thu, 26 Aug 2021 06:32:10 GMT
+expires: Thu, 26 Aug 2021 06:32:10 GMT
+last-modified: Wed, 02 Dec 2020 17:15:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 0
+cache-control: public, max-age=0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/external_hosted/expr_eval/dist/bundle.min.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+cross-origin-resource-policy: cross-origin
+content-length: 6762
+date: Thu, 26 Aug 2021 06:32:10 GMT
+expires: Thu, 26 Aug 2021 06:32:10 GMT
+last-modified: Wed, 02 Dec 2020 17:15:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 0
+cache-control: public, max-age=0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/CTA-Swimming-174787828-174787766.png
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 5779
+date: Mon, 23 Aug 2021 17:42:53 GMT
+expires: Tue, 23 Aug 2022 17:42:53 GMT
+last-modified: Sat, 21 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 218956
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/CTA-CenteredPlayButtonFrame1.png
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 383
+date: Mon, 23 Aug 2021 14:02:09 GMT
+expires: Tue, 23 Aug 2022 14:02:09 GMT
+last-modified: Sat, 21 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 232200
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/CTA-OffsetPlayButtonFrame1.png
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 382
+date: Mon, 23 Aug 2021 15:55:13 GMT
+expires: Tue, 23 Aug 2022 15:55:13 GMT
+last-modified: Sat, 21 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 225416
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/images/searchbox/desktop_searchbox_sprites318_hr.webp
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/webp
+cross-origin-resource-policy: cross-origin
+content-length: 660
+date: Thu, 26 Aug 2021 06:32:09 GMT
+expires: Thu, 26 Aug 2021 06:32:09 GMT
+cache-control: private, max-age=31536000
+last-modified: Wed, 22 Apr 2020 22:00:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/og/_/js/k=og.qtm.en_US.eyZtLN7gU00.O/rt=j/m=qabr,q_d,qcwid,qapid,qald/exm=qaaw,qadd,qaid,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhpr/d=1/ed=1/rs=AA2YrTvbnfZ7vgSllYOF3f_IHBGeFFy7Mg
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: gzip
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/one-google-eng
+cross-origin-resource-policy: cross-origin
+content-length: 61255
+date: Mon, 23 Aug 2021 20:05:57 GMT
+expires: Tue, 23 Aug 2022 20:05:57 GMT
+last-modified: Sat, 21 Aug 2021 01:42:21 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 210373
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/og/_/ss/k=og.qtm.nPcbsUYOAq8.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhpr/d=1/ed=1/ct=zgms/rs=AA2YrTvLFQTd9rUB9amODovfQRc7a3U40A
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/css,*/*;q=0.1
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: gzip
+content-type: text/css; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/one-google-eng
+cross-origin-resource-policy: cross-origin
+content-length: 228
+date: Thu, 19 Aug 2021 09:38:13 GMT
+expires: Fri, 19 Aug 2022 09:38:13 GMT
+last-modified: Tue, 17 Aug 2021 01:45:17 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 593637
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&ei=aTUnYfDUA6zO1sQPyr2bCA&rt=wsrt.1260,aft.442&imn=0&ima=0&imad=0&aftp=-1&bl=qA29
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.google.com
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 204
+content-type: text/html; charset=UTF-8
+bfcache-opt-in: unload
+date: Thu, 26 Aug 2021 06:32:10 GMT
+server: gws
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/xjs/_/js/k=xjs.s.en_GB.Uj81MSuoybs.O/ck=xjs.s.9M0QE2ANYsI.L.W.O/am=QEQACAAAAAAAAAAAAAAAChcEAgAAAIwBAAAAAAAAgBAAAYmDCQkAAECADTIvBQwAAIAABAZgjoACGFBEQAQBAAAAjsAXAPgbAPAIbMIBAAAAAACAALgEZqiBREEAAgAAAIBYrawIAEIACA/d=1/exm=cdos,csi,d,dpf,hsm,jsa/ed=1/dg=2/br=1/rs=ACT90oHosecQbYjTGFrTk0-z-5WS1N3IbQ/m=DhPYme,EkevXb,NzU6V,Tia57b,aa,abd,async,dvl,fKZehd,mu,pHXghd,sb_wiz,sf,sonic,spch?xjs=s1
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gws-team
+cross-origin-resource-policy: cross-origin
+content-length: 79310
+date: Wed, 25 Aug 2021 23:51:33 GMT
+expires: Thu, 25 Aug 2022 23:51:33 GMT
+last-modified: Wed, 25 Aug 2021 22:10:34 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 24037
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/client_204?&atyp=i&biw=1366&bih=607&ei=aTUnYfDUA6zO1sQPyr2bCA
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 204
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000
+bfcache-opt-in: unload
+date: Thu, 26 Aug 2021 06:32:10 GMT
+server: gws
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: 1P_JAR=2021-08-26-06; expires=Sat, 25-Sep-2021 06:32:10 GMT; path=/; domain=.google.com; Secure
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.7RphtNcGHDQ.O/m=gapi_iframes,googleapis_client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_-zmYhp_Ir7_CCxM3l-AckMvaI9A/cb=gapi.loaded_0
+Host: apis.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/social-frontend-mpm-access
+cross-origin-resource-policy: cross-origin
+content-length: 36576
+date: Tue, 24 Aug 2021 16:06:09 GMT
+expires: Wed, 24 Aug 2022 16:06:09 GMT
+last-modified: Mon, 09 Aug 2021 20:02:08 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 138362
+cache-control: public, max-age=31536000
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://ogs.google.com/widget/callout?prid=19019113&pgid=19019112&puid=3fc84c0df4dbfbbf&cce=1&dc=1&bc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en
+Host: ogs.google.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+content-type: text/html; charset=utf-8
+x-frame-options: ALLOW-FROM https://www.google.com
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+expires: Thu, 26 Aug 2021 06:32:10 GMT
+date: Thu, 26 Aug 2021 06:32:10 GMT
+cache-control: private, max-age=3600
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-FOB3vajhL+8oSNCyuQh5uQ' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri /_/OneGoogleWidgetUi/cspreport;worker-src 'self'
+content-security-policy: script-src 'nonce-FOB3vajhL+8oSNCyuQh5uQ' 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/OneGoogleWidgetUi/cspreport;frame-ancestors https://www.google.com
+cross-origin-resource-policy: same-site
+cross-origin-opener-policy: same-origin; report-to=\"OneGoogleWidgetUi\"
+report-to: {\"group\":\"OneGoogleWidgetUi\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/OneGoogleWidgetUi/external\"}]}
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/CTA-OffsetPlayButtonFrame2.png
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 338
+date: Mon, 23 Aug 2021 18:09:11 GMT
+expires: Tue, 23 Aug 2022 18:09:11 GMT
+last-modified: Sat, 21 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 217379
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=136
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/kitsune20.js
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 202385
+date: Mon, 23 Aug 2021 14:02:10 GMT
+expires: Tue, 23 Aug 2022 14:02:10 GMT
+last-modified: Sat, 21 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 232200
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/xjs/_/js/k=xjs.s.en_GB.Uj81MSuoybs.O/ck=xjs.s.9M0QE2ANYsI.L.W.O/am=QEQACAAAAAAAAAAAAAAAChcEAgAAAIwBAAAAAAAAgBAAAYmDCQkAAECADTIvBQwAAIAABAZgjoACGFBEQAQBAAAAjsAXAPgbAPAIbMIBAAAAAACAALgEZqiBREEAAgAAAIBYrawIAEIACA/d=1/exm=DhPYme,EkevXb,NzU6V,Tia57b,aa,abd,async,cdos,csi,d,dpf,dvl,fKZehd,hsm,jsa,mu,pHXghd,sb_wiz,sf,sonic,spch/ed=1/dg=2/br=1/rs=ACT90oHosecQbYjTGFrTk0-z-5WS1N3IbQ/m=LtQuz?xjs=s2
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gws-team
+cross-origin-resource-policy: cross-origin
+content-length: 649
+date: Thu, 26 Aug 2021 00:16:02 GMT
+expires: Fri, 26 Aug 2022 00:16:02 GMT
+last-modified: Wed, 25 Aug 2021 22:10:34 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 22568
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/complete/search?q&cp=0&client=gws-wiz&xssi=t&hl=en-IN&authuser=0&psi=aTUnYfDUA6zO1sQPyr2bCA.1629959530820&nolsbt=1&dpr=1
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=3600
+content-type: application/json; charset=UTF-8
+strict-transport-security: max-age=31536000
+bfcache-opt-in: unload
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: br
+server: gws
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/xjs/_/js/k=xjs.s.en_GB.Uj81MSuoybs.O/ck=xjs.s.9M0QE2ANYsI.L.W.O/am=QEQACAAAAAAAAAAAAAAAChcEAgAAAIwBAAAAAAAAgBAAAYmDCQkAAECADTIvBQwAAIAABAZgjoACGFBEQAQBAAAAjsAXAPgbAPAIbMIBAAAAAACAALgEZqiBREEAAgAAAIBYrawIAEIACA/d=1/exm=DhPYme,EkevXb,LtQuz,NzU6V,Tia57b,aa,abd,async,cdos,csi,d,dpf,dvl,fKZehd,hsm,jsa,mu,pHXghd,sb_wiz,sf,sonic,spch/ed=1/dg=2/br=1/rs=ACT90oHosecQbYjTGFrTk0-z-5WS1N3IbQ/m=aLUfP?xjs=s2
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gws-team
+cross-origin-resource-policy: cross-origin
+content-length: 582
+date: Thu, 26 Aug 2021 00:16:03 GMT
+expires: Fri, 26 Aug 2022 00:16:03 GMT
+last-modified: Wed, 25 Aug 2021 22:10:34 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 22567
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/messages.en-GB.nocache.json
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+content-type: application/json
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 37915
+date: Thu, 26 Aug 2021 06:31:15 GMT
+expires: Thu, 26 Aug 2021 06:32:15 GMT
+last-modified: Tue, 24 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 56
+cache-control: public, max-age=60
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/logos/2020/kitsune/rc7/preload-sprite.png
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.google.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-length: 898
+date: Mon, 23 Aug 2021 14:02:12 GMT
+expires: Tue, 23 Aug 2022 14:02:12 GMT
+last-modified: Sat, 21 Aug 2021 00:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 232199
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=109
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3NzbAdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=232
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.iRny_Wkefus.es5.O/am=WAAAEA/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/rs=AM-SdHuPKtODhSaGxuTNnaiNK93tgINM2g/m=_b,_tp
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: gzip
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/boq-infra/one-google-boq-js-css-signers
+cross-origin-resource-policy: cross-origin
+content-length: 58651
+date: Tue, 24 Aug 2021 14:20:09 GMT
+expires: Wed, 24 Aug 2022 14:20:09 GMT
+last-modified: Mon, 23 Aug 2021 04:46:17 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, immutable, max-age=31536000
+age: 144722
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/images/hpp/Chrome_Owned_96x96.png
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: image/png
+cross-origin-resource-policy: cross-origin
+content-length: 6177
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=31536000
+last-modified: Tue, 22 Oct 2019 18:30:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2
+Host: fonts.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://ogs.google.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: font/woff2
+access-control-allow-origin: *
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+cross-origin-resource-policy: cross-origin
+timing-allow-origin: *
+content-length: 21700
+date: Tue, 24 Aug 2021 08:49:14 GMT
+expires: Wed, 24 Aug 2022 08:49:14 GMT
+last-modified: Mon, 22 Apr 2019 23:43:33 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 164577
+cache-control: public, max-age=31536000
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+Host: fonts.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://ogs.google.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: font/woff2
+access-control-allow-origin: *
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+cross-origin-resource-policy: cross-origin
+timing-allow-origin: *
+content-length: 15344
+date: Tue, 24 Aug 2021 18:41:02 GMT
+expires: Wed, 24 Aug 2022 18:41:02 GMT
+last-modified: Mon, 16 Oct 2017 17:32:55 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 129069
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABBWZvbnRzB2dzdGF0aWMDY29tAAABAAEAACkQAAAAAAAAUgAMAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=299
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=184
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/external_hosted/pixelmplus_font/PixelMplus10-Regular.ttf
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.google.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: font/ttf
+access-control-allow-origin: *
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/webmaster/gstatic
+cross-origin-resource-policy: cross-origin
+content-length: 321357
+date: Tue, 24 Aug 2021 08:45:32 GMT
+expires: Tue, 31 Aug 2021 08:45:32 GMT
+last-modified: Tue, 03 Mar 2020 02:15:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+age: 164799
+cache-control: public, max-age=604800
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/gen_204?atyp=i&zx=1629959531805&ogsr=1&ei=aTUnYYDgBM3X1sQPhr60iAM&ct=7&cad=i&id=19019113&loc=webhp&prid=538&ogd=co.in&ogprm=up&ap=1&vis=1
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4; OGPC=19019112-1:
+----
+--Response 
+HTTP/1.1 204
+content-type: text/html; charset=UTF-8
+bfcache-opt-in: unload
+date: Thu, 26 Aug 2021 06:32:11 GMT
+server: gws
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: 1P_JAR=2021-08-26-06; expires=Sat, 25-Sep-2021 06:32:11 GMT; path=/; domain=.google.com; Secure
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://play.google.com/log?format=json&hasfast=true
+Host: play.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://www.google.com
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; NID=222=eu4ssy4T7ZNjMyY26tN69jmKLB45TS7S-Uz-gdG73H8HcypZFBwQthdOMb2w3-D0XtNAjYJ-0ajmL9F7Ciy4i0NJUsk4wjt9rTmLVn5AHjGw0tT_MoQcMy-lYuI2q5-Q5c1PCpApM0J_rFT7ixxneNkQd6japTYYlFzx-h7YtM4; OGPC=19019112-1:
+----
+ POSTDATA [[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en-IN"]],373,[["1629959530863",null,[],null,null,null,null,"[108,40400,538,1,\"392334231.0\",\"aTUnYYDgBM3X1sQPhr60iAM\",null,null,null,\"en\",\"IND\",0,8,2204,null,false,false,null,\"og-8b4f062f-9c87-4a9e-a2bf-f5d9025dbe75\",null,null,null,null,null,true,false,0,null,null,null,19019113,null,null,true,null,false,null,1,null,null,null,null,null,null,null,null,null,true,null,[false,2],null,null,null,null,false]",null,null,null,null,null,null,-19800,[null,[],null,"[[],[],[3700817,3700830],[]]"],null,null,null,[],1,null,null,null,null,null,[]],["1629959530871",null,[],null,null,null,null,"[107,40400,538,1,\"392334231.0\",\"aTUnYYDgBM3X1sQPhr60iAM\",null,null,null,\"en\",\"IND\",0,8,2213,null,false,false,null,\"og-8b4f062f-9c87-4a9e-a2bf-f5d9025dbe75\",null,null,null,null,null,true,false,8,null,null,null,19019113,null,null,true,null,false,null,2,null,null,null,null,null,null,null,null,null,true,null,[false,2],null,null,null,null,false]",null,null,null,null,null,null,-19800,[null,[],null,"[[],[],[3700817,3700830],[]]"],null,null,null,[],2,null,null,null,null,null,[]],["1629959531799",null,[],null,null,null,null,"[109,40400,538,1,\"392334231.0\",\"aTUnYYDgBM3X1sQPhr60iAM\",null,null,null,\"en\",\"IND\",0,8,3141,null,false,false,null,\"og-8b4f062f-9c87-4a9e-a2bf-f5d9025dbe75\",null,null,null,null,null,true,false,32936,null,null,null,19019113,null,null,true,null,false,null,3,null,null,null,null,null,null,null,null,null,true,null,[false,2],null,null,null,null,false]",null,null,null,null,null,null,-19800,[null,[],null,"[[],[],[3700817,3700830],[]]"],null,null,null,[],3,null,null,null,null,null,[]],["1629959531806",null,[],null,null,null,null,"[36,40400,538,1,\"392334231.0\",\"aTUnYYDgBM3X1sQPhr60iAM\",null,null,null,\"en\",\"IND\",0,8,3148,null,false,false,null,\"og-8b4f062f-9c87-4a9e-a2bf-f5d9025dbe75\",null,null,null,null,null,true,false,32938,null,null,null,19019113,null,null,true,null,null,null,4,-1,null,null,null,76,256,965,1335,null,true,null,[false,2,30,false,false],null,null,null,null,false]",null,null,null,null,null,null,-19800,[null,[],null,"[[],[],[3700817,3700830],[]]"],null,null,null,[],4,null,null,null,null,null,[]]],"1629959531864",[],null,null,null,null,null,null,null,null,0]
+--Response 
+HTTP/1.1 200
+p3p: CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"
+access-control-allow-origin: https://www.google.com
+cross-origin-resource-policy: cross-origin
+access-control-allow-credentials: true
+access-control-allow-headers: X-Playlog-Web
+content-type: text/plain; charset=UTF-8
+content-encoding: gzip
+date: Thu, 26 Aug 2021 06:32:11 GMT
+server: Playlog
+cache-control: private
+content-length: 131
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA; expires=Fri, 25-Feb-2022 06:32:11 GMT; path=/; domain=.google.com; Secure; HttpOnly
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABBHBsYXkGZ29vZ2xlA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:11 GMT
+expires: Thu, 26 Aug 2021 06:32:11 GMT
+cache-control: private, max-age=101
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.iRny_Wkefus.es5.O/ck=boq-one-google.OneGoogleWidgetUi.JPk-aNkftDA.L.B1.O/am=WAAAEA/d=1/exm=_b,_tp/excm=_b,_tp,calloutview/ed=1/wt=2/rs=AM-SdHuqGlTqF50PcbuHE8DjFQoN0CMcIw/m=byfTOb,lsjVmc,LEikZe
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: gzip
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/boq-infra/one-google-boq-js-css-signers
+cross-origin-resource-policy: cross-origin
+content-length: 13259
+date: Tue, 24 Aug 2021 11:02:37 GMT
+expires: Wed, 24 Aug 2022 11:02:37 GMT
+last-modified: Sun, 22 Aug 2021 15:48:37 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, immutable, max-age=31536000
+age: 156574
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.iRny_Wkefus.es5.O/ck=boq-one-google.OneGoogleWidgetUi.JPk-aNkftDA.L.B1.O/am=WAAAEA/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,calloutview/ed=1/wt=2/rs=AM-SdHuqGlTqF50PcbuHE8DjFQoN0CMcIw/m=n73qwf,ws9Tlc,IZT63,e5qFLc,GkRiKb,UUJqVe,O1Gjze,xUdipf,blwjVc,fKUV3e,aurFic,COQbmf,U0aPgd,ZwDk9d,V3dDOb,mI3LFb,O6y8ed,PrPYRd,MpJwZc,NwH0H,OmgaI,lazG7b,XVMNvd,L1AAkb,KUM7Z,lfpdyf,s39S4,lwddkf,gychg,w9hDv,RMhBfe,SdcwHb,aW3pY,PQaYAf,pw70Gc,EFQ78c,Ulmmrd,ZfAoz,mdR7q,MdUzUe,xQtZb,lPKSwe,JNoxi,MI6k7c,kjKdXe,yDVVkb,QIhFr,hKSk3e,KG2eXe,hc6Ubd,SpsfSb,VwDzFe,zbML3c,A7fCU,Uas9Hd,BVgquf,lsPsHb,pjICDe,hnN99e,yYB61
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: gzip
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/boq-infra/one-google-boq-js-css-signers
+cross-origin-resource-policy: cross-origin
+content-length: 79680
+date: Tue, 24 Aug 2021 23:01:23 GMT
+expires: Wed, 24 Aug 2022 23:01:23 GMT
+last-modified: Sun, 22 Aug 2021 15:48:37 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, immutable, max-age=31536000
+age: 113448
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+OPTIONS https://play.google.com/log?format=json&hasfast=true&authuser=0
+Host: play.google.com
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: x-goog-authuser
+Origin: https://ogs.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://ogs.google.com
+access-control-allow-methods: GET, POST, OPTIONS
+access-control-max-age: 86400
+access-control-allow-credentials: true
+access-control-allow-headers: X-Playlog-Web,authorization,origin,x-goog-authuser
+content-type: text/plain; charset=UTF-8
+date: Thu, 26 Aug 2021 06:32:12 GMT
+server: Playlog
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.iRny_Wkefus.es5.O/ck=boq-one-google.OneGoogleWidgetUi.JPk-aNkftDA.L.B1.O/am=WAAAEA/d=1/exm=A7fCU,BVgquf,COQbmf,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,MpJwZc,NwH0H,O1Gjze,O6y8ed,OmgaI,PQaYAf,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,blwjVc,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,hnN99e,kjKdXe,lPKSwe,lazG7b,lfpdyf,lsPsHb,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,pjICDe,pw70Gc,s39S4,w9hDv,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c/excm=_b,_tp,calloutview/ed=1/wt=2/rs=AM-SdHuqGlTqF50PcbuHE8DjFQoN0CMcIw/m=Wt6vjf,_latency,FCpbqb,WhJNk
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: gzip
+content-type: text/javascript; charset=UTF-8
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/boq-infra/one-google-boq-js-css-signers
+cross-origin-resource-policy: cross-origin
+content-length: 2904
+date: Tue, 24 Aug 2021 11:02:37 GMT
+expires: Wed, 24 Aug 2022 11:02:37 GMT
+last-modified: Sun, 22 Aug 2021 15:48:37 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, immutable, max-age=31536000
+age: 156575
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://www.google.com/gen_204?atyp=csi&ei=aTUnYfDUA6zO1sQPyr2bCA&s=webhp&t=all&bl=qA29&imn=0&ima=0&imad=0&aftp=-1&adh=&conn=onchange&ime=0&imex=0&imeh=0&imea=0&imeb=0&wh=607&scp=0&mem=ujhs.17,tjhs.24,jhsl.1099,dm.8&sto=&sys=hc.4&rt=aft.442,aftqf.445,prt.442,iml.442,xjses.685,xjsee.863,xjs.863,dcl.865,ol.2595,wsrt.1260,cst.309,dnst.128,rqst.818,rspt.123,sslt.232,rqstt.565,unt.80,cstt.254,dit.1705&zx=1629959532519
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.google.com
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; OGPC=19019112-1:; NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 204
+content-type: text/html; charset=UTF-8
+bfcache-opt-in: unload
+date: Thu, 26 Aug 2021 06:32:12 GMT
+server: gws
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://adservice.google.com/adsid/google/ui
+Host: adservice.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; OGPC=19019112-1:; NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA
+----
+--Response 
+HTTP/1.1 204
+p3p: CP=\"This is not a P3P policy! See http://support.google.com/accounts/answer/151657 for more info.\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+cache-control: private, max-age=15
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:12 GMT
+server: cafe
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/manifest?pwa=webhp
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; OGPC=19019112-1:; NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA
+----
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=UTF-8
+cache-control: public, max-age=3600
+strict-transport-security: max-age=31536000
+bfcache-opt-in: unload
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: br
+date: Thu, 26 Aug 2021 06:32:12 GMT
+server: gws
+content-length: 124
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABCWFkc2VydmljZQZnb29nbGUDY29tAAABAAEAACkQAAAAAAAATwAMAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:32:12 GMT
+expires: Thu, 26 Aug 2021 06:32:12 GMT
+cache-control: private, max-age=169
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://play.google.com/log?format=json&hasfast=true
+Host: play.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://ogs.google.com
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; OGPC=19019112-1:; NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA
+----
+ POSTDATA [[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en",null,"boq_onegooglehttpserver_20210823.01_p0"]],241,[["1629959532595",null,[],null,null,null,null,"[1629959532589,[[\"2397168675742140944\",null,[[591,1]]],[\"16147638372540442232\",null,[[629,1]]],[\"14719340685975485085\",null,[[1299,1]]],[\"17077408715954654437\",null,[[1605,1]]],[\"3318688667027929436\",null,[[600,1]]],[\"5790177495296899286\",null,[[85,1]]],[\"16829267986558572790\",null,[[286,1]]],[\"16339156775003354937\",null,[[191,1]]],[\"749851692583976763\",null,[[24,1]]],[\"15419336178855610526\",null,[[569,1]]],[\"17276521865292187132\",null,[[2,1]]],[\"8257051839445688306\",null,[[1604,1]]],[\"7792735449360349632\",null,[[1605,1]]],[\"12542193546769209995\",null,[[961,1]]],[\"16254156456118481799\",null,[[961,1]]],[\"13622174389243279923\",null,[[1413,1]]],[\"7094487270460551484\",null,[[6,1]]],[\"12563104964214410683\",null,[[1506,1]]],[\"15605813632677093659\",null,[[582,1]]],[\"17914751415692637656\",null,[[3,1]]],[\"9797767207516844257\",null,[[1,1]]],[\"4553553160178503526\",null,[[928,1]]],[\"15768337714740149157\",null,[[928,1]]],[\"7099598553576769501\",null,[[0,1]]],[\"14906952326733574741\",null,[[2,1]]],[\"4891744519482609478\",null,[[816,1]]],[\"14307859671070593733\",null,[[798,1]]],[\"7494582641517049914\",null,[[0,1]]],[\"6667106912793420619\",null,[[1,1]]],[\"8147743178319688099\",null,[[928,1]]],[\"13378126313938116970\",null,[[928,1]]],[\"8519598536373642887\",null,[[0,1]]],[\"10118692516388306266\",null,[[0,1]]],[\"6342145065879578001\",null,[[3,1]]],[\"13596961294000664596\",null,[[913,1]]],[\"2107494750385856652\",null,[[323,1]]],[\"1309831198388189068\",null,[[3,1]]],[\"522022639063469804\",null,[[150,1]]],[\"4950535922500196698\",null,[[1048,1]]],[\"1757184925777806825\",null,[[22,1]]],[\"3079121564595244695\",null,[[16,1]]],[\"10652791942255425261\",null,[[6772,1]]],[\"4132870161583308123\",null,[[114,1]]]],null,null,\"[1,\\\"HgvS1c_PL\\\"]\"]",null,null,null,1190821658,null,null,-19800,[null,[],null,"[[],[],[1763433,1772879,45814370],[]]"],null,null,null,[],1,null,null,null,null,null,[]]],"1629959532595",[],null,null,null,null,null,null,null,null,0]
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://ogs.google.com
+cross-origin-resource-policy: cross-origin
+access-control-allow-credentials: true
+access-control-allow-headers: X-Playlog-Web
+content-type: text/plain; charset=UTF-8
+content-encoding: gzip
+date: Thu, 26 Aug 2021 06:32:12 GMT
+server: Playlog
+cache-control: private
+content-length: 131
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://play.google.com/log?format=json&hasfast=true&authuser=0
+Host: play.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+X-Goog-AuthUser: 0
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://ogs.google.com
+X-Client-Data: CMKFywE=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ogs.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2021-08-26-06; OGPC=19019112-1:; NID=222=sx_FPW90NNSjFLbSoVV1pEx0XeSWTA1u_D9cfVFQYA8QmX_fzmeGxd7Rd5O1CzkfmdYyFGiOUIXzZH5ZyuB_k-P0LC5PB2QQmX38n1DXZSsOz2Hd891yAqB5IuugaCwUkQWjdWl7LBzg1BdOehGCuQ4hjvVT2LyxiW5ybWj2kxA
+----
+ POSTDATA [[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en",null,"boq_onegooglehttpserver_20210823.01_p0"]],729,[["1629959532467",null,[],null,null,null,null,"[[[70881,null,[],null],538,[]]]",null,null,null,null,null,null,-19800,null,null,null,null,[],1,null,null,null,null,null,[]]],"1629959532468",[],null,null,null,null,null,null,null,null,0]
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://ogs.google.com
+cross-origin-resource-policy: cross-origin
+access-control-allow-credentials: true
+access-control-allow-headers: X-Playlog-Web
+content-type: text/plain; charset=UTF-8
+content-encoding: gzip
+date: Thu, 26 Aug 2021 06:32:12 GMT
+server: Playlog
+cache-control: private
+content-length: 131
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

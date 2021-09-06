@@ -1,0 +1,192 @@
+--Request 
+POST https://ct.pinterest.com/md/
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"urls":{"loc":"https://vice1.lowescdn.com/cart"},"aux":{"micro_s":940},"tid":"2615619520270"}
+--Response 
+HTTP/1.1 204
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+access-control-allow-origin: *
+x-envoy-upstream-service-time: 1
+referrer-policy: origin
+x-pinterest-rid: 6825352592505707
+date: Wed, 11 Aug 2021 05:31:39 GMT
+x-cdn: fastly
+----
+--Request 
+GET https://nebula-cdn.kampyle.com/wu/392339/onsite/embed.js
+Host: nebula-cdn.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:39 GMT
+via: 1.1 varnish
+cache-control: max-age=0,must-revalidate
+age: 235087
+x-served-by: cache-bom4724-BOM
+x-cache: HIT
+x-cache-hits: 2042
+x-timer: S1628659900.716187,VS0,VE0
+vary: Accept-Encoding
+x-amz-id-2: 5Fc/Fu3rRotD3TjGfORY1Me02/PRm1JVVZWu1XMYO8AvFwD2uWmftFv06wNJxvZGcdHE9uidMk4=
+x-amz-request-id: HT1GA4GK20YA9QH8
+last-modified: Thu, 29 Jul 2021 12:43:07 GMT
+etag: \"a236457d877ed004ad2440c518aada82\"
+x-amz-version-id: ZnmhQwDsO7W8zlZmaDEe38TNQSE_HFp9
+content-type: application/javascript
+server: AmazonS3
+access-control-allow-origin: *
+content-encoding: gzip
+accept-ranges: bytes
+content-length: 664
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC75823becabb5495994ee06e85292e064-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 444
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:51 GMT
+date: Wed, 11 Aug 2021 05:30:51 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCa737427ceb15428aa0cc62aee1513675-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 532
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:52 GMT
+date: Wed, 11 Aug 2021 05:30:52 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://services.sdiapi.com/reporter/1.0.5.1/worker.js
+Host: services.sdiapi.com
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: sharedworker
+Referer: https://services.sdiapi.com/reporter/1.0.5.1/reporter.html
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript
+date: Wed, 04 Aug 2021 15:10:54 GMT
+last-modified: Mon, 07 Jun 2021 17:08:22 GMT
+etag: W/\"4283b755f3edc617fb55035fb631b14a\"
+cache-control: public, max-age=604800, immutable
+server: AmazonS3
+content-encoding: gzip
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 8612b2f6212112bc5254da9f265687ac.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: SGAPiBm8ottuhMGPJvcb1d-a5dBOZTAJkddU1orS93Le03URwc4NoQ==
+age: 570046
+----
+--Request 
+GET https://nebula-cdn.kampyle.com/us/wu/392339/onsite/generic1627562585749.js
+Host: nebula-cdn.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-amz-id-2: 4GW7qpIIPn33rrFWd/aFC1YPHNWyt5nSsSCMf4JhrvwyWumlG6/n9SBXDdkOHDjMS7s8C4J5G6w=
+x-amz-request-id: 4ANJ40Q9ZHZQYH9J
+last-modified: Thu, 29 Jul 2021 12:43:07 GMT
+etag: \"5bb0932bdff7b2ea6561c186db73e999\"
+x-amz-version-id: tIuGlVCEo1emctoXQE0oQ.2N3AKeI14L
+content-type: application/javascript
+server: AmazonS3
+access-control-allow-origin: *
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:52 GMT
+via: 1.1 varnish
+x-served-by: cache-bom4724-BOM
+x-cache: HIT
+x-cache-hits: 31
+x-timer: S1628659852.116280,VS0,VE0
+vary: Accept-Encoding
+age: 0
+cache-control: max-age=31536000
+content-length: 80705
+----
+

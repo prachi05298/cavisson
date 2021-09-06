@@ -1,0 +1,822 @@
+--Request 
+GET https://www.mygov.in/sites/default/files/covid/covid_state_counts_ver1.json?timestamp=1629959400
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: application/json
+Last-Modified: Thu, 26 Aug 2021 06:30:17 GMT
+ETag: W/\"612734f9-47ef\"
+x-url: /sites/default/files/covid/covid_state_counts_ver1.json?timestamp=1629959400
+x-host: www.mygov.in
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Content-Length: 6007
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/Transforming-india-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 10 Jan 2019 06:41:47 GMT
+ETag: \"5c36e92b-10d2\"
+x-url: /footer_service/images/Transforming-india-logo.png
+x-host: www.mygov.in
+Content-Length: 4306
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136190
+Expires: Sun, 10 Aug 2031 02:36:37 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/innovation-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 20 Dec 2018 10:02:24 GMT
+ETag: \"5c1b68b0-513\"
+x-url: /footer_service/images/innovation-logo.png
+x-host: www.mygov.in
+Content-Length: 1299
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314434928
+Expires: Wed, 13 Aug 2031 13:35:35 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/swachh-bharat.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 20 Dec 2018 10:02:26 GMT
+ETag: \"5c1b68b2-4788\"
+x-url: /footer_service/images/swachh-bharat.png
+x-host: www.mygov.in
+Content-Length: 18312
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136147
+Expires: Sun, 10 Aug 2031 02:35:54 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/mygov_quiz.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 20 Dec 2018 10:02:26 GMT
+ETag: \"5c1b68b2-4cf2\"
+x-url: /footer_service/images/mygov_quiz.png
+x-host: www.mygov.in
+Content-Length: 19698
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136123
+Expires: Sun, 10 Aug 2031 02:35:30 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/blog-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 20 Dec 2018 10:02:23 GMT
+ETag: \"5c1b68af-621\"
+x-url: /footer_service/images/blog-logo.png
+x-host: www.mygov.in
+Content-Length: 1569
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136144
+Expires: Sun, 10 Aug 2031 02:35:51 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/itowe-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 20 Dec 2018 10:02:25 GMT
+ETag: \"5c1b68b1-b41\"
+x-url: /footer_service/images/itowe-logo.png
+x-host: www.mygov.in
+Content-Length: 2881
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136099
+Expires: Sun, 10 Aug 2031 02:35:06 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+POST https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=1293820340&t=pageview&_s=1&dl=https%3A%2F%2Fwww.mygov.in%2Fcovid-19&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%23IndiaFightsCorona%20COVID-19%20in%20India%2C%20Vaccination%2C%20Dashboard%20%2C%20Corona%20Virus%20Tracker%20%7C%20mygov.in&sd=24-bit&sr=1366x768&vp=1349x607&je=0&_u=YEBAAEABAAAAAC~&jid=1978396146&gjid=1068832526&cid=1482427205.1629959608&tid=UA-53326000-1&_gid=1332923724.1629959608&_r=1&_slc=1&z=2025661515
+Host: www.google-analytics.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.mygov.in
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://www.mygov.in
+date: Thu, 26 Aug 2021 06:33:28 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-type: text/plain
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 4
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://platform.twitter.com/widgets/widget_iframe.f88235f49a156f8b4cab34c7bc1a0acc.html?origin=https%3A%2F%2Fwww.mygov.in
+Host: platform.twitter.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: *
+Age: 644085
+Cache-Control: public, max-age=315360000
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Etag: \"8321d7cf58d70200c1423dfa0bca40f6+gzip\"
+Last-Modified: Mon, 02 Aug 2021 20:33:53 GMT
+P3P: CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\"
+Server: ECS (tir/CDD7)
+Vary: Accept-Encoding
+X-Cache: HIT
+x-tw-cdn: VZ
+Content-Length: 105433
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/e-greating.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 20 Dec 2018 10:02:23 GMT
+ETag: \"5c1b68af-4a1d\"
+x-url: /footer_service/images/e-greating.png
+x-host: www.mygov.in
+Content-Length: 18973
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136054
+Expires: Sun, 10 Aug 2031 02:34:21 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/digital-india-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Fri, 26 Aug 2016 09:11:46 GMT
+ETag: \"57c007d2-e3f\"
+x-url: /footer_service/images/digital-india-logo.png
+x-host: www.mygov.in
+Content-Length: 3647
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136152
+Expires: Sun, 10 Aug 2031 02:35:59 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/data-gov-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Fri, 26 Aug 2016 09:11:56 GMT
+ETag: \"57c007dc-99b\"
+x-url: /footer_service/images/data-gov-logo.png
+x-host: www.mygov.in
+Content-Length: 2459
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136239
+Expires: Sun, 10 Aug 2031 02:37:26 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/india-gov-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Thu, 24 Aug 2017 06:34:27 GMT
+ETag: \"599e7373-1a78\"
+x-url: /footer_service/images/india-gov-logo.png
+x-host: www.mygov.in
+Content-Length: 6776
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136100
+Expires: Sun, 10 Aug 2031 02:35:07 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/mygov-footer-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Fri, 26 Aug 2016 09:42:48 GMT
+ETag: \"57c00f18-d4d\"
+x-url: /footer_service/images/mygov-footer-logo.png
+x-host: www.mygov.in
+Content-Length: 3405
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314122179
+Expires: Sat, 09 Aug 2031 22:43:06 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/Meity_logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Fri, 26 Aug 2016 09:12:10 GMT
+ETag: \"57c007ea-16c3\"
+x-url: /footer_service/images/Meity_logo.png
+x-host: www.mygov.in
+Content-Length: 5827
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136113
+Expires: Sun, 10 Aug 2031 02:35:20 GMT
+Date: Thu, 26 Aug 2021 06:33:27 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.mygov.in/footer_service/images/pm-india-logo.png
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: has_js=1; _ga=GA1.2.1482427205.1629959608; _gid=GA1.2.1332923724.1629959608; _gat=1
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Fri, 26 Aug 2016 09:43:32 GMT
+ETag: \"57c00f44-e6c\"
+x-url: /footer_service/images/pm-india-logo.png
+x-host: www.mygov.in
+Content-Length: 3692
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 1
+Cache-Control: max-age=314136168
+Expires: Sun, 10 Aug 2031 02:36:16 GMT
+Date: Thu, 26 Aug 2021 06:33:28 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://syndication.twitter.com/settings?session_id=cd480de949f283d5f589409d55f6a5b8995b764b
+Host: syndication.twitter.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Origin: https://platform.twitter.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://platform.twitter.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Thu, 26 Aug 2021 06:33:28 GMT
+vary: Origin
+server: tsa_k
+content-type: application/json; charset=utf-8
+cache-control: must-revalidate, max-age=600
+last-modified: Thu, 26 Aug 2021 06:33:28 GMT
+content-length: 167
+content-encoding: gzip
+strict-transport-security: max-age=631138519
+access-control-allow-origin: https://platform.twitter.com
+access-control-allow-credentials: true
+x-connection-hash: 550046925f8d1ec449809260b93982028f14ecaa80bfa1b3df759795d3fc72c5
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABC3N5bmRpY2F0aW9uB3R3aXR0ZXIDY29tAAABAAEAACkQAAAAAAAATAAMAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:33:28 GMT
+expires: Thu, 26 Aug 2021 06:33:28 GMT
+cache-control: private, max-age=287
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-53326000-1&cid=1482427205.1629959608&jid=1978396146&gjid=1068832526&_gid=1332923724.1629959608&_u=YEBAAEAAAAAAAC~&z=687150021
+Host: stats.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.mygov.in
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://www.mygov.in
+strict-transport-security: max-age=10886400; includeSubDomains; preload
+date: Thu, 26 Aug 2021 06:33:28 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-type: text/plain
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 7
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABBXN0YXRzAWcLZG91YmxlY2xpY2sDbmV0AAABAAEAACkQAAAAAAAATAAMAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:33:28 GMT
+expires: Thu, 26 Aug 2021 06:33:28 GMT
+cache-control: private, max-age=299
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.mygov.in/manifest.json
+Host: www.mygov.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: application/json
+Last-Modified: Mon, 26 Nov 2018 11:58:16 GMT
+ETag: W/\"5bfbdfd8-1f8\"
+x-url: /manifest.json
+x-host: www.mygov.in
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Hits: 23
+Content-Length: 504
+Date: Thu, 26 Aug 2021 06:33:29 GMT
+Connection: keep-alive
+----
+--Request 
+GET https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j93&tid=UA-53326000-1&cid=1482427205.1629959608&jid=1978396146&_u=YEBAAEAAAAAAAC~&z=1030512212
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Thu, 26 Aug 2021 06:33:29 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+x-content-type-options: nosniff
+server: cafe
+content-length: 42
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.co.in/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j93&tid=UA-53326000-1&cid=1482427205.1629959608&jid=1978396146&_u=YEBAAEAAAAAAAC~&z=1030512212
+Host: www.google.co.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.mygov.in/covid-19
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Thu, 26 Aug 2021 06:33:29 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+x-content-type-options: nosniff
+server: cafe
+content-length: 42
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwZnb29nbGUCY28CaW4AAAEAAQAAKRAAAAAAAABTAAwATwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:33:29 GMT
+expires: Thu, 26 Aug 2021 06:33:29 GMT
+cache-control: private, max-age=182
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://update.googleapis.com/service/update2/json
+Host: update.googleapis.com
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+----
+ POSTDATA {"request":{"@os":"win","@updater":"chromium","acceptformat":"crx2,crx3","app":[{"appid":"oimompecagnajdejgnnjijobebaeigek","event":[{"download_time_ms":24393,"downloaded":6652737,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"4.10.2209.0","previousversion":"0.0.0.0","total":6652737,"url":"http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvODNjQUFXN0xyYnNNZ1UyTjZEQjNiZzhuQQ/4.10.2209.0_oimompecagnajdejgnnjijobebaeigek.crx"},{"eventresult":1,"eventtype":3,"nextfp":"1.60341eb69770633861e303657417e6a30c6948742291dd2e1478ca2c2c510d49","nextversion":"4.10.2209.0","previousversion":"0.0.0.0"}],"version":"4.10.2209.0"}],"arch":"x86","dedup":"cr","hw":{"physmemory":16},"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.18363.1734"},"prodversion":"90.0.4430.93","protocol":"3.1","requestid":"{034404b4-be31-42c1-a97c-960bc12bcc17}","sessionid":"{c5cf588b-7fc7-4883-8cd9-ea865f6d1a6b}","updaterversion":"90.0.4430.93","wow64":true}}
+--Response 
+HTTP/1.1 200
+content-security-policy: script-src 'report-sample' 'nonce-3isM9qSq2btk5qmZKxnx6g' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 26 Aug 2021 06:33:32 GMT
+content-type: application/json; charset=utf-8
+x-daynum: 5350
+x-daystart: 84812
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-length: 169
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

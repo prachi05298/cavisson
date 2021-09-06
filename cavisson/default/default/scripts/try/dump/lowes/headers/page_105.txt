@@ -1,0 +1,211 @@
+--Request 
+POST https://ct.pinterest.com/md/
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"urls":{"loc":"https://www.lowes.com/search?searchTerm=air%20conditioner"},"meta":{"og":"<meta property=\"og:title\" content=\"Air conditioner at Lowes.com: Search Results\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:url\" content=\"https://www.lowes.com/search?searchTerm=air+conditioner\"><meta property=\"og:description\" content=\"Shop air conditioner at Lowe's. Find a variety of quality home improvement products at Lowes.com or at your local Lowe's store.\"><meta property=\"og:site_name\" content=\"Lowe's\"><meta property=\"og:image\" content=\"https://mobileimages.lowes.com/productimages/91e2e7e9-c032-44b8-9cc3-fc79cb5a00cb/12061069.jpg\">"},"sdo":{"jsonld":["<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://www.lowes.com/\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.lowes.com/search?searchTerm={searchTerm}\",\"query-input\":\"required name=searchTerm\"}}</script>"],"md":["<ul class=\"Breadcrumb__ListedItems-RC__sc-u5papc-3 dPvmdK  &quot;breadcrumb&quot;\" itemscope=\"\" itemtype=\"https://schema.org/BreadcrumbList\"><li class=\"Breadcrumb__List-RC__sc-u5papc-1 ieKjiY  breadcrumb-item\" style=\"color:rgb(0, 65, 194);font-size:0.875rem;font-family:Helvetica, sans-serif\" itemtype=\"https://schema.org/ListItem\" itemprop=\"itemListElement\" itemscope=\"\" aria-hidden=\"false\"><a href=\"/\" itemtype=\"https://schema.org/Thing\" itemprop=\"item\" aria-label=\"Home\" class=\"Link__LinkStyled-RC__sc-b3hjw8-0 hRzlqr breadcrumb-link\"><span itemprop=\"name\">Home</span></a><span itemprop=\"name\">Home</span><meta itemprop=\"position\" content=\"1\"></li><li class=\"Breadcrumb__List-RC__sc-u5papc-1 bFvJgz  breadcrumb-item\" style=\"color:rgba(0, 0, 0, 0.87);font-size:0.875rem;font-family:Helvetica,Arial,sans-serif;pointer-events:none;font-weight:\" itemtype=\"https://schema.org/ListItem\" itemprop=\"itemListElement\" itemscope=\"\" aria-hidden=\"false\"><meta itemprop=\"position\" content=\"2\"></li></ul>"]},"aux":{"micro_s":11335},"tid":"2615619520270"}
+--Response 
+HTTP/1.1 204
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+access-control-allow-origin: *
+x-envoy-upstream-service-time: 1
+referrer-policy: origin
+x-pinterest-rid: 1617672375260265
+date: Wed, 11 Aug 2021 05:31:11 GMT
+x-cdn: fastly
+----
+--Request 
+GET https://www.facebook.com/tr/?id=625799750871183&ev=PageView&dl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&rl=https%3A%2F%2Fwww.lowes.com%2F&if=false&ts=1628659870983&sw=1360&sh=663&v=2.9.44&r=stable&ec=0&o=30&fbp=fb.1.1628659850310.738130319&it=1628659870231&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:11 GMT
+expires: Wed, 11 Aug 2021 05:31:11 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://www.facebook.com/tr/?id=1128484153951961&ev=PageView&dl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&rl=https%3A%2F%2Fwww.lowes.com%2F&if=false&ts=1628659870989&sw=1360&sh=663&v=2.9.44&r=stable&ec=0&o=30&fbp=fb.1.1628659850310.738130319&it=1628659870231&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:11 GMT
+expires: Wed, 11 Aug 2021 05:31:11 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+POST https://www.facebook.com/tr/
+Host: www.facebook.com
+Upgrade-Insecure-Requests: 1
+Origin: https://www.lowes.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+ POSTDATA id=625799750871183&ev=Search&dl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&rl=https%3A%2F%2Fwww.lowes.com%2F&if=false&ts=1628659870991&cd%5Bcustomer_type%5D=&cd%5Bknown_state%5D=&cd%5Bidentity_id%5D=&cd%5Bcontent_ids%5D=%5B%5B%22840470-83-AKQ06LZ%22%5D%2C%5B%222759118-83-APFD06JASW%22%5D%2C%5B%223646823-108981-LP0621WSR%22%5D%2C%5B%222987539-57007-AP1221CR1W%22%5D%2C%5B%222987540-57007-AW0521CK1W%22%5D%2C%5B%223613701-108981-LW6017R%22%5D%2C%5B%222758956-83-AKLK24AA%22%5D%2C%5B%222758952-83-AKLK10AA%22%5D%2C%5B%222758953-83-AKLK12AA%22%5D%2C%5B%22840470-83-AHQ06LY%22%5D%2C%5B%221238311-25552-LT1216CER%22%5D%2C%5B%223848017-108933-LAC8000W%22%5D%2C%5B%222987535-57007-AP0921CR1G%22%5D%2C%5B%221153967-100163-BPACT10WT%22%5D%2C%5B%222987537-57007-AP1021TR1GD%22%5D%2C%5B%221153971-100163-BPACT14WT%22%5D%2C%5B%221153970-100163-BPACT14HWT%22%5D%2C%5B%222987538-57007-AP1021HR1GD%22%5D%2C%5B%223429441-2251-FHPH132AB1%22%5D%2C%5B%222987533-57007-AP0821CR1W%22%5D%2C%5B%221153969-100163-BPACT12WT%22%5D%2C%5B%222987536-57007-AP1021CW1G%22%5D%2C%5B%22840567-83-AHE08AX%22%5D%2C%5B%223429449-2251-FHWH112WA1%22%5D%5D&cd%5Bcontent_type%5D=product&cd%5Bcontent_category%5D=air_conditioner&cd%5Bproduct_ids%5D=%5B%5B%22840470-83-AKQ06LZ%22%5D%2C%5B%222759118-83-APFD06JASW%22%5D%2C%5B%223646823-108981-LP0621WSR%22%5D%2C%5B%222987539-57007-AP1221CR1W%22%5D%2C%5B%222987540-57007-AW0521CK1W%22%5D%2C%5B%223613701-108981-LW6017R%22%5D%2C%5B%222758956-83-AKLK24AA%22%5D%2C%5B%222758952-83-AKLK10AA%22%5D%2C%5B%222758953-83-AKLK12AA%22%5D%2C%5B%22840470-83-AHQ06LY%22%5D%2C%5B%221238311-25552-LT1216CER%22%5D%2C%5B%223848017-108933-LAC8000W%22%5D%2C%5B%222987535-57007-AP0921CR1G%22%5D%2C%5B%221153967-100163-BPACT10WT%22%5D%2C%5B%222987537-57007-AP1021TR1GD%22%5D%2C%5B%221153971-100163-BPACT14WT%22%5D%2C%5B%221153970-100163-BPACT14HWT%22%5D%2C%5B%222987538-57007-AP1021HR1GD%22%5D%2C%5B%223429441-2251-FHPH132AB1%22%5D%2C%5B%222987533-57007-AP0821CR1W%22%5D%2C%5B%221153969-100163-BPACT12WT%22%5D%2C%5B%222987536-57007-AP1021CW1G%22%5D%2C%5B%22840567-83-AHE08AX%22%5D%2C%5B%223429449-2251-FHWH112WA1%22%5D%5D&cd%5Bsearch_string%5D=air%2520conditioner&sw=1360&sh=663&v=2.9.44&r=stable&ec=1&o=30&fbp=fb.1.1628659850310.738130319&it=1628659870231&coo=false&rqm=formPOST
+--Response 
+HTTP/1.1 200
+content-type: text/plain
+access-control-allow-origin: https://www.lowes.com
+access-control-allow-credentials: true
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 0
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+date: Wed, 11 Aug 2021 05:31:11 GMT
+----
+--Request 
+GET https://client.perimeterx.net/PX61WVsvi8/main.min.js
+Host: client.perimeterx.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: *
+content-type: application/javascript; charset=utf-8
+cache-control: max-age=900,stale-while-revalidate=60,stale-if-error=3600
+x-px-hash: YWE0OGUwMDNiYTYyNTExMjg5OWE4NTBkOWFmMWIzNzJkZDFlYjkxYmU2NjU4ODA0YmVmOWM2YjY4ZTYyMjNlMw==
+etag: W/\"2f103-kA1d70gBf1+E9SsUCaZIhwmG+I0\"
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:49 GMT
+via: 1.1 varnish
+age: 738
+x-served-by: cache-bom4751-BOM
+x-cache: HIT
+x-cache-hits: 3
+x-timer: S1628659849.060850,VS0,VE0
+vary: Accept-Encoding
+active-cdn: fastly
+access-control-expose-headers: active-cdn,x-served-by
+content-length: 81242
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC87fa49f39baf4b19b54be6ddb7c365d5-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 455
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC09e58aea1af04c45a4533887a790c5e4-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 407
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

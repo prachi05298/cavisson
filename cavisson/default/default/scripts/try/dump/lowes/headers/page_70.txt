@@ -1,0 +1,35 @@
+--Request 
+GET https://www.lowes.com/baymax/content/9a14551a-6e0c-416b-b93e-717da949acf4?sdk=jssdk&appId=7679876983&env=prod
+Host: www.lowes.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/search?searchTerm=air%20conditioner
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: dbidv2=0c4d60e8-af11-4882-8069-11671292895b; al_sess=FuA4EWsuT07UWryyq/3foO5fKp+UCNFOOXqnqQDypxfeGCVe3QM/S4JU25cW9pe7; region=east; AKA_A2=A; bm_sz=C3B382F883B8A81A11497C9F542A09D1~YAAQbHIsMXftTJ16AQAABPWwMwyIw/S8Rj0KiTQue/1PYud9NtYgs8N4h8z1YALbBHCOWJtJoty1dYZq3bsn4L8F660kjUm4lG/FuofafLKo45cTHvseGETTqB9D6WskKO6XF5pdWUUYJ2fA5o1uTbLfNhKd6sHAXhqN4OYtkc5QcQqr1fw1brfO44J/fdHsbCYvrjKzQsQ0m6+CgUBBPQ8feJfyhN13TXPeYTQMXrbxjlxUlfjuNn+0gLQ/vWtkhlqKw4K1tHITboeQWEEtheiF6uLjebtQxRdxAaLt6MpfZA==~4405303~4342068; AMCVS_5E00123F5245B2780A490D45%40AdobeOrg=1; g_amcv_refreshed=1; at_check=true; ak_bmsc=CFD6BB6B1F11B52B3D9C07B63E32F299~000000000000000000000000000000~YAAQbHIsMeDtTJ16AQAAyv6wMwyC/QVxtX6PVcOAzw7MbeRMt9DdYDeLnz+FHJYET6tfShANdOrfub/wBbip/qQKiMtTBFKvBQ8OaR2GjELvygRsX083I5j/PHuYInl3nw8R64ZACTCOK0SeuAtTpSNt5k6fhNHltREjBfbK7STgXLeOb/bOt3qof5CyCaCKWgEj4weksh+YFvWJ8jcWzSflRb1YuplwDxhkmVfN8LAlt1Zomi+Ex9sOwfmFZTniRSUrlAMVtJ5FMihcoPfLpMpKKoAZxu/2bYxnMMXYoP2Oel7Qg62x/1Hm4icm4NyNci5eR7aS2ADW6xm541slFVu7+GNPBDpFv2RH39M0Y3SBXQP+wMl1UpC2AivVyLI1BbowGxCDJV+1HJLAFc+wSyyGWUdqmsBs+YXzEWkOCfC6TPS6eXBrFkQpfiZNsBR4Tskac39XXHnvxkaZziKjgCdZ0St3E4ZGmb8HjvlknY5x8Hu+kd5BEw==; mboxEdgeCluster=31; sn=1985; _lgsid=1628659844121; p13n=%7B%22zipCode%22%3A%2299701%22%2C%22storeId%22%3A%221985%22%2C%22state%22%3A%22AK%22%2C%22userType%22%3A%22diy%22%2C%22audienceList%22%3A%5B%5D%7D; AMCV_5E00123F5245B2780A490D45%40AdobeOrg=870038026%7CMCIDTS%7C19581%7CMCMID%7C71747673865418841840298191736677393887%7CMCAAMLH-1629264643%7C12%7CMCAAMB-1629264643%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1628667043s%7CNONE%7CvVersion%7C5.0.0%7CMCSYNCSOP%7C411-18858; fs_uid=rs.fullstory.com#Q8RZE#4938477446668288:6554343464542208/1660195844; namOgoo=B; discover-exp-2=abt8280b; g_previous=%7B%22gpvPageLoadTime%22%3A%220.00%22%2C%22gpvPageScroll%22%3A%22%22%2C%22gpvSitesections%22%3A%22hp%2Chp%2Chp%2Chp%22%2C%22gpvSiteId%22%3A%22desktop%22%2C%22gpvPageType%22%3A%22hp%22%7D; REVLIFTER={\"w\":\"0l554347-da15-447f-9091-6e8941024cdc\",\"u\":\"2264cea9-561b-4391-a2cf-df49e5250cf2\",\"s\":\"9b790476-7d0d-4673-841d-7cd3601cfc6b\",\"se\":1631251848}; IR_gbd=lowes.com; IR_12374=1628659848256%7C0%7C1628659848256%7C%7C; _px_uAB=MTk4OHx0cnVl; _px_f394gi7Fvmc43dfg_user_id=NDk2MWQwMDAtZmE2NS0xMWViLWJmN2EtMzk1MTdmYTY1NjE4; _px_4559617368_cs=eyJpZCI6IjQ5NjEzM2MwLWZhNjUtMTFlYi1iZjdhLTM5NTE3ZmE2NTYxOCIsInN0b3JhZ2UiOnt9LCJleHBpcmF0aW9uIjoxNjI4NjYxNjQ5NTI4fQ==; pxcts=49bdf9c0-fa65-11eb-8dd5-15f5bf611991; _pxvid=49bd93fc-fa65-11eb-8ed2-0242ac120008; _fbp=fb.1.1628659850310.738130319; prodNumber=3; _gcl_au=1.1.1926396264.1628659852; _uetsid=4aa62ac0fa6511ebb446155ff10e7248; _uetvid=4aa72ee0fa6511eb8260079478319ce8; _pin_unauth=dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag; _abck=60EED5F365C9E9A4B1813AF1DB1118C9~0~YAAQbHIsMYrvTJ16AQAAaSCxMwayEwnKazBATM1RxTBFFADY4vghuvhrQh979oXGAahroWEAg6yDyIYHaJ3L3FsKQ0mCDjV3mrqNraHfCuZIhZ6pxBGyVBx6DnKaiYz/qRnQUhxN9uw1G5MopKHA0dVoGl/wG5Bk2YvECWCJkfGSkF9yPjYl8rStdJwx4heTEtJk3JCQweONCFiPMclTLPSsmI+5upBWgl2mfYU6UmBjatgvsbQbD19XUdsynKGuz5tsPEgEiFtxK0/tPOxXIautTOEy5RpqU0YifAI8I8bScNbLJyKd+dY2a6J+pGbPQuUTTlkJqWFVt/jWWzAhbIgjEc7+qcF22kS1xQahPiC3qB7P1YZ6v8XhtWg+8LodgHD6TL9TGL6Kd+qvw3Y8FVIeRL+vTQ==~-1~-1~-1; mdLogger=false; kampyle_userid=0606-2a92-bc75-e10b-ea83-a325-b197-2c32; kampyleUserSession=1628659852376; kampyleUserSessionsCount=1; kampyleSessionPageCounter=1; cd_user_id=17b33b124f05ce-0cffc1be426d6f-162c1a0c-dc230-17b33b124f172c; akavpau_default=1628660152~id=e9d368a7df32bffdc85ded2ba21009b5; RT=\"z=1&dm=lowes.com&si=bde4fb69-2075-4aef-b0c6-45081221dd74&ss=ks720lrf&sl=1&tt=70f&bcn=%2F%2F6852bd0e.akstat.io%2F\"; akaalb_prod_dual=1628746259~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=e92af2ea2f5f5da9f1f2309a4e3f3bbe; bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZt2m9WJ5XsvjeRJQq3NXibJOhqUkUy46PZ8jVQQCXzfnen8ezJwjMOa3Twn9+nUIcs=; mbox=session#31e45163a4dc4f69bb43b3ae2d42ea61#1628661702|PC#31e45163a4dc4f69bb43b3ae2d42ea61.31_0#1691904661
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+cache-control: s-maxage=10800
+x-envoy-upstream-service-time: 5
+server: istio-envoy
+content-encoding: gzip
+content-length: 103
+date: Wed, 11 Aug 2021 05:31:01 GMT
+vary: Accept-Encoding
+server-timing: cdn-cache; desc=HIT
+server-timing: edge; dur=424
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746261~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=9238d5b4e27b0f433753eecaa6b9902b; path=/; Expires=Thu, 12 Aug 2021 05:31:01 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZvDwk7JvLiZxI5ly7r4C4pYzJpeXevduZfI7lAlIBumOw==; Domain=.lowes.com; Path=/; Max-Age=7180; HttpOnly
+----
+

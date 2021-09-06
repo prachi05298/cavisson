@@ -1,0 +1,445 @@
+--Request 
+POST https://6852bd0e.akstat.io/
+Host: 6852bd0e.akstat.io
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 204
+access-control-allow-origin: https://www.lowes.com
+x-xss-protection: 0
+access-control-allow-credentials: true
+timing-allow-origin: *
+content-type: image/gif
+expires: Wed, 11 Aug 2021 05:31:12 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 11 Aug 2021 05:31:12 GMT
+----
+--Request 
+GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031919983/?random=1628659873023&cv=9&fst=1628659873023&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&ref=https%3A%2F%2Fwww.lowes.com%2F&tiba=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4
+Host: googleads.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:13 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+server: cafe
+content-length: 1074
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031919983/?random=1628659873028&cv=9&fst=1628659873028&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&ig=1&data=event%3Dpage_view%3Becomm_pagetype%3Dsearch-results%3Becomm_prodid%3D1001307556%2C5000143961%2C5001459511%2C5000151929%2C5000087109%2C5001462705%2C5000143957%2C5000143949%2C5000143951%2C1000760764%2C1000773230%2C5001894855%2C5000151923%2C1001847744%2C5000151925%2C1001861860%2C1001861844%2C5000151927%2C5001055817%2C5000151921%2C1001861828%2C5000087107%2C1000380519%2C5001598713&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&ref=https%3A%2F%2Fwww.lowes.com%2F&tiba=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4
+Host: googleads.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:13 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+server: cafe
+content-length: 1225
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://bat.bing.com/p/action/5668750.js
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 204
+cache-control: private,max-age=86400
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 52653618CC73478398706E982D39F7CC Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:30:51Z
+date: Wed, 11 Aug 2021 05:30:50 GMT
+----
+--Request 
+GET https://bat.bing.com/action/0?ti=5668750&Ver=2&mid=8b883726-e5e7-4ed0-8f1e-35be0fa98430&sid=4aa62ac0fa6511ebb446155ff10e7248&vid=4aa72ee0fa6511eb8260079478319ce8&vids=0&pi=0&lg=en-US&sw=1360&sh=663&sc=24&tl=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&p=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&r=https%3A%2F%2Fwww.lowes.com%2F&lt=14824&evt=pageLoad&msclkid=N&sv=1&rn=789737
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 204
+cache-control: no-cache, must-revalidate
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: A7E4465769554E9D810883E38E70CDD2 Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:31:13Z
+date: Wed, 11 Aug 2021 05:31:12 GMT
+----
+--Request 
+GET https://bat.bing.com/action/0?ti=5668750&Ver=2&mid=8b883726-e5e7-4ed0-8f1e-35be0fa98430&sid=4aa62ac0fa6511ebb446155ff10e7248&vid=4aa72ee0fa6511eb8260079478319ce8&vids=0&pagetype=searchresults&prodid=1001307556%252C5000143961%252C5001459511%252C5000151929%252C50000&ea=event_name&en=Y&evt=custom&msclkid=N&rn=587556
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 204
+cache-control: no-cache, must-revalidate
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 76741AE20DA74E68BE44D0D719629A5C Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:31:13Z
+date: Wed, 11 Aug 2021 05:31:12 GMT
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC07fa4ad32f7b406b8c9c37863504f784-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 477
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:51 GMT
+date: Wed, 11 Aug 2021 05:30:51 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://nebula-cdn.kampyle.com/wu/392339/onsite/embed.js
+Host: nebula-cdn.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:13 GMT
+via: 1.1 varnish
+cache-control: max-age=0,must-revalidate
+age: 235060
+x-served-by: cache-bom4724-BOM
+x-cache: HIT
+x-cache-hits: 2039
+x-timer: S1628659873.215025,VS0,VE0
+vary: Accept-Encoding
+x-amz-id-2: 5Fc/Fu3rRotD3TjGfORY1Me02/PRm1JVVZWu1XMYO8AvFwD2uWmftFv06wNJxvZGcdHE9uidMk4=
+x-amz-request-id: HT1GA4GK20YA9QH8
+last-modified: Thu, 29 Jul 2021 12:43:07 GMT
+etag: \"a236457d877ed004ad2440c518aada82\"
+x-amz-version-id: ZnmhQwDsO7W8zlZmaDEe38TNQSE_HFp9
+content-type: application/javascript
+server: AmazonS3
+access-control-allow-origin: *
+content-encoding: gzip
+accept-ranges: bytes
+content-length: 664
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC75823becabb5495994ee06e85292e064-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 444
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:51 GMT
+date: Wed, 11 Aug 2021 05:30:51 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCa737427ceb15428aa0cc62aee1513675-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 532
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:52 GMT
+date: Wed, 11 Aug 2021 05:30:52 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://www.google.com/pagead/1p-user-list/1031919983/?random=1628659873023&cv=9&fst=1628658000000&num=1&bg=ffffff&guid=ON&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&ref=https%3A%2F%2Fwww.lowes.com%2F&tiba=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&async=1&fmt=3&is_vtc=1&random=3519369411&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://www.google.co.in/pagead/1p-user-list/1031919983/?random=1628659873023&cv=9&fst=1628658000000&num=1&bg=ffffff&guid=ON&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&ref=https%3A%2F%2Fwww.lowes.com%2F&tiba=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&async=1&fmt=3&is_vtc=1&random=3519369411&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y
+Host: www.google.co.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://www.google.com/pagead/1p-user-list/1031919983/?random=1628659873028&cv=9&fst=1628658000000&num=1&bg=ffffff&guid=ON&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&data=event%3Dpage_view%3Becomm_pagetype%3Dsearch-results%3Becomm_prodid%3D1001307556%2C5000143961%2C5001459511%2C5000151929%2C5000087109%2C5001462705%2C5000143957%2C5000143949%2C5000143951%2C1000760764%2C1000773230%2C5001894855%2C5000151923%2C1001847744%2C5000151925%2C1001861860%2C1001861844%2C5000151927%2C5001055817%2C5000151921%2C1001861828%2C5000087107%2C1000380519%2C5001598713&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&ref=https%3A%2F%2Fwww.lowes.com%2F&tiba=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&async=1&fmt=3&is_vtc=1&random=1793481478&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://www.google.co.in/pagead/1p-user-list/1031919983/?random=1628659873028&cv=9&fst=1628658000000&num=1&bg=ffffff&guid=ON&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&data=event%3Dpage_view%3Becomm_pagetype%3Dsearch-results%3Becomm_prodid%3D1001307556%2C5000143961%2C5001459511%2C5000151929%2C5000087109%2C5001462705%2C5000143957%2C5000143949%2C5000143951%2C1000760764%2C1000773230%2C5001894855%2C5000151923%2C1001847744%2C5000151925%2C1001861860%2C1001861844%2C5000151927%2C5001055817%2C5000151921%2C1001861828%2C5000087107%2C1000380519%2C5001598713&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&ref=https%3A%2F%2Fwww.lowes.com%2F&tiba=Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results&async=1&fmt=3&is_vtc=1&random=1793481478&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y
+Host: www.google.co.in
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://nebula-cdn.kampyle.com/us/wu/392339/onsite/generic1627562585749.js
+Host: nebula-cdn.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-amz-id-2: 4GW7qpIIPn33rrFWd/aFC1YPHNWyt5nSsSCMf4JhrvwyWumlG6/n9SBXDdkOHDjMS7s8C4J5G6w=
+x-amz-request-id: 4ANJ40Q9ZHZQYH9J
+last-modified: Thu, 29 Jul 2021 12:43:07 GMT
+etag: \"5bb0932bdff7b2ea6561c186db73e999\"
+x-amz-version-id: tIuGlVCEo1emctoXQE0oQ.2N3AKeI14L
+content-type: application/javascript
+server: AmazonS3
+access-control-allow-origin: *
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:52 GMT
+via: 1.1 varnish
+x-served-by: cache-bom4724-BOM
+x-cache: HIT
+x-cache-hits: 31
+x-timer: S1628659852.116280,VS0,VE0
+vary: Accept-Encoding
+age: 0
+cache-control: max-age=31536000
+content-length: 80705
+----
+--Request 
+GET https://nebula-cdn.kampyle.com/resources/onsite/js/cool-2.1.15.min.js
+Host: nebula-cdn.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-amz-id-2: CUniRGH2fdZBf4hDdr/7v/b+nYYhIyNb5tT0QdFpgK7xik9zP6Z88xZhX6MJ9OWKNk3O2zgy2Hw=
+x-amz-request-id: Y529X05X9W4EMJ6X
+last-modified: Sun, 24 Jan 2021 11:03:10 GMT
+etag: \"80dd5e3be5152c5c72d552c6a26ef6ff\"
+x-amz-version-id: 9HCXbKZTbCJZkS8s9IuB.pE0JEvI0TGW
+content-type: application/javascript
+server: AmazonS3
+access-control-allow-origin: *
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:52 GMT
+via: 1.1 varnish
+x-served-by: cache-bom4724-BOM
+x-cache: HIT
+x-cache-hits: 27763
+x-timer: S1628659852.456329,VS0,VE0
+vary: Accept-Encoding
+age: 0
+cache-control: max-age=31536000
+content-length: 5197
+----
+--Request 
+GET https://udc-neb.kampyle.com/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif?data=eyJldmVudHMiOiBbCiAgICB7InNlc3Npb25fc2NyZWVuX3NpemUiOiAiMTM2MHg2NjMiLCJzZXNzaW9uX2R1YSI6ICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuNjEgU2FmYXJpLzUzNy4zNiIsInNlc3Npb25fcGxhdGZvcm0iOiAiTGludXggeDg2XzY0IiwicmVmZXJyaW5nX3VybCI6ICJodHRwczovL3d3dy5sb3dlcy5jb20vIiwicmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cubG93ZXMuY29tIiwidHJhY2tlcl90eXBlIjogImphdmFzY3JpcHQiLCJ0cmFja2VyX3ZlcnNpb24iOiAiMi4xLjE1IiwiZXZlbnRfbmFtZSI6ICJuZWJ1bGFfcGFnZV92aWV3IiwiZXZlbnRfdGltZXN0YW1wX2Vwb2NoIjogIjE2Mjg2NTk4NzM0NTEiLCJldmVudF90aW1lem9uZV9vZmZzZXQiOiAtNSwidXNlcl9pZCI6ICIxN2IzM2IxMjRmMDVjZS0wY2ZmYzFiZTQyNmQ2Zi0xNjJjMWEwYy1kYzIzMC0xN2IzM2IxMjRmMTcyYyIsImVudmlyb21lbnQiOiAicHJvZFVzT3JlZ29uIiwiYWNjb3VudElkIjogMzkyMzM3LCJ1cmwiOiAiaHR0cHM6Ly93d3cubG93ZXMuY29tL3NlYXJjaD9zZWFyY2hUZXJtPWFpciUyMGNvbmRpdGlvbmVyIiwid2Vic2l0ZUlkIjogMzkyMzM5LCJmb3JtSWQiOiBudWxsLCJmb3JtVHJpZ2dlclR5cGUiOiBudWxsLCJrYW1weWxlX2RhdGEiOiB7IkxBU1RfSU5WSVRBVElPTl9WSUVXIjogIiIsIkRFQ0xJTkVEX0RBVEUiOiAiIiwia2FtcHlsZUludml0ZVByZXNlbnRlZCI6ICIiLCJrYW1weWxlX3VzZXJpZCI6ICIwNjA2LTJhOTItYmM3NS1lMTBiLWVhODMtYTMyNS1iMTk3LTJjMzIiLCJrYW1weWxlVXNlclNlc3Npb24iOiAiMTYyODY1OTg1MjM3NiIsImthbXB5bGVVc2VyUGVyY2VudGlsZSI6ICIiLCJTVUJNSVRURURfREFURSI6ICIifSwiY29va2llX3NpemUiOiAzODUwLCJrYW1weWxlX3ZlcnNpb24iOiAiMi4zOS4wIiwib25zaXRlX3ZlcnNpb24iOiAiMi4zOS4wIiwiaGlzdG9yeV9sZW5ndGgiOiAzLCJldmVudF9sb2NhbF90aW1lc3RhbXAiOiAxNjI4NjU5ODczMzcwLCJwb3NpdGlvbiI6IG51bGwsImlzVXNlcklkZW50aWZpZWQiOiBmYWxzZSwiZmVlZGJhY2tfY29ycmVsYXRpb25fdXVpZCI6IG51bGx9Cl19
+Host: udc-neb.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+

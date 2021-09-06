@@ -1,0 +1,30 @@
+--Request 
+POST https://update.googleapis.com/service/update2/json
+Host: update.googleapis.com
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+----
+ POSTDATA {"request":{"@os":"linux","@updater":"chromium","acceptformat":"crx2,crx3","app":[{"appid":"gcmjkmgdlgnkkcocmoeiminaijmmjnii","event":[{"download_time_ms":846,"downloaded":45009,"downloader":"direct","eventresult":1,"eventtype":14,"nextversion":"9.28.0","previousversion":"0.0.0.0","total":45009,"url":"http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/Pu4v-tN-kWF2q40ZuKM9Sg_9.28.0/AJF3c7ikkTZsKlD4Mc2H2vA"},{"eventresult":1,"eventtype":3,"nextfp":"1.91ee417000553ca22ed67530545c4177a08e7ffcf602c292a71bd89ecd0568a5","nextversion":"9.28.0","previousversion":"0.0.0.0"}],"version":"9.28.0"}],"arch":"x64","dedup":"cr","hw":{"physmemory":6},"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Linux","version":"5.11.0-25-generic"},"prodversion":"90.0.4430.61","protocol":"3.1","requestid":"{2ec1fdcf-5d31-47e6-9bd8-e6ea22278a6c}","sessionid":"{9c6f3495-5bee-4c37-a5c5-e737cb74b912}","updaterversion":"90.0.4430.61"}}
+--Response 
+HTTP/1.1 200
+content-security-policy: script-src 'report-sample' 'nonce-kTbXUdLFC7/civWphgHUog' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Wed, 11 Aug 2021 05:31:39 GMT
+content-type: application/json; charset=utf-8
+x-daynum: 5335
+x-daystart: 81099
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-length: 170
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

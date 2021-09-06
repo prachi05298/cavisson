@@ -1,0 +1,28 @@
+--Request 
+POST https://mboxedge31.tt.omtrdc.net/rest/v1/delivery?client=lowes&sessionId=31e45163a4dc4f69bb43b3ae2d42ea61&version=2.4.0
+Host: mboxedge31.tt.omtrdc.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"requestId":"2db282caca764830b77d0b83004809dd","context":{"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36","timeOffsetInMinutes":-300,"channel":"web","screen":{"width":1360,"height":663,"orientation":"landscape","colorDepth":24,"pixelRatio":1},"window":{"width":1273,"height":501},"browser":{"host":"www.lowes.com","webGLRenderer":"Google SwiftShader"},"address":{"url":"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961","referringUrl":"https://www.lowes.com/search?searchTerm=air%20conditioner"}},"id":{"tntId":"31e45163a4dc4f69bb43b3ae2d42ea61.31_0","marketingCloudVisitorId":"71747673865418841840298191736677393887"},"property":{"token":"bc1367db-f834-021b-b77c-1fb07f2c35a1"},"experienceCloud":{"audienceManager":{"locationHint":12,"blob":"6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y"},"analytics":{"logging":"client_side","supplementalDataId":"7ED7F8A14085DB7C-30C50A7480C1DEE3"}},"execute":{"pageLoad":{"parameters":{"platform":1,"user.SegmentId":"","siteId":"desktop","contentPageURL":"","entity.categoryId":"portable_air_conditioners","user.categoryId":"portable_air_conditioners","entity.id":"5000143961","experienceCloud.analytics.trackingServerSecure":"smetrics.lowes.com","experienceCloud.analytics.trackingServer":"metrics.lowes.com","siteSection":"heating_cooling","siteSectionTwo":"air_conditioners_fans","siteSectionThree":"room_air_conditioners","siteSectionFour":"portable_air_conditioners"},"profileParameters":{"audience":"","commerceid":"","scvisitorid":"\"\"","storeId":"1985","zip":"99701","searchTerm":""}}},"prefetch":{"views":[{"parameters":{"platform":1,"user.SegmentId":"","siteId":"desktop","contentPageURL":"","entity.categoryId":"portable_air_conditioners","user.categoryId":"portable_air_conditioners","entity.id":"5000143961","experienceCloud.analytics.trackingServerSecure":"smetrics.lowes.com","experienceCloud.analytics.trackingServer":"metrics.lowes.com","siteSection":"heating_cooling","siteSectionTwo":"air_conditioners_fans","siteSectionThree":"room_air_conditioners","siteSectionFour":"portable_air_conditioners"},"profileParameters":{"audience":"","commerceid":"","scvisitorid":"\"\"","storeId":"1985","zip":"99701","searchTerm":""}}]}}
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:17 GMT
+content-type: application/json;charset=UTF-8
+vary: origin,access-control-request-method,access-control-request-headers,accept-encoding
+x-request-id: c559037c099ab8e45d8a5f553984e160
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.lowes.com
+content-encoding: gzip
+----
+

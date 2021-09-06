@@ -1,0 +1,1140 @@
+--Request 
+GET https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Host: www.amazon.com
+rtt: 100
+downlink: 10
+ect: 4g
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cc2e08119-3c6b-4345-8271-7544718c6ba2%2C1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; csm-hit=tb:G6X1Y8N0VBKZCV7W5WAF+s-X292MJ9HH27DH46NSQ5C|1629959894756&t:1629959894756&adb:adblk_no
+----
+--Response 
+HTTP/1.1 200
+server: Server
+content-type: text/html;charset=UTF-8
+x-amz-rid: FD72PKSG3BACH7WMAJ2G
+x-xss-protection: 1
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge
+pragma: No-cache
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+p3p: policyref=\"http://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"
+x-frame-options: SAMEORIGIN
+permissions-policy: interest-cohort=()
+content-encoding: gzip
+date: Thu, 26 Aug 2021 06:38:15 GMT
+content-length: 36927
+set-cookie: ap-fid=\"\"; Domain=.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ap/; Secure
+set-cookie: x-main=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: session-id=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: session-token=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: session-id-time=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: ubid-main=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: at-main=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: sess-at-main=\"\"; Domain=.www.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: session-id=130-3698022-9774767; Domain=.amazon.com; Expires=Fri, 26-Aug-2022 06:38:14 GMT; Path=/; Secure
+set-cookie: session-id-time=2260679894l; Domain=.amazon.com; Expires=Fri, 26-Aug-2022 06:38:14 GMT; Path=/; Secure
+set-cookie: ubid-main=134-8185740-9201611; Domain=.amazon.com; Expires=Fri, 26-Aug-2022 06:38:14 GMT; Path=/; Secure
+set-cookie: session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; Domain=.amazon.com; Expires=Fri, 26-Aug-2022 06:38:14 GMT; Path=/; Secure
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABCWltYWdlcy1uYRFzc2wtaW1hZ2VzLWFtYXpvbgNjb20AAAEAAQAAKRAAAAAAAABEAAwAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:38:14 GMT
+expires: Thu, 26 Aug 2021 06:38:14 GMT
+cache-control: private, max-age=18
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://dns.google/dns-query?dns=AAABAAABAAAAAAABAW0MbWVkaWEtYW1hem9uA2NvbQAAAQABAAApEAAAAAAAAFEADABNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Host: dns.google
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: identity
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Thu, 26 Aug 2021 06:38:14 GMT
+expires: Thu, 26 Aug 2021 06:38:14 GMT
+cache-control: private, max-age=3
+content-type: application/dns-message
+server: HTTP server (unknown)
+content-length: 468
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Host: unagi.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk
+----
+ POSTDATA {"events":[{"data":{"messageId":"7lhn8k-2qo3to-lnog92-nthfiz","schemaId":"csa.Metric.3","metrics":{"firstInputDelay":5.959999980404973},"dimensions":{},"timestamp":"2021-08-26T06:38:14.552Z","application":"Retail:Prod:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"qp645e-va717e-rk0h5z-u5fmyr","requestId":"X292MJ9HH27DH46NSQ5C","pageType":"ShoppingCart","subPageType":"NewHUC"},"session":{"id":"130-3698022-9774767"}}}},{"data":{"schemaId":"csa.ContentInteraction.1","interaction":"click","interactionData":{"interactionX":"1006","interactionY":"169","parentChain":".../HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/SPAN/A","href":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"},"messageId":"k3kcpu-sfp47d-si7kpe-vt2zh8","attribution":"//*[@id='hlb-ptc-btn-native']","timestamp":"2021-08-26T06:38:14.752Z","application":"Retail:Prod:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"qp645e-va717e-rk0h5z-u5fmyr","requestId":"X292MJ9HH27DH46NSQ5C","pageType":"ShoppingCart","subPageType":"NewHUC"},"session":{"id":"130-3698022-9774767"},"element":{"id":"mbfa7b-5sm6tu-146xdt-zce3fi","class":"a-row celwidget","slotId":"huc-v2-order-row-with-divider","type":"widget"}}}},{"data":{"messageId":"ucxrqd-pvcskl-tl2ybv-jmpxcs","schemaId":"csa.Metric.3","metrics":{"documentCumulativeLayoutShiftToFirstInput":0.020963717400841717},"dimensions":{},"timestamp":"2021-08-26T06:38:14.755Z","application":"Retail:Prod:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"qp645e-va717e-rk0h5z-u5fmyr","requestId":"X292MJ9HH27DH46NSQ5C","pageType":"ShoppingCart","subPageType":"NewHUC"},"session":{"id":"130-3698022-9774767"}}}},{"data":{"messageId":"r34zca-jhfjv9-hz8n9q-ws1j35","schemaId":"csa.Metric.3","metrics":{"totalBlockingTime":0,"totalBlockingTimeInclLCP":257,"maxBlockingTime":-1},"dimensions":{},"timestamp":"2021-08-26T06:38:14.757Z","application":"Retail:Prod:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"qp645e-va717e-rk0h5z-u5fmyr","requestId":"X292MJ9HH27DH46NSQ5C","pageType":"ShoppingCart","subPageType":"NewHUC"},"session":{"id":"130-3698022-9774767"}}}}]}
+--Response 
+HTTP/1.1 200
+Server: Server
+Date: Thu, 26 Aug 2021 06:38:14 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: M13K0ZQ11T72P20HVJY9
+x-amzn-RequestId: 2cbc5bf9-273a-4cd0-a4c2-cf9b6b30b2ee
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+----
+--Request 
+POST https://fls-na.amazon.com/1/batch/1/OE/
+Host: fls-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk
+----
+ POSTDATA {"rid":"X292MJ9HH27DH46NSQ5C","sid":"130-3698022-9774767","mid":"ATVPDKIKX0DER","sn":"www.amazon.com","reqs":[{"cel":{"k":"efo","t":18516,"s":"default"}},{"cel":{"k":"mmm1","e":[{"x":638,"y":387,"t":18513}],"min":5,"max":130,"avg":68}},{"cel":{"k":"mmm1","e":[{"x":638,"y":386,"t":21249},{"x":649,"y":362,"t":21446}],"min":5,"max":130,"avg":57}},{"cel":{"k":"mcm","w":1349,"h":2743,"t":22764,"x":1006,"y":169,"p":"//*[@id='hlb-ptc-btn-native']","n":"A","dt":6.21,"r":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0","i":"hlb-ptc-btn-native","c":["a-button-text","a-text-center"]}},{"csmcount":{"counter":"QF-N:SN:QN:TN","value":1,"t":22984}},{"csmcount":{"counter":"beforeUnloadNexusCounter","value":1,"t":22984}},{"csmcount":{"counter":"cel.PDM.TotalExecutions","value":45,"t":22984}},{"csmcount":{"counter":"cel.VPI.TotalExecutions","value":1,"t":22985}},{"csmcount":{"counter":"cel.VPI.TotalExecutionTime","value":0,"t":22985}},{"csmcount":{"counter":"cel.VPI.AverageExecutionTime","value":0,"t":22985}},{"csmcount":{"counter":"cel.widgets.batchesProcessed","value":20,"t":22985}},{"cel":{"k":"mmm1","e":[{"x":652,"y":353,"t":21480},{"x":703,"y":296,"t":21714},{"x":812,"y":233,"t":21864},{"x":936,"y":184,"t":22164},{"x":1006,"y":169,"t":22406},{"x":1006,"y":169,"t":22985}],"min":5,"max":130,"avg":57}},{"cel":{"k":"hrt","t":22985}},{"cel":{"k":"eod","t0":1629959871774,"t":22985}},{"csmcount":{"counter":"armored-cxguardrails.unresponsive-clicks.violations","value":0,"t":22985}},{"csmcount":{"counter":"armored-cxguardrails.unresponsive-clicks.violationRate","value":0,"t":22985}},{"csm":{"k":"chk","f":5,"l":{"csmcount":154,"cel":40,"navigation":3,"csm":5,"cap-ciba":1},"s":"full"}},{"csmcount":{"counter":"foresterPayloadSize","t":0,"value":2566}}]}
+--Response 
+HTTP/1.1 204
+date: Thu, 26 Aug 2021 06:38:14 GMT
+x-amzn-requestid: b5b7804a-57e1-4a93-9388-3407e2e6db66
+access-control-allow-origin: *
+access-control-expose-headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+----
+--Request 
+POST https://unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+Host: unagi-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk
+----
+ POSTDATA {"cs":{"dct":{"#0":"server","#1":"www.amazon.com","#2":"producerId","#3":"csm","#4":"schemaId","#5":"csm.CSMUnloadBaselineEvent.2","#6":"timestamp","#7":"messageId","#8":"sessionId","#9":"130-3698022-9774767","#10":"requestId","#11":"X292MJ9HH27DH46NSQ5C","#12":"obfuscatedMarketplaceId","#13":"ATVPDKIKX0DER"}},"events":[{"data":{"#0":"#1","#2":"#3","#4":"#5","#6":"2021-08-26T06:38:14.760Z","#7":"X292MJ9HH27DH46NSQ5C-1629959894760-4881245191","#8":"#9","#10":"#11","#12":"#13"}}]}
+--Response 
+HTTP/1.1 200
+Server: Server
+Date: Thu, 26 Aug 2021 06:38:14 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: WRFFQNR8CBF5TRW59FGZ
+x-amzn-RequestId: 1517e705-e623-4c42-b328-3cd208078b8a
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+----
+--Request 
+POST https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Host: unagi.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2260679894l
+----
+ POSTDATA {"events":[{"data":{"messageId":"r34zca-jhfjv9-hz8n9q-ws1j35","schemaId":"csa.Metric.3","metrics":{"totalBlockingTime":0,"totalBlockingTimeInclLCP":0,"maxBlockingTime":-1},"dimensions":{},"timestamp":"2021-08-26T06:38:15.706Z","application":"Retail:Prod:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"qp645e-va717e-rk0h5z-u5fmyr","requestId":"X292MJ9HH27DH46NSQ5C","pageType":"ShoppingCart","subPageType":"NewHUC"},"session":{"id":"130-3698022-9774767"}}}}]}
+--Response 
+HTTP/1.1 200
+Server: Server
+Date: Thu, 26 Aug 2021 06:38:15 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: K5TCSCVNDTZ2VRZVN8K3
+x-amzn-RequestId: 97ec8945-da49-47ee-9f0c-f7b6715b960f
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/61A6IErPNXL._RC%7C11Fd9tJOdtL.css,11tfezETfFL.css,31Q3id-QR0L.css,31U9HrBLKmL.css_.css?AUIClients/AmazonUI#us.not-trident
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css; charset=UTF-8
+server: Server
+date: Wed, 09 Jun 2021 15:37:21 GMT
+x-amz-ir-id: 044a0b45-6651-45e6-bbfe-d4da4a9afdd7
+expires: Mon, 03 Jun 2041 10:09:46 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-090 /images/I/61A6IErPNXL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-090,/images/I/61A6IErPNXL
+access-control-allow-origin: *
+last-modified: Wed, 06 Jan 2021 02:50:26 GMT
+x-nginx-cache-status: HIT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 6bb21cc8e64a5683d17e49c0cdf1602d.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: LkqzytCuBx2neUYcYG_cPk-jNPr-O3nGjkmKKn1uH_T44D73YLJOVw==
+age: 6706854
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/01SdjaY0ZsL._RC%7C31jdWD+JB+L.css,41DBI6BbFkL.css_.css?AUIClients/AuthenticationPortalAssets
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css
+server: Server
+date: Sat, 12 Jun 2021 11:48:58 GMT
+x-amz-ir-id: 40249583-2a4c-4a2a-93fc-c0bb4c239b7a
+expires: Sun, 02 Jun 2041 12:16:04 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-990 /images/I/01SdjaY0ZsL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-990,/images/I/01SdjaY0ZsL
+access-control-allow-origin: *
+last-modified: Sat, 30 May 2015 02:58:48 GMT
+x-nginx-cache-status: HIT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 6bb21cc8e64a5683d17e49c0cdf1602d.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: zrdCTpxskydfuaFMVNSXjx3B9cjYbQFXA48NfuZ-fsI8Y4t62aqpZw==
+age: 6461357
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/11qeL1AgUGL.css?AUIClients/CVFAssets
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css; charset=UTF-8
+server: Server
+date: Tue, 27 Jul 2021 06:54:59 GMT
+x-amz-ir-id: caa9f9f9-0fbb-4a90-9776-9031fe7694da
+expires: Sat, 20 Jul 2041 08:44:39 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-242 /images/I/11qeL1AgUGL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-242,/images/I/11qeL1AgUGL
+access-control-allow-origin: *
+last-modified: Thu, 08 Apr 2021 22:47:22 GMT
+x-nginx-cache-status: HIT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 6bb21cc8e64a5683d17e49c0cdf1602d.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: IgmEua94I-wHoHw1fCKRvnRuMLNZZI0tgtlO4iaQexpkaQX6C71ntA==
+age: 2590996
+----
+--Request 
+GET https://www.amazon.com/gp/checkoutonebyone/pagetype-checkout.html
+Host: www.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+rtt: 100
+downlink: 10
+sec-ch-ua-mobile: ?0
+ect: 4g
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; csm-hit=tb:G6X1Y8N0VBKZCV7W5WAF+s-X292MJ9HH27DH46NSQ5C|1629959894756&t:1629959894756&adb:adblk_no; session-id-time=2260679894l
+----
+--Response 
+HTTP/1.1 200
+server: Server
+content-type: image/png
+x-amz-rid: 1H9VR9BZ96456B1P8FB6
+pragma: no-cache
+x-amz-id-1: 1H9VR9BZ96456B1P8FB6
+p3p: policyref=\"https://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"
+cache-control: no-cache, no-store, must-revalidate
+x-amz-checkout-page-type: Checkout
+expires: 0
+x-amz-checkout-sub-page-type: JustForFatal
+content-encoding: gzip
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+permissions-policy: interest-cohort=()
+content-length: 253
+date: Thu, 26 Aug 2021 06:38:15 GMT
+set-cookie: ubid-main=134-8185740-9201611; path=/; domain=.amazon.com; expires=Fri, 26-Aug-2022 06:38:15 GMT; secure
+set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Fri, 26-Aug-2022 06:38:15 GMT
+set-cookie: session-id=130-3698022-9774767; path=/; domain=.amazon.com; expires=Fri, 26-Aug-2022 06:38:15 GMT; secure
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC%7C11Y+5x+kkTL.js,51KMV3Cz2XL.js,31x4ENTlVIL.js,31f4+QIEeqL.js,01N6xzIJxbL.js,518BI433aLL.js,01rpauTep4L.js,31QZSjMuoeL.js,61ofwvddDeL.js,01KsMxlPtzL.js_.js?AUIClients/AmazonUI
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=utf-8
+server: Server
+date: Thu, 18 Feb 2021 03:20:23 GMT
+expires: Wed, 13 Feb 2041 01:39:04 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-047 /images/I/61-6nKPKyWL
+x-amz-ir-id: 79402785-7b39-46d3-88e5-241631015099
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-047,/images/I/61-6nKPKyWL
+access-control-allow-origin: *
+last-modified: Thu, 12 Sep 2019 21:14:10 GMT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: QclmYmGoA7ov7gz8IOIUVoORT4yYWBbojQJ1d7-Pns9BHLikT9Ocsg==
+age: 16347551
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/21G215oqvfL._RC%7C21OJDARBhQL.js,218GJg15I8L.js,31lucpmF4CL.js,2119M3Ks9rL.js,51tvwEatRjL.js_.js?AUIClients/AuthenticationPortalAssets
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=utf-8
+server: Server
+date: Mon, 23 Aug 2021 19:26:47 GMT
+x-amz-ir-id: ffec79ea-762f-4803-9969-7921c27a706a
+expires: Sun, 18 Aug 2041 19:26:47 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-242 /images/I/21G215oqvfL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-242,/images/I/21G215oqvfL
+access-control-allow-origin: *
+last-modified: Tue, 24 Oct 2017 23:02:47 GMT
+x-nginx-cache-status: MISS
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: 1H8b1F8K5EGB5p8rcKt2bK8B6rQ8vvnNq3PX00C-D6l9bwyWpQAdNg==
+age: 213088
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/01wGDSlxwdL.js?AUIClients/AuthenticationPortalInlineAssets
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=utf-8
+server: Server
+date: Tue, 27 Jul 2021 06:54:59 GMT
+x-amz-ir-id: 8b972a13-5c96-4ab2-95dd-4286f020e54e
+expires: Wed, 03 Jul 2041 07:55:45 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-476 /images/I/01wGDSlxwdL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-476,/images/I/01wGDSlxwdL
+access-control-allow-origin: *
+last-modified: Tue, 22 Dec 2020 19:40:30 GMT
+x-nginx-cache-status: HIT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: zRqXIE7CgKY6zhec1psSdb2OgnVRG0HXEtq8uqX0xkOZoMrLTk8anA==
+age: 2590996
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/31ymou0ViiL.js?AUIClients/CVFAssets
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=UTF-8
+server: Server
+date: Tue, 17 Aug 2021 19:07:10 GMT
+x-amz-ir-id: 5094cf6a-ba99-4d7d-907c-42350723d591
+expires: Mon, 12 Aug 2041 19:07:10 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-060 /images/I/31ymou0ViiL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-060,/images/I/31ymou0ViiL
+access-control-allow-origin: *
+last-modified: Mon, 16 Aug 2021 20:05:13 GMT
+x-nginx-cache-status: MISS
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: ctZmlviAjZUWHhSwvdiLvGc_Wo5km5u7NhPpn-uUjJ_nsBvAiqoIBw==
+age: 732665
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/81oDzXaLrLL.js?AUIClients/SiegeClientSideEncryptionAUI
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=UTF-8
+server: Server
+date: Sat, 08 May 2021 12:30:40 GMT
+expires: Fri, 03 May 2041 03:31:29 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-456 /images/I/81oDzXaLrLL
+x-amz-ir-id: 944ec555-96cc-42d6-a586-9810d949a239
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-456,/images/I/81oDzXaLrLL
+access-control-allow-origin: *
+last-modified: Wed, 28 Apr 2021 15:07:36 GMT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: nu7_cQuFQVb3gSptSumI9WocTEdVef6ypknm4wbPbiAfDQNbKrbvZA==
+age: 9515206
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/71QA2qlWPdL.js?AUIClients/FWCIMAssets
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=UTF-8
+server: Server
+date: Tue, 17 Aug 2021 18:59:26 GMT
+x-amz-ir-id: cde71559-218e-45f6-89a3-5b235e1d6310
+expires: Mon, 12 Aug 2041 18:59:26 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-393 /images/I/71QA2qlWPdL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-393,/images/I/71QA2qlWPdL
+access-control-allow-origin: *
+last-modified: Mon, 16 Aug 2021 19:13:49 GMT
+x-nginx-cache-status: MISS
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: t5vilqldpdsdkzejntTQLWrmidPtOPn8U8CN2u2fiaD23GnehA0CaA==
+age: 733129
+----
+--Request 
+GET https://m.media-amazon.com/images/S/sash/mPGmT0r6IeTyIee.png
+Host: m.media-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://images-na.ssl-images-amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: image/png
+content-length: 27972
+server: Server
+date: Thu, 03 Jun 2021 17:10:23 GMT
+x-amz-ir-id: a1a7c497-7f55-467d-81aa-3ff7528a83b2
+expires: Sat, 25 May 2041 08:48:01 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-601 /images/S/sash/mPGmT0r6IeTyIee
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-601,/images/S/sash/mPGmT0r6IeTyIee
+access-control-allow-origin: *
+last-modified: Tue, 17 Nov 2020 23:31:33 GMT
+x-nginx-cache-status: HIT
+x-cache: Hit from cloudfront
+via: 1.1 9a250030a5060e562cc9af8882c66500.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: VIjYquDWS0BYhc5PxhCfIeRSkyc5FlWYpcTgMGn-Yf4ENQ0R5IidHw==
+age: 7219672
+----
+--Request 
+GET https://www.amazon.com/gp/remotepagelet/signin/checkout-perf-initiate-and-store.html?ie=UTF8&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0&hasWorkingJavascript=1
+Host: www.amazon.com
+rtt: 100
+downlink: 10
+ect: 4g
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2260679894l; csm-hit=tb:s-FD72PKSG3BACH7WMAJ2G|1629959895858&t:1629959895906&adb:adblk_no
+----
+--Response 
+HTTP/1.1 200
+server: Server
+content-type: text/html; charset=UTF-8
+x-amz-rid: WWQSRZHDT24Y7P5K8KV4
+x-amz-id-1: WWQSRZHDT24Y7P5K8KV4
+p3p: policyref=\"https://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"
+x-amz-checkout-page-type: CheckoutPrefetch
+x-amz-checkout-sub-page-type: signin-prefetch
+content-encoding: gzip
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+permissions-policy: interest-cohort=()
+content-length: 92
+date: Thu, 26 Aug 2021 06:38:16 GMT
+set-cookie: ubid-main=134-8185740-9201611; path=/; domain=.amazon.com; expires=Fri, 26-Aug-2022 06:38:15 GMT; secure
+set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Fri, 26-Aug-2022 06:38:15 GMT
+set-cookie: session-id=130-3698022-9774767; path=/; domain=.amazon.com; expires=Fri, 26-Aug-2022 06:38:15 GMT; secure
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/G/01/advertising/dev/js/live/adSnippet._CB485936109_.js
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript
+server: Server
+date: Mon, 01 Mar 2021 12:08:48 GMT
+expires: Mon, 18 Feb 2041 15:07:13 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-353 /images/G/01/advertising/dev/js/live/adSnippet
+x-amz-ir-id: 63182ffd-a005-4aae-bbd2-01979ab9944b
+timing-allow-origin: https://www.amazon.com
+edge-cache-tag: x-cache-353,/images/G/01/advertising/dev/js/live/adSnippet
+access-control-allow-origin: *
+last-modified: Thu, 05 Jul 2012 19:42:03 GMT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: 8NqWdpRxMqGVUrEnUoZ8la-ziOBae84M6MzpjL6V9WM8kuIW2TNGuw==
+age: 15866962
+----
+--Request 
+GET https://www.amazon.com/ap/uedata?ld&v=0.217562.0&id=FD72PKSG3BACH7WMAJ2G&sw=1366&sh=768&vw=1366&vh=607&m=1&sc=FD72PKSG3BACH7WMAJ2G&ue=3&bb=117&cf=134&be=163&fp=133&fcp=133&pc=974&tc=-980&na_=-980&ul_=-33&_ul=-33&rd_=-1629959895741&_rd=-1629959895741&fe_=-974&lk_=-974&_lk=-974&co_=-974&_co=-974&sc_=-1629959895741&rq_=-964&rs_=-43&_rs=-38&dl_=-26&di_=170&de_=170&_de=170&_dc=972&ld_=972&_ld=-1629959895741&ntd=0&ty=0&rc=0&hob=1&hoe=4&ld=976&t=1629959896717&ctb=1&rt=cf:7-0-3-0-2-4-1__ld:17-7-3-1-3-4-1&csmtags=aui|aui:aui_build_date:3.21.4-2021-08-16|fls-na-amazon-com|adblk_no&viz=visible:3&pty=AuthenticationPortal&spty=SignInClaimCollect&pti=undefined&tid=G6X1Y8N0VBKZCV7W5WAF&aftb=1
+Host: www.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+rtt: 100
+downlink: 10
+sec-ch-ua-mobile: ?0
+ect: 4g
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; csm-hit=tb:s-FD72PKSG3BACH7WMAJ2G|1629959895858&t:1629959895906&adb:adblk_no; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 204
+server: Server
+content-type: image/gif;charset=UTF-8
+x-amz-rid: 8H861JM0X4JQW5M6ZH2S
+x-xss-protection: 1
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+p3p: policyref=\"http://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"
+x-frame-options: SAMEORIGIN
+permissions-policy: interest-cohort=()
+date: Thu, 26 Aug 2021 06:38:16 GMT
+----
+--Request 
+GET https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:130-3698022-9774767:FD72PKSG3BACH7WMAJ2G$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.217562.0%26id%3DFD72PKSG3BACH7WMAJ2G%26sw%3D1366%26sh%3D768%26vw%3D1366%26vh%3D607%26m%3D1%26sc%3DFD72PKSG3BACH7WMAJ2G%26ue%3D3%26bb%3D117%26cf%3D134%26be%3D163%26fp%3D133%26fcp%3D133%26pc%3D974%26tc%3D-980%26na_%3D-980%26ul_%3D-33%26_ul%3D-33%26rd_%3D-1629959895741%26_rd%3D-1629959895741%26fe_%3D-974%26lk_%3D-974%26_lk%3D-974%26co_%3D-974%26_co%3D-974%26sc_%3D-1629959895741%26rq_%3D-964%26rs_%3D-43%26_rs%3D-38%26dl_%3D-26%26di_%3D170%26de_%3D170%26_de%3D170%26_dc%3D972%26ld_%3D972%26_ld%3D-1629959895741%26ntd%3D0%26ty%3D0%26rc%3D0%26hob%3D1%26hoe%3D4%26ld%3D976%26t%3D1629959896717%26ctb%3D1%26rt%3Dcf%3A7-0-3-0-2-4-1__ld%3A17-7-3-1-3-4-1%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.21.4-2021-08-16%7Cfls-na-amazon-com%7Cadblk_no%26viz%3Dvisible%3A3%26pty%3DAuthenticationPortal%26spty%3DSignInClaimCollect%26pti%3Dundefined%26tid%3DG6X1Y8N0VBKZCV7W5WAF%26aftb%3D1:979
+Host: fls-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 200
+date: Thu, 26 Aug 2021 06:38:16 GMT
+content-type: image/gif
+content-length: 43
+x-amzn-requestid: ae40a384-ee55-438b-bf6b-5470a7eab5cf
+----
+--Request 
+POST https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Host: unagi.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+ POSTDATA {"events":[{"data":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","producerId":"csa","schemaId":"csa.PageEntity.1","version":1,"attributes":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","meaningful":"interactive","url":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0","server":"www.amazon.com","path":"/ap/signin","referrer":"https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cc2e08119-3c6b-4345-8271-7544718c6ba2%2C1","title":"Amazon Sign-In","transitionType":"hard"},"timestamp":"2021-08-26T06:38:15.861Z","messageId":"o1471u-p0yrhf-3o6s5f-961mad","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER"}},{"data":{"transitionType":"hard","schemaId":"csa.PageRender.3","timestamp":"2021-08-26T06:38:15.862Z","messageId":"3pqj0d-5zmykt-gvuqpl-pl1cyy","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","meaningful":"interactive","url":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0","server":"www.amazon.com","path":"/ap/signin","referrer":"https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cc2e08119-3c6b-4345-8271-7544718c6ba2%2C1","title":"Amazon Sign-In","transitionType":"hard"},"session":{"id":"130-3698022-9774767"}}}},{"data":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","producerId":"csa","schemaId":"csa.PageEntity.1","version":2,"attributes":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","meaningful":"interactive","url":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0","server":"www.amazon.com","path":"/ap/signin","referrer":"https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cc2e08119-3c6b-4345-8271-7544718c6ba2%2C1","title":"Amazon Sign-In","transitionType":"hard","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect","pageTypeId":""},"timestamp":"2021-08-26T06:38:15.907Z","messageId":"gwhuq7-h2voc1-ur2m5-bahihh","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER"}},{"data":{"navigation":{"type":"normal","toTabId":"pefakl-gn19pw-wh4lp2-ew12ix","toPageId":"s6si0j-3yuwbk-meb05m-xx8k0a","transitTime":23535,"fromTabId":"pefakl-gn19pw-wh4lp2-ew12ix","fromPageId":"qp645e-va717e-rk0h5z-u5fmyr","interactionId":"k3kcpu-sfp47d-si7kpe-vt2zh8"},"schemaId":"csa.TabbedBrowsing.2","timestamp":"2021-08-26T06:38:15.910Z","messageId":"31mclg-4w9sh5-6rnqpy-ovp6cg","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect"},"session":{"id":"130-3698022-9774767"}}}},{"data":{"renderedToMeaningful":49,"renderedToViewed":49,"schemaId":"csa.PageView.4","timestamp":"2021-08-26T06:38:15.911Z","messageId":"7rvm84-lxxdka-6g4dca-z7yshf","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","meaningful":"interactive","url":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0","server":"www.amazon.com","path":"/ap/signin","referrer":"https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cc2e08119-3c6b-4345-8271-7544718c6ba2%2C1","title":"Amazon Sign-In","transitionType":"hard","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect","pageTypeId":""},"session":{"id":"130-3698022-9774767"}}}}]}
+--Response 
+HTTP/1.1 200
+Server: Server
+Date: Thu, 26 Aug 2021 06:38:16 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: ARZP8RW78KGN888EE4F6
+x-amzn-RequestId: c32c0cb2-a238-4bad-9f88-3c44ae587c0b
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+----
+--Request 
+GET https://images-na.ssl-images-amazon.com/images/I/31YXrY93hfL.js
+Host: images-na.ssl-images-amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/x-javascript; charset=utf-8
+server: Server
+date: Sun, 18 Jul 2021 06:59:34 GMT
+x-amz-ir-id: d799fa86-e729-4577-b6f7-bd8be94439e2
+expires: Sun, 19 May 2041 00:35:47 GMT
+cache-control: max-age=630720000,public
+surrogate-key: x-cache-705 /images/I/31YXrY93hfL
+timing-allow-origin: https://www.amazon.in, https://www.amazon.com
+edge-cache-tag: x-cache-705,/images/I/31YXrY93hfL
+access-control-allow-origin: *
+last-modified: Sat, 15 Dec 2018 22:50:47 GMT
+x-nginx-cache-status: HIT
+content-encoding: gzip
+x-cache: Hit from cloudfront
+via: 1.1 0d78818d88fc09ec67a83e5ca3c468f9.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: fgza-J3dEX7mlpRJO0W4ii5OJXD530crDvgYeluFt88PDG1Fs-f4oQ==
+age: 3368218
+----
+--Request 
+GET https://c.amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics-incremental.min.js
+Host: c.amazon-adsystem.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.amazon.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript
+access-control-allow-origin: *
+access-control-allow-methods: GET
+access-control-max-age: 3000
+last-modified: Sat, 21 Aug 2021 03:03:39 GMT
+x-amz-version-id: siqckWpxTNb0pYgU.2nzRtd6JjBUodCD
+server: AmazonS3
+content-encoding: gzip
+date: Wed, 25 Aug 2021 08:48:57 GMT
+cache-control: public, max-age=86400
+etag: W/\"4af795b77aecc79941c39a2e1f211ce1\"
+vary: Origin
+x-cache: Hit from cloudfront
+via: 1.1 7b6021da873d04f80bd9222eacd7ab1b.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: 70To7F4WMDH2oj1T4-9QMVwiqtZPO5Oqw2FqBqdwCc50Ig5LLIXosQ==
+age: 78456
+----
+--Request 
+GET https://www.amazon.com/aan/2009-09-09/ad/amazonexternal.us/GetAanAd?pt=CheckoutSignIn&pt2=santana&slot=right-2&n=1629959896728
+Host: www.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+rtt: 100
+downlink: 10
+sec-ch-ua-mobile: ?0
+ect: 4g
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; csm-hit=tb:s-FD72PKSG3BACH7WMAJ2G|1629959895858&t:1629959895906&adb:adblk_no; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 200
+server: Server
+content-type: text/plain
+content-length: 23
+x-amz-rid: J1F2WD61DGHJN9EB7ZZR
+x-amzn-requestid: 4d11d589-5ad9-4e09-a8fd-6c9d90fdd1af
+content-encoding: gzip
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+x-frame-options: SAMEORIGIN
+permissions-policy: interest-cohort=()
+date: Thu, 26 Aug 2021 06:38:16 GMT
+----
+
+
+--Request 
+POST https://fls-na.amazon.com/1/batch/1/OE/
+Host: fls-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+ POSTDATA {"rid":"FD72PKSG3BACH7WMAJ2G","sid":"130-3698022-9774767","mid":"ATVPDKIKX0DER","sn":"www.amazon.com","reqs":[{"csmcount":{"counter":"baselineCounter2","value":1,"t":3}},{"csmcount":{"counter":"CSMLibrarySize","value":9637,"t":4}},{"csmcount":{"counter":"aui:hiResDesktop","value":0,"t":112}},{"csmcount":{"counter":"aui:pagejs:pkgExecTime","value":4.3650001753121614,"t":114}},{"csmcount":{"counter":"aui:resource_count","value":1,"t":114}},{"csmcount":{"counter":"aui:resource_count","value":2,"t":115}},{"csmcount":{"counter":"aui:resource_count","value":3,"t":115}},{"csmcount":{"counter":"aui:resource_count","value":4,"t":115}},{"csmcount":{"counter":"aui:resource_count","value":5,"t":115}},{"csmcount":{"counter":"aui:resource_count","value":6,"t":116}},{"csmcount":{"counter":"csm.cookieSize","value":426,"t":117}},{"csmcount":{"counter":"CSMLibrarySize","value":2729,"t":118}},{"csmcount":{"counter":"CSMLibrarySize","value":14711,"t":123}},{"csmcount":{"counter":"totalImages","value":1,"t":164}},{"csmcount":{"counter":"CSMLibrarySize","value":37926,"t":170}},{"csmcount":{"counter":"aui:resource_count","value":7,"t":563}},{"csmcount":{"counter":"contactVerificationCVFCreate","value":1,"t":662}},{"csmcount":{"counter":"postbackImageSize","value":664,"t":979}},{"csmcount":{"counter":"aui:aui-unsupported-rupee","value":1,"t":996}},{"csm":{"k":"chk","f":1,"l":{"csmcount":19,"csm":1},"s":"full"}},{"csmcount":{"counter":"foresterPayloadSize","t":0,"value":1477}}]}
+--Response 
+HTTP/1.1 204
+date: Thu, 26 Aug 2021 06:38:17 GMT
+x-amzn-requestid: 0230fe2c-e781-4b6b-8652-485a90207ac8
+access-control-allow-origin: *
+access-control-expose-headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+----
+--Request 
+GET https://www.amazon.com/ap/uedata?at&v=0.217562.0&id=FD72PKSG3BACH7WMAJ2G&ctb=1&m=1&sc=FD72PKSG3BACH7WMAJ2G&pc=5404&at=5404&t=1629959901145&csmtags=csm-feature-touch-enabled:false&pty=AuthenticationPortal&spty=SignInClaimCollect&pti=undefined&tid=G6X1Y8N0VBKZCV7W5WAF&aftb=1
+Host: www.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+rtt: 100
+downlink: 10
+sec-ch-ua-mobile: ?0
+ect: 4g
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; csm-hit=tb:s-FD72PKSG3BACH7WMAJ2G|1629959895858&t:1629959895906&adb:adblk_no; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 204
+server: Server
+content-type: image/gif;charset=UTF-8
+x-amz-rid: DZNSDBWJN9PGQBVB0WV7
+x-xss-protection: 1
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+p3p: policyref=\"http://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"
+x-frame-options: SAMEORIGIN
+permissions-policy: interest-cohort=()
+date: Thu, 26 Aug 2021 06:38:21 GMT
+----
+--Request 
+GET https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:130-3698022-9774767:FD72PKSG3BACH7WMAJ2G$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.217562.0%26id%3DFD72PKSG3BACH7WMAJ2G%26ctb%3D1%26m%3D1%26sc%3DFD72PKSG3BACH7WMAJ2G%26pc%3D5404%26at%3D5404%26t%3D1629959901145%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DAuthenticationPortal%26spty%3DSignInClaimCollect%26pti%3Dundefined%26tid%3DG6X1Y8N0VBKZCV7W5WAF%26aftb%3D1:5404
+Host: fls-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 200
+date: Thu, 26 Aug 2021 06:38:20 GMT
+content-type: image/gif
+content-length: 43
+x-amzn-requestid: 688de731-95d9-43be-b124-31c52544e810
+----
+--Request 
+GET https://www.amazon.com/ap/uedata?at&v=0.217562.0&id=FD72PKSG3BACH7WMAJ2G&ctb=1&m=1&sc=FD72PKSG3BACH7WMAJ2G&pc=5413&at=5413&t=1629959901154&pty=AuthenticationPortal&spty=SignInClaimCollect&pti=undefined&tid=G6X1Y8N0VBKZCV7W5WAF&aftb=1&ui=2
+Host: www.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+rtt: 100
+downlink: 10
+sec-ch-ua-mobile: ?0
+ect: 4g
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; csm-hit=tb:s-FD72PKSG3BACH7WMAJ2G|1629959895858&t:1629959895906&adb:adblk_no; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 204
+server: Server
+content-type: image/gif;charset=UTF-8
+x-amz-rid: DQ5HF7NVC075427GZTJ5
+x-xss-protection: 1
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+p3p: policyref=\"http://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"
+x-frame-options: SAMEORIGIN
+permissions-policy: interest-cohort=()
+date: Thu, 26 Aug 2021 06:38:21 GMT
+----
+--Request 
+GET https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:130-3698022-9774767:FD72PKSG3BACH7WMAJ2G$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.217562.0%26id%3DFD72PKSG3BACH7WMAJ2G%26ctb%3D1%26m%3D1%26sc%3DFD72PKSG3BACH7WMAJ2G%26pc%3D5413%26at%3D5413%26t%3D1629959901154%26pty%3DAuthenticationPortal%26spty%3DSignInClaimCollect%26pti%3Dundefined%26tid%3DG6X1Y8N0VBKZCV7W5WAF%26aftb%3D1%26ui%3D2:5413
+Host: fls-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+--Response 
+HTTP/1.1 200
+date: Thu, 26 Aug 2021 06:38:20 GMT
+content-type: image/gif
+content-length: 43
+x-amzn-requestid: c5e95ef8-3438-458c-b3a2-e860c16ddbe0
+----
+--Request 
+POST https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Host: unagi.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+ POSTDATA {"events":[{"data":{"markers":{"pageVisible":0,"ue":983,"bodyBegin":1097,"criticalFeature":1114,"bodyEnd":1143,"firstPaint":1113,"firstContentfulPaint":1113,"pc":1954,"tc":0,"na_":0,"ul_":947,"_ul":947,"rd_":1958,"_rd":1958,"fe_":6,"lk_":6,"_lk":6,"co_":6,"_co":6,"sc_":1958,"rq_":16,"rs_":937,"_rs":942,"dl_":954,"di_":1150,"de_":1150,"_de":1150,"_dc":1952,"ld_":1952,"_ld":1958,"ntd":980,"ty":980,"rc":980,"hob":981,"hoe":984,"loaded":1956,"navigationStart":0,"unloadEventStart":947,"unloadEventEnd":947,"fetchStart":6,"domainLookupStart":6,"domainLookupEnd":6,"connectStart":6,"connectEnd":6,"requestStart":16,"responseStart":937,"responseEnd":942,"domLoading":954,"domInteractive":1150,"domContentLoadedEventStart":1150,"domContentLoadedEventEnd":1150,"domComplete":1952,"loadEventStart":1952,"largestContentfulPaint":1113,"largestContentfulPaint.render":1113},"markerTimestamps":{"pageVisible":1629959894761,"ue":1629959895744,"bodyBegin":1629959895858,"criticalFeature":1629959895875,"bodyEnd":1629959895904,"firstPaint":1629959895874,"firstContentfulPaint":1629959895874,"pc":1629959896715,"tc":1629959894761,"na_":1629959894761,"ul_":1629959895708,"_ul":1629959895708,"rd_":1629959896719,"_rd":1629959896719,"fe_":1629959894767,"lk_":1629959894767,"_lk":1629959894767,"co_":1629959894767,"_co":1629959894767,"sc_":1629959896719,"rq_":1629959894777,"rs_":1629959895698,"_rs":1629959895703,"dl_":1629959895715,"di_":1629959895911,"de_":1629959895911,"_de":1629959895911,"_dc":1629959896713,"ld_":1629959896713,"_ld":1629959896719,"ntd":1629959895741,"ty":1629959895741,"rc":1629959895741,"hob":1629959895742,"hoe":1629959895745,"loaded":1629959896717,"navigationStart":1629959894761,"unloadEventStart":1629959895708,"unloadEventEnd":1629959895708,"fetchStart":1629959894767,"domainLookupStart":1629959894767,"domainLookupEnd":1629959894767,"connectStart":1629959894767,"connectEnd":1629959894767,"requestStart":1629959894777,"responseStart":1629959895698,"responseEnd":1629959895703,"domLoading":1629959895715,"domInteractive":1629959895911,"domContentLoadedEventStart":1629959895911,"domContentLoadedEventEnd":1629959895911,"domComplete":1629959896713,"loadEventStart":1629959896713,"largestContentfulPaint":1629959895874,"largestContentfulPaint.render":1629959895874},"navigationStartTimestamp":"2021-08-26T06:38:14.761Z","schemaId":"csa.PageLatency.5","timestamp":"2021-08-26T06:38:16.738Z","messageId":"m2nmvq-z6mzm5-slbihe-as9pq6","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect"},"session":{"id":"130-3698022-9774767"}}}},{"data":{"renderedToMeaningful":49,"renderedToViewed":49,"renderedToImpressed":1484,"schemaId":"csa.PageImpressed.2","timestamp":"2021-08-26T06:38:17.346Z","messageId":"p7cuf8-an22l7-p2v427-vch15l","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","meaningful":"interactive","url":"https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0","server":"www.amazon.com","path":"/ap/signin","referrer":"https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cc2e08119-3c6b-4345-8271-7544718c6ba2%2C1","title":"Amazon Sign-In","transitionType":"hard","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect","pageTypeId":""},"session":{"id":"130-3698022-9774767"}}}},{"data":{"schemaId":"csa.Metric.3","metrics":{"baselineMetricEvent":1},"dimensions":{},"timestamp":"2021-08-26T06:38:18.909Z","messageId":"q1rh8y-r3vome-v1zxi0-eg27hw","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect"},"session":{"id":"130-3698022-9774767"}}}}]}
+--Response 
+HTTP/1.1 200
+Server: Server
+Date: Thu, 26 Aug 2021 06:38:21 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: HKPJYM382VYHQETFEEA5
+x-amzn-RequestId: 2058e13a-5a67-4f0e-9d34-35dbd61d8f94
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+----
+--Request 
+POST https://update.googleapis.com/service/update2/json
+Host: update.googleapis.com
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+----
+ POSTDATA {"request":{"@os":"win","@updater":"chromium","acceptformat":"crx2,crx3","app":[{"appid":"giekcmmlnklenlaomppkphknjmnnpneh","event":[{"download_time_ms":4014,"downloaded":5406,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"7","previousversion":"0.0.0.0","total":5406,"url":"http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIZk8O7Cv2UUbxc_aaUykKI_7/ALzUVHP-vRgKCzqwbtGugSE"},{"eventresult":1,"eventtype":3,"nextfp":"1.fd515ec0dc30d25a09641b8b83729234bc50f4511e35ce17d24fd996252eaace","nextversion":"7","previousversion":"0.0.0.0"}],"version":"7"}],"arch":"x86","dedup":"cr","hw":{"physmemory":16},"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.18363.1734"},"prodversion":"90.0.4430.93","protocol":"3.1","requestid":"{9a96ace4-ec5b-449c-b56e-9a6900f66d52}","sessionid":"{5f99e4a4-7c91-40a0-a1fb-2a368370fd2f}","updaterversion":"90.0.4430.93","wow64":true}}
+--Response 
+HTTP/1.1 200
+content-security-policy: script-src 'report-sample' 'nonce-4DpoFGzKlknzbUg3kN1U3Q' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 26 Aug 2021 06:38:27 GMT
+content-type: application/json; charset=utf-8
+x-daynum: 5350
+x-daystart: 85107
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-length: 169
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+POST https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Host: unagi.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+ POSTDATA {"events":[{"data":{"markers":{"visuallyLoaded10":1104,"visuallyLoaded20":1104,"visuallyLoaded30":1104,"visuallyLoaded40":1104,"visuallyLoaded50":1104,"visuallyLoaded60":1104,"visuallyLoaded70":1104,"visuallyLoaded80":1114,"visuallyLoaded90":1114,"visuallyLoaded100":1114,"speedIndex":1107,"visuallyLoaded0":0,"atfSpeedIndex":1107,"cumulativeLayoutShiftLastTimestamp":0,"pc":6393,"at":6393},"markerTimestamps":{"visuallyLoaded10":1629959895865,"visuallyLoaded20":1629959895865,"visuallyLoaded30":1629959895865,"visuallyLoaded40":1629959895865,"visuallyLoaded50":1629959895865,"visuallyLoaded60":1629959895865,"visuallyLoaded70":1629959895865,"visuallyLoaded80":1629959895875,"visuallyLoaded90":1629959895875,"visuallyLoaded100":1629959895875,"speedIndex":1629959895868,"visuallyLoaded0":1629959894761,"atfSpeedIndex":1629959895868,"cumulativeLayoutShiftLastTimestamp":1629959894761,"pc":1629959901154,"at":1629959901154},"navigationStartTimestamp":"2021-08-26T06:38:14.761Z","schemaId":"csa.PageLatency.5","timestamp":"2021-08-26T06:38:22.280Z","messageId":"4omil4-ixosvt-65kvbb-cqaw3l","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect"},"session":{"id":"130-3698022-9774767"}}}},{"data":{"schemaId":"csa.Metric.3","metrics":{"documentCumulativeLayoutShift":0},"dimensions":{},"timestamp":"2021-08-26T06:38:23.910Z","messageId":"tobo2q-wjpjfe-iogji3-7hur39","application":"Other:www.amazon.com","obfuscatedMarketplaceId":"ATVPDKIKX0DER","producerId":"csa","entities":{"page":{"id":"s6si0j-3yuwbk-meb05m-xx8k0a","requestId":"FD72PKSG3BACH7WMAJ2G","pageType":"AuthenticationPortal","subPageType":"SignInClaimCollect"},"session":{"id":"130-3698022-9774767"}}}}]}
+--Response 
+HTTP/1.1 200
+Server: Server
+Date: Thu, 26 Aug 2021 06:38:27 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: V39CT3B847SM4XHS82NJ
+x-amzn-RequestId: 47b11480-87f5-4f96-b309-d45066c5bfd9
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+----
+--Request 
+POST https://fls-na.amazon.com/1/batch/1/OE/
+Host: fls-na.amazon.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session-id=130-3698022-9774767; i18n-prefs=USD; sp-cdn=\"L5Z9:IN\"; skin=noskin; ubid-main=134-8185740-9201611; session-token=opW9gpOquCniaG+98NEN6eMUT0o5OB3KWYwCcNCi/16jC/AuYNJoqmP+F8iUvk0TxgAde2AywdGAwACcas4fwDZ1AUMExh4ncqwC65XJhiGDiCnOf+M3CYFox5IKhGDiXi7lcjAt61esRgCR2t6VGGOidPkUBYP7Dt13HdaBiXNdwVZbei6VyCKsy4GwDvhk; session-id-time=2082787201l
+----
+ POSTDATA {"rid":"FD72PKSG3BACH7WMAJ2G","sid":"130-3698022-9774767","mid":"ATVPDKIKX0DER","sn":"www.amazon.com","reqs":[{"csmcount":{"counter":"postbackImageSize","value":251,"t":5404}},{"csmcount":{"counter":"postbackImageSize","value":216,"t":5413}},{"csm":{"k":"chk","f":2,"l":{"csmcount":21,"csm":2},"s":"full"}},{"csmcount":{"counter":"foresterPayloadSize","t":0,"value":372}}]}
+--Response 
+HTTP/1.1 204
+date: Thu, 26 Aug 2021 06:38:27 GMT
+x-amzn-requestid: 6b2d92c5-42cd-435a-94be-23891ecf86d4
+access-control-allow-origin: *
+access-control-expose-headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+----
+

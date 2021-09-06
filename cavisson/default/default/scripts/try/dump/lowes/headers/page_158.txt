@@ -1,0 +1,30 @@
+--Request 
+GET https://d.us.criteo.com/delivery/adserving?criteo-partner-id=75776&nocall=cd&retailer-visitor-id=7493495&environment=d&item=5000143961&price=349&availability=1&page-id=viewItem_API_desktop&event-type=viewItem
+Host: d.us.criteo.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: private
+content-type: application/json
+content-encoding: gzip
+vary: Origin,Accept-Encoding
+server: Microsoft-IIS/10.0
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+x-aspnet-version: 4.0.30319
+set-cookie: h=%7b%22Pdp_v%22%3a%5b%5d%2c%22d%22%3a%7b%22m%22%3a%221%22%2c%22as_vpc%22%3a%22ov0cN6v5lNPs5d1tlhqG4Q%3d%3d%22%7d%7d; domain=.criteo.com; expires=Thu, 11-Aug-2022 05:31:22 GMT; path=/
+x-powered-by: ASP.NET
+date: Wed, 11 Aug 2021 05:31:22 GMT
+content-length: 175
+----
+

@@ -1,0 +1,1806 @@
+--Request 
+POST https://6852bd0e.akstat.io/
+Host: 6852bd0e.akstat.io
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 204
+access-control-allow-origin: https://www.lowes.com
+x-xss-protection: 0
+access-control-allow-credentials: true
+timing-allow-origin: *
+content-type: image/gif
+expires: Wed, 11 Aug 2021 05:30:47 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 11 Aug 2021 05:30:47 GMT
+----
+--Request 
+GET https://beacon.krxd.net/pixel.gif?source=smarttag&fired=report&confid=r0usxrln4&_kpid=e30196c7-5053-416c-94a4-c1acfb09b619&_kcp_s=Lowes&_kcp_d=www.lowes.com&_knifr=2&_kua_kx_tz=300&geo_country=in&geo_region=or&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&_kua_lowes_profile.user.CurrentStore.zip=99701&_kua_lowes_profile.user.storeNumber=1985&_kua_userType=diy&_kua_kx_whistle=0&_kua_kx_tech_browser=Chrome%209&_kua_kx_tech_manufacturer=Other&_kua_kx_tech_device=Computer&_kua_kx_tech_os=Linux&_kua_kx_geo_country=in&_kua_kx_geo_region=or&_kpa_domain=lowes.com&_kpa_lowes_page.pageType=hp&_kpa_lowes_page.sysEnv=https%3A%2F%2Fwww.lowes.com%2F&_kpa_lowes_page.siteSection=hp&_kpa_lowes_page.siteSectionTwo=hp&_kpa_lowes_page.siteSectionThree=hp&_kpa_lowes_page.siteSectionFour=hp&t_navigation_type=0&t_dns=261&t_tcp=558&t_http_request=-1&t_http_response=72&t_content_ready=2334&t_window_load=9021&t_redirect=0&interchange_ran=false&userdata_was_requested=true&userdata_did_respond=true&store_user_after=wkiiqd06g&_kurl_=https%3A%2F%2Fwww.lowes.com&userdata_user=OS0grtrm%2Cwkiiqd06g&sview=1&kplt0=32022&kplt1=35845&kplt2=31609&kplt3=32302&kplt4=32892&kplt5=32365&kplt6=32880&kplt7=45511&kplt8=46780&kplt9=46851&kplt10=47456&jsonp_requests=https%3A%2F%2Fconsumer.krxd.net%2Fconsent%2Fget%2Fe30196c7-5053-416c-94a4-c1acfb09b619%2C807%2Chttps%3A%2F%2Fbeacon.krxd.net%2Foptout_check%2CNaN%2Chttps%3A%2F%2Fcdn.krxd.net%2Fuserdata%2Fget%2C386
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n008-pdx-prod.krxd.net
+x-request-time: D=116 t=1628659848
+----
+--Request 
+GET https://s.pinimg.com/ct/core.js
+Host: s.pinimg.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+etag: \"d281f5ef4add283680ff41edc6dd28c4\"
+cache-control: max-age=7200
+accept-ranges: bytes
+content-type: application/javascript
+content-encoding: gzip
+content-length: 584
+vary: Accept-Encoding, Origin
+x-fallback: 8f63c4fa-49.44.114.178
+x-cdn: akamai
+access-control-max-age: 86400
+access-control-expose-headers: X-CDN
+access-control-allow-methods: GET
+access-control-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC3f2f71a5d0404175929be845aae79016-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 1457
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCce86c7e82e1c4d68a5fc6fba2fe4d928-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 574
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC3a17c74de0ca481cb77cb434c4b501fc-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 893
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC420597ffe0644954993e7b551468eebb-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 758
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://match.adsrvr.org/track/cmb/generic?ttd_pid=krux&ttd_tpi=1
+Host: match.adsrvr.org
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: TDID=f13a2308-d19b-4261-8f70-1932ca95e8ae; TDCPM=CAEYBSgCMgsIuqiD-vyk7jkQBTgB
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:47 GMT
+content-type: text/html
+content-length: 227
+location: https://beacon.krxd.net/usermatch.gif?partner=ttd&partner_uid=f13a2308-d19b-4261-8f70-1932ca95e8ae
+cache-control: private,no-cache, must-revalidate
+pragma: no-cache
+x-aspnet-version: 4.0.30319
+set-cookie: TDID=f13a2308-d19b-4261-8f70-1932ca95e8ae; domain=.adsrvr.org; expires=Thu, 11-Aug-2022 05:30:47 GMT; path=/; secure; SameSite=None
+set-cookie: TDCPM=CAESEwoEa3J1eBILCIrzxs7mpO45EAUYBSABKAIyCwi6qIP6_KTuORAFOAE.; domain=.adsrvr.org; expires=Thu, 11-Aug-2022 05:30:47 GMT; path=/; secure; SameSite=None
+p3p: CP=\"NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV\"
+----
+--Request 
+GET https://fdz.flashtalking.com/services/lowes/FBI-2422_segment/?&U1=&U2=&U3=1985&U4=99701&U5=&U6=&U7=&U8=&U9=&U10=&U11=&U14=&U15=hp&U16=hp&U17=hp&U19=&U20=
+Host: fdz.flashtalking.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-type: image/gif
+server: nginx
+x-powered-by: PHP/5.6.40
+----
+--Request 
+GET https://d.impactradius-event.com/A2490986-6272-4119-80d2-3e11fba8509a1.js
+Host: d.impactradius-event.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-guploader-uploadid: ADPycdursdNHVvynv6CsHorswIDLSC7OOcPRmUfTfoft32o3j5Bc9sSYZbeBLzfnOIRCGre3ZlLVZ4QaCJnGwUQjX2YLR4weJg
+date: Wed, 11 Aug 2021 05:30:25 GMT
+expires: Wed, 11 Aug 2021 05:35:25 GMT
+last-modified: Wed, 07 Jul 2021 19:52:08 GMT
+etag: \"0c438a3c854ad9fa9031766d943637ed\"
+x-goog-generation: 1625687528900606
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: gzip
+x-goog-stored-content-length: 13145
+content-type: text/javascript; charset=utf-8
+content-encoding: gzip
+x-goog-hash: crc32c=wqa/+g==
+x-goog-hash: md5=DEOKPIVK2fqQMXZtlDY37Q==
+x-goog-storage-class: MULTI_REGIONAL
+accept-ranges: bytes
+vary: Accept-Encoding
+content-length: 13145
+server: UploadServer
+age: 23
+cache-control: public,max-age=900,s-maxage=300
+alt-svc: clear
+----
+--Request 
+GET https://cm.g.doubleclick.net/pixel?google_nid=krux_digital&google_cm=&google_hm=T1MwZ3J0cm0&google_tc=
+Host: cm.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: test_cookie=CheckForPermission
+----
+--Response 
+HTTP/1.1 302
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+location: https://beacon.krxd.net/usermatch.gif?google_gid=CAESEEEQPOvzeuViHUrVYT3CLvc&google_cver=1
+date: Wed, 11 Aug 2021 05:30:47 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+cross-origin-resource-policy: cross-origin
+content-type: text/html; charset=UTF-8
+server: HTTP server (unknown)
+content-length: 291
+x-xss-protection: 0
+set-cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno; expires=Fri, 11-Aug-2023 05:30:47 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none
+set-cookie: test_cookie=; expires=Fri, 01-Aug-2008 22:45:55 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC61df4c46e1804f5885d1d9487d3249f5-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 445
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?_kuid=OS0grtrm&partner=bluekai&bk_uuid=Klf4m99999O0OCBC
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n012-pdx-prod.krxd.net
+x-request-time: D=36 t=1628659848
+----
+--Request 
+GET https://static.ads-twitter.com/uwt.js
+Host: static.ads-twitter.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+last-modified: Mon, 12 Jul 2021 23:59:25 GMT
+cache-control: no-cache
+content-type: application/javascript; charset=utf-8
+etag: \"65cf0c0ceb852397f0d1e6732cd3c533+gzip\"
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:48 GMT
+via: 1.1 varnish
+age: 19398
+x-served-by: cache-bom4721-BOM
+x-cache: HIT
+x-timer: S1628659848.237036,VS0,VE0
+vary: Accept-Encoding,Host
+p3p: CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\"
+content-length: 1958
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCacde2c6c5c9848b490f9b665b2b5750f-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 523
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=ttd&partner_uid=f13a2308-d19b-4261-8f70-1932ca95e8ae
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n001-pdx-prod.krxd.net
+x-request-time: D=26 t=1628659848
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?google_gid=CAESEEEQPOvzeuViHUrVYT3CLvc&google_cver=1
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n003-pdx-prod.krxd.net
+x-request-time: D=22 t=1628659848
+----
+--Request 
+GET https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMjg0OTE3NDgvdC8y/dpuid/OS0grtrm
+Host: d.turn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"/w3c/p3p.xml\", CP=\"NOI CURa DEVa TAIa PSAa PSDa IVAa IVDa OUR IND UNI NAV\"
+cache-control: max-age=0, no-cache, no-store, private, must-revalidate, s-maxage=0
+pragma: no-cache
+set-cookie: uid=2593503206972586265; Domain=.turn.com; Expires=Mon, 07-Feb-2022 05:30:49 GMT; Path=/; Secure; SameSite=None
+content-type: image/gif
+content-length: 43
+date: Wed, 11 Aug 2021 05:30:48 GMT
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC40e28284239f4944be946816c3ebdee8-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 499
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://beacon.krxd.net/data.gif?_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e&_kua_seg=000&_kua_zip=&_kua_age=&_kua_gender=&_k_adadvisor_key=
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n010-pdx-prod.krxd.net
+x-request-time: D=55 t=1628659848
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=neustar&partner_uid=1kAM48Nq47yowvgBx3scMh8J%2BxD4k3lLPqmISYjX2i0%3D
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n011-pdx-prod.krxd.net
+x-request-time: D=35 t=1628659848
+----
+--Request 
+GET https://connect.facebook.net/en_US/fbevents.js
+Host: connect.facebook.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: application/x-javascript; charset=utf-8
+report-to: {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/\"}],\"group\":\"coop_report\"}
+x-fb-rlafr: 0
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy-report-only: require-corp;report-to=\"coop_report\"
+pragma: public
+cache-control: public, max-age=1200
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+content-security-policy: default-src * data: blob: 'self';script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.google.com 127.0.0.1:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';block-all-mixed-content;upgrade-insecure-requests;
+x-frame-options: DENY
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-fb-debug: eETF5Rl6zmERGRNOixgtoUOinFm+Aj4VrKwKXu6gqjev1FbiXL1Rmb6sPLQi53uoZ/eHeJMfoCP2zP1DFFcLNw==
+priority: u=3,i
+content-length: 25944
+x-fb-trip-id: 1588961438
+date: Wed, 11 Aug 2021 05:30:48 GMT
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC17e89cc9a97f49c6bef6e0b05a50ba6b-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 845
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://api.official-deals.co.uk/v1/pixel?c=%7B%22w%22:%220l554347-da15-447f-9091-6e8941024cdc%22,%22u%22:%222264cea9-561b-4391-a2cf-df49e5250cf2%22,%22s%22:%229b790476-7d0d-4673-841d-7cd3601cfc6b%22,%22se%22:1631251848%7D
+Host: api.official-deals.co.uk
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+content-type: image/gif
+content-length: 0
+location: https://api.official-coupons.com/v1/pixel?r=1&c=%7B%22w%22%3A%220l554347-da15-447f-9091-6e8941024cdc%22%2C%22u%22%3A%222264cea9-561b-4391-a2cf-df49e5250cf2%22%2C%22s%22%3A%229b790476-7d0d-4673-841d-7cd3601cfc6b%22%2C%22se%22%3A1631251848%7D
+date: Wed, 11 Aug 2021 05:30:48 GMT
+x-amzn-requestid: 11def76f-51bd-4e1f-b8de-e9586c46660e
+access-control-allow-origin: *
+set-cookie: REVLIFTER=[{\"w\":\"0l554347-da15-447f-9091-6e8941024cdc\",\"u\":\"2264cea9-561b-4391-a2cf-df49e5250cf2\",\"s\":\"9b790476-7d0d-4673-841d-7cd3601cfc6b\",\"se\":1631251848}]; path=/; domain=.official-deals.co.uk; expires=Thu, 11 Aug 2022 05:30:48 GMT; SameSite=None; Secure;
+x-amz-apigw-id: D4wFaFpFDoEF2Tw=
+x-amzn-trace-id: Root=1-61136088-4f204ec475abd4d672c71fd1;Sampled=0
+x-cache: Miss from cloudfront
+via: 1.1 eef093dbb3e6403b1f56cf6f24d288ad.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: clKmmfj6pqgYhf8uHFlP_cEmkuLEbd-vPvjDuglQjHb1bHS869zDDg==
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC048b00ad01764079b31c72e0fae5fc9e-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 547
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC2ec50c6f7acb4c3c8388ac4d697347fa-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 690
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC39ed03d9a7c54207bfd191d1940d916b-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 2755
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC289cf6dc3ebe40ecb8586a89a037dd31-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 755
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=flashtalking&partner_uid=4971A57BD143B2
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n011-pdx-prod.krxd.net
+x-request-time: D=28 t=1628659848
+----
+--Request 
+GET https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.1&p_id=Twitter&p_user_id=0&txn_id=nv09u&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.lowes.com%2F
+Host: analytics.twitter.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\"
+date: Wed, 11 Aug 2021 05:30:48 GMT
+pragma: no-cache
+server: tsa_k
+status: 200 OK
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+set-cookie: personalization_id=\"v1_8FRIKzoSIucI9EiiVI71ig==\"; Max-Age=63072000; Expires=Fri, 11 Aug 2023 05:30:48 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+content-type: application/javascript;charset=utf-8
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+last-modified: Wed, 11 Aug 2021 05:30:48 GMT
+x-transaction: 664d9c491a00284b
+content-length: 57
+x-frame-options: SAMEORIGIN
+content-encoding: gzip
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-twitter-response-tags: BouncerCompliant
+strict-transport-security: max-age=631138519
+x-connection-hash: f49256e3e61c517e3a327b5c8340855ea6df6d7e61f3bcfe4fce14355457c622
+----
+--Request 
+GET https://t.co/i/adsct?type=javascript&version=2.0.1&p_id=Twitter&p_user_id=0&txn_id=nv09u&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.lowes.com%2F
+Host: t.co
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:48 GMT
+pragma: no-cache
+server: tsa_k
+status: 200 OK
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+content-type: image/gif;charset=utf-8
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+last-modified: Wed, 11 Aug 2021 05:30:48 GMT
+x-transaction: 3bd40b3a1d6283e9
+content-length: 65
+x-frame-options: SAMEORIGIN
+content-encoding: gzip
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-twitter-response-tags: BouncerCompliant
+strict-transport-security: max-age=0
+x-connection-hash: 98de065d346b40f53b772b1de120e557c6e78fe39704899c446fdfb5989a9adc
+----
+--Request 
+GET https://analytics.twitter.com/i/adsct?p_user_id=OS0grtrm&p_id=10623
+Host: analytics.twitter.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:48 GMT
+pragma: no-cache
+server: tsa_k
+status: 200 OK
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+set-cookie: personalization_id=\"v1_Lp8aPhtOa2N5oEhHx3p45Q==\"; Max-Age=63072000; Expires=Fri, 11 Aug 2023 05:30:48 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+content-type: image/gif;charset=utf-8
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+last-modified: Wed, 11 Aug 2021 05:30:48 GMT
+x-transaction: 2f1e4ffded6d7562
+content-length: 65
+x-frame-options: SAMEORIGIN
+content-encoding: gzip
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-twitter-response-tags: BouncerCompliant
+strict-transport-security: max-age=631138519
+x-connection-hash: f49256e3e61c517e3a327b5c8340855ea6df6d7e61f3bcfe4fce14355457c622
+----
+--Request 
+GET https://lptag.liveperson.net/tag/tag.js?site=22554410
+Host: lptag.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:50 GMT
+content-type: application/javascript
+content-length: 7567
+last-modified: Thu, 03 Sep 2020 08:27:49 GMT
+etag: \"5f50a905-1d8f\"
+content-encoding: gzip
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+cache-control: public, max-age=630
+----
+--Request 
+GET https://p.adsymptotic.com/d/px/?_pid=15571&_psign=fbab9de3673937603cddeab03f31b899&_puuid=OS0grtrm&_redirect=https:%2F%2Fbeacon.krxd.net%2Fusermatch.gif%3Fpartner%3Ddrawbridge%26partner_uid%3D%24%7BUUID%7D
+Host: p.adsymptotic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 403
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+expect-ct: max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"
+vary: Accept-Encoding
+server: cloudflare
+cf-ray: 67cf12f67bd5e346-CCU
+content-encoding: gzip
+----
+--Request 
+GET https://usermatch.krxd.net/um/v2?partner=teadspartner&gdpr=0
+Host: usermatch.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 0
+location: https://sync.teads.tv/sf/sync?partner_uid=OS0grtrm&gdpr=0
+x-cache: MISS
+x-cache-hits: 0
+x-served-by: usermatch-a011-ash-prod.krxd.net
+x-age: 0
+----
+--Request 
+GET https://sync.crwdcntrl.net/map/c=9164/TP=KRUX/tpid=OS0grtrm?https://beacon.krxd.net/usermatch.gif?partner=lotame&partner_uid=${profile_id}
+Host: sync.crwdcntrl.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 0
+location: https://sync.crwdcntrl.net/map/ct=y/c=9164/TP=KRUX/tpid=OS0grtrm?https://beacon.krxd.net/usermatch.gif?partner=lotame&partner_uid=${profile_id}
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV
+cache-control: no-cache
+pragma: no-cache
+expires: 0
+x-server: 10.42.24.155
+set-cookie: _cc_cc=ctst;Path=/;Domain=crwdcntrl.net;SameSite=None;Secure
+server: Jetty(9.4.38.v20210224)
+----
+--Request 
+GET https://match.rundsp.com/match.gif?partner=krux
+Host: match.rundsp.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+server: nginx
+date: Wed, 11 Aug 2021 05:30:49 GMT
+----
+--Request 
+GET https://cm.g.doubleclick.net/pixel?google_cm&google_nid=krux_digital&google_hm=T1MwZ3J0cm0
+Host: cm.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 302
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+location: https://beacon.krxd.net/usermatch.gif?google_gid=CAESEEEQPOvzeuViHUrVYT3CLvc&google_cver=1
+date: Wed, 11 Aug 2021 05:30:48 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+cross-origin-resource-policy: cross-origin
+content-type: text/html; charset=UTF-8
+server: HTTP server (unknown)
+content-length: 291
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://krux2waycm.netmng.com/cm/
+Host: krux2waycm.netmng.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC59d4420b823e47f1910c7b3645160666-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 1327
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCb493cf1ad0b54f20b2e824242e38a4d2-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 415
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC54531dfbcb804f1e946f0fe9300aaa29-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 1705
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://d.agkn.com/pixel/9458/?che=1363075958360343&mcvsid=71747673865418841840298191736677393887
+Host: d.agkn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: ab=0001%3A%2FyLug1DlaXl7q9E7Spnh2ZMokjof0aSy
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+content-length: 43
+cache-control: no-cache, must-revalidate
+date: Wed, 11 Aug 2021 05:30:48 GMT
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+p3p: CP=\"NOI DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT\"
+pragma: no-cache
+server: Apache-Coyote/1.1
+set-cookie: ab=0001%3A%2FyLug1DlaXl7q9E7Spnh2ZMokjof0aSy;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure
+set-cookie: u=C|0CAAAAAAAKKYdCQAAAAAAATT4AAAAAA;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure
+x-cache: Miss from cloudfront
+via: 1.1 517bd2dfbf745eddfa0429e3625229ec.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: 9uUsjlYwUVMjBWuOay_CQKH6flJS1RcTQvZqJaH30pyv4GMtCbb0HQ==
+----
+--Request 
+GET https://login.dotomi.com/ucm/UCMController?dtm_com=28&dtm_cid=2621&dtm_cmagic=cc7090&dtm_format=5&dtm_fid=101&cli_promo_id=hp&dtmc_loc=https%3A%2F%2Fwww.lowes.com%2F&canonical_url=https%3A%2F%2Fwww.lowes.com%2F
+Host: login.dotomi.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+server: nginx
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-type: text/html
+content-length: 988
+cache-control: no-cache, private, max-age=0, no-store
+expires: 0
+pragma: no-cache
+p3p: policyref=\"/w3c/p3p.xml\", CP=\"NOI DSP NID OUR STP\"
+content-encoding: gzip
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCb3ad2a2bd3ca47dfbdb42be185649f14-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 360
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=1991787310418494494
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:23 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n005-pdx-prod.krxd.net
+x-request-time: D=24 t=1628659823
+----
+--Request 
+GET https://track.eyeviewads.com/sync/krux
+Host: track.eyeviewads.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://fei.pro-market.net/engine?mimetype=img&du=88&csync=OS0grtrm
+Host: fei.pro-market.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+server: Apache-Coyote/1.1
+p3p: CP=\"NOI DSP COR NID CURa ADMo TAIa PSAo PSDo OUR SAMo BUS UNI PUR COM NAV INT DEM CNT STA PRE LOC\"
+anserver: gapp8.us1
+pragma: no-cache
+cache-control: no-cache, no-store, must-revalidate
+expires: Mon, 1 Jan 1990 0:0:0 GMT
+access-control-allow-origin: *
+location: https://idsync.rlcdn.com/398696.gif?partner_uid=-3554711467509004542
+content-type: image/gif
+content-length: 0
+date: Wed, 11 Aug 2021 05:30:48 GMT
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://client.perimeterx.net/PX61WVsvi8/main.min.js
+Host: client.perimeterx.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: *
+content-type: application/javascript; charset=utf-8
+cache-control: max-age=900,stale-while-revalidate=60,stale-if-error=3600
+x-px-hash: YWE0OGUwMDNiYTYyNTExMjg5OWE4NTBkOWFmMWIzNzJkZDFlYjkxYmU2NjU4ODA0YmVmOWM2YjY4ZTYyMjNlMw==
+etag: W/\"2f103-kA1d70gBf1+E9SsUCaZIhwmG+I0\"
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:49 GMT
+via: 1.1 varnish
+age: 738
+x-served-by: cache-bom4751-BOM
+x-cache: HIT
+x-cache-hits: 3
+x-timer: S1628659849.060850,VS0,VE0
+vary: Accept-Encoding
+active-cdn: fastly
+access-control-expose-headers: active-cdn,x-served-by
+content-length: 81242
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC87fa49f39baf4b19b54be6ddb7c365d5-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 455
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://sync.teads.tv/sf/sync?partner_uid=OS0grtrm&gdpr=0
+Host: sync.teads.tv
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+content-type: text/html; charset=UTF-8
+location: https://beacon.krxd.net/usermatch.gif?partner=teadspartner&partner_uid=043548c650a0d2566bd277ed854cb7ed8ebaf981
+server: akka-http/10.2.3
+content-length: 184
+expires: Wed, 11 Aug 2021 05:30:49 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 11 Aug 2021 05:30:49 GMT
+----
+--Request 
+GET https://connect.facebook.net/signals/config/625799750871183?v=2.9.44&r=stable
+Host: connect.facebook.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: application/x-javascript; charset=utf-8
+report-to: {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/\"}],\"group\":\"coop_report\"}
+x-fb-rlafr: 0
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy-report-only: require-corp;report-to=\"coop_report\"
+cross-origin-opener-policy: same-origin-allow-popups
+pragma: public
+cache-control: public, max-age=1200
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+content-security-policy: default-src * data: blob: 'self';script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.google.com 127.0.0.1:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';block-all-mixed-content;upgrade-insecure-requests;
+x-frame-options: DENY
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-fb-debug: apPt3yattp5nnVB6CiGSbJOxq3DyKWZRMLXL4JvB5/+bfcI7zkApKA/b+m02f98tR5DHoXlfuGGeDmOp7lfTZg==
+priority: u=3,i
+content-length: 73715
+x-fb-trip-id: 1588961438
+date: Wed, 11 Aug 2021 05:30:49 GMT
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC09e58aea1af04c45a4533887a790c5e4-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 407
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n011-pdx-prod.krxd.net
+x-request-time: D=26 t=1628659848
+----
+--Request 
+GET https://sync.crwdcntrl.net/map/ct=y/c=9164/TP=KRUX/tpid=OS0grtrm?https://beacon.krxd.net/usermatch.gif?partner=lotame&partner_uid=${profile_id}
+Host: sync.crwdcntrl.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _cc_cc=ctst
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 0
+location: https://beacon.krxd.net/usermatch.gif?partner=lotame&partner_uid=b52db760f55f603ec5ba6a6488e41682
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV
+cache-control: no-cache
+pragma: no-cache
+expires: 0
+x-server: 10.42.26.40
+set-cookie: _cc_dc=2;Path=/;Domain=crwdcntrl.net;Expires=Sun, 08-May-2022 05:05:00 GMT;SameSite=None;Secure
+set-cookie: _cc_id=b52db760f55f603ec5ba6a6488e41682;Path=/;Domain=crwdcntrl.net;Expires=Sun, 08-May-2022 05:05:00 GMT;SameSite=None;Secure
+set-cookie: _cc_cc=\"ACZ4XmNQSDI1SkkyNzNIMzVNMzMwTk02TUo0SzQzsbBINTE0szBiAIJE4YTO%2F0DAD%2BJAAACtcQ4f\";Version=1;Path=/;Domain=crwdcntrl.net;Expires=Sun, 08-May-2022 05:05:00 GMT;Max-Age=23328000;SameSite=None;Secure
+set-cookie: _cc_aud=\"ABR4XmNgYGBIFE7oBFJQAAAQugFe\";Version=1;Path=/;Domain=crwdcntrl.net;Expires=Sun, 08-May-2022 05:05:00 GMT;Max-Age=23328000;SameSite=None;Secure
+server: Jetty(9.4.38.v20210224)
+----
+--Request 
+GET https://1060694.collect.igodigital.com/collect.js
+Host: 1060694.collect.igodigital.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-type: application/javascript
+last-modified: Wed, 11 Aug 2021 01:13:49 GMT
+vary: Accept-Encoding
+content-encoding: gzip
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC8f22bc63cd284f6184d59595847bd553-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 1851
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://api.official-coupons.com/v1/pixel?r=1&c=%7B%22w%22%3A%220l554347-da15-447f-9091-6e8941024cdc%22%2C%22u%22%3A%222264cea9-561b-4391-a2cf-df49e5250cf2%22%2C%22s%22%3A%229b790476-7d0d-4673-841d-7cd3601cfc6b%22%2C%22se%22%3A1631251848%7D
+Host: api.official-coupons.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+content-length: 64
+date: Wed, 11 Aug 2021 05:30:49 GMT
+x-amzn-requestid: bd753992-f1cc-4ed7-ba7c-ddfe88e86974
+access-control-allow-origin: *
+set-cookie: REVLIFTER=[{\"w\":\"0l554347-da15-447f-9091-6e8941024cdc\",\"u\":\"2264cea9-561b-4391-a2cf-df49e5250cf2\",\"s\":\"9b790476-7d0d-4673-841d-7cd3601cfc6b\",\"se\":1631251848}]; path=/; domain=.official-coupons.com; expires=Thu, 11 Aug 2022 05:30:49 GMT; SameSite=None; Secure;
+x-amz-apigw-id: D4wFjHMEDoEFWJQ=
+x-amzn-trace-id: Root=1-61136089-1daf828320209e8d365fc7f6;Sampled=0
+x-cache: Miss from cloudfront
+via: 1.1 92cc0439118c9e0fcd36aef16b426b2a.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: 5KfVkdV_kd2Fwv7YqdqQwfZ95Xw7Libz3VFOf_G9UVK-ONTuOznZfA==
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC65aa80b0ba084b2c96fc825c1ccec785-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 476
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=lotame&partner_uid=b52db760f55f603ec5ba6a6488e41682
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:49 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:49 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n014-pdx-prod.krxd.net
+x-request-time: D=18 t=1628659849
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCffc5f8f812ee4f5f9292cf88c51613cc-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 651
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC270015e98019439f833fc3d6ef7f5877-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 2746
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://www.googletagmanager.com/gtag/js?id=DC-6450450&l=googleDataLayer
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=UTF-8
+access-control-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-headers: Cache-Control
+content-encoding: br
+vary: Accept-Encoding
+date: Wed, 11 Aug 2021 05:30:50 GMT
+expires: Wed, 11 Aug 2021 05:30:50 GMT
+cache-control: private, max-age=900
+last-modified: Wed, 11 Aug 2021 03:00:00 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 37675
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=teadspartner&partner_uid=043548c650a0d2566bd277ed854cb7ed8ebaf981
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:49 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:49 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n017-pdx-prod.krxd.net
+x-request-time: D=31 t=1628659849
+----
+

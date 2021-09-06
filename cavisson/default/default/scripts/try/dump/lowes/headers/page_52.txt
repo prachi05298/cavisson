@@ -1,0 +1,49 @@
+--Request 
+POST https://d.btttag.com/analytics.rcv?pgNm=Home&trSeg=eCommerce-www.lowes.com&navStart=1628659837995
+Host: d.btttag.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA eyJ0aGlzVVJMIjoiaHR0cHM6Ly93d3cubG93ZXMuY29tLyIsInBhZ2VOYW1lIjoiSG9tZSIsIm5zdCI6IjE2Mjg2NTk4Mzc5OTUiLCJ1bmxvYWRFdmVudFN0YXJ0IjoiMCIsInJlZGlyZWN0U3RhcnQiOiIwIiwiY19jb3VudCI6IjAiLCJjb19jb3VudCI6IjAiLCJ0b3RSRCI6IjAiLCJmZXRjaFN0YXJ0IjoiMTYyODY1OTgzODAzMCIsImRvbWFpbkxvb2t1cFN0YXJ0IjoiMTYyODY1OTgzODA4OSIsImNvbm5lY3RTdGFydCI6IjE2Mjg2NTk4MzgzNTAiLCJzZWN1cmVDb25uZWN0aW9uU3RhcnQiOiIxNjI4NjU5ODM4NTI3IiwicmVxdWVzdFN0YXJ0IjoiMTYyODY1OTgzODkxMSIsInJlc3BvbnNlU3RhcnQiOiIxNjI4NjU5ODM5Nzg0IiwiUkVFIjoiMTYyODY1OTgzOTg1NiIsIkJQVCI6IjcyIiwiZG9tTG9hZGluZyI6IjE2Mjg2NTk4Mzk4MDUiLCJkb21JbnRlcmFjdGl2ZSI6IjE2Mjg2NTk4NDAzMjkiLCJkb21Db250ZW50TG9hZGVkU3RhcnQiOiIxNjI4NjU5ODQzMTgwIiwiZG9tQ29udGVudExvYWRlZEVuZCI6IjE2Mjg2NTk4NDMxODYiLCJsb2FkRXZlbnRTdGFydCI6IjE2Mjg2NTk4NDcwMTYiLCJuYXZpZ2F0aW9uVHlwZSI6IjEiLCJyZWRpcmVjdENvdW50IjoiMCIsInBhZ2VUeXBlIjoiR0NQIEhvbWVwYWdlIEhlbGl4IC0gVGVzbGEgLSBBIiwicGFnZVZhbHVlIjoiMCIsInBnVG0iOiI5MDIxIiwiZG5zIjoiMjYxIiwidGNwIjoiNTU4IiwiZG9tIjoiNzIxMCIsImZCeXRlIjoiODczIiwic3NsIjoiMzg0IiwiZmlyc3RQYWludCI6IjIxNzYiLCJmQ1BudCI6IjIxNzYiLCJmbXAiOiIwIiwidHRpIjoiOTc4NyIsImx0X3R0aSI6IjAiLCJmcHNfdHRpIjoiOTc4NyIsImZwcyI6IjAiLCJGSURzIjoiMCIsIkZJRGQiOiIwIiwiTENQIjoiMzQ3MyIsIkNMU2UiOiI2MTY5IiwiQ0xTIjoiMC4xMjYxMTE1MzQ3Mjk2OTE0IiwiVEJUIjoiMTM2NSIsIlNjcm5IIjoiNjYzIiwiU2NyblciOiIxMzYwIiwicFdTeiI6IjQyODgxMSIsInBTeiI6IjE2NTgyODUiLCJJTUFHRV9TSVpFIjoiMCIsIkpTX1NJWkUiOiIyOTc0ODEiLCJlbGVtZW50Q291bnQiOiIxNzAiLCJjYXJ0VmFsdWUiOiIwIiwiT051bUJyIjoiMCIsIm9yZGVyVE5EIjoiMCIsImVUIjoiNSIsInNpdGVJRCI6Imxvd2VzMTU4NDF6IiwidHhuTmFtZSI6ImVDb21tZXJjZS13d3cubG93ZXMuY29tIiwiY2FtcGFpZ24iOiIiLCJBQiI6IkRlZmF1bHQiLCJEQ1RSIjoiZWFzdCIsInRvcCI6Ii0xNjI4NjU5ODQ3MDgyIiwiYnYiOiIwIiwiYnZ6biI6IkNocm9tZS05MCIsInR1bCI6IjAiLCJFVU9TIjoiTGludXgiLCJjdXJyZW5jeUNvZGUiOiIiLCJzSUQiOiIzMTcyMzU2NzY1ODE2NTEzNjkiLCJnSUQiOiIzMTcyMzU2NzY1ODE2NTEzNjkiLCJTSGkiOiI2NjMiLCJTV2kiOiIxMzYwIiwiQ1NJRCI6IjAiLCJDVjEiOiIwYzRkNjBlOC1hZjExLTQ4ODItODA2OS0xMTY3MTI5Mjg5NWIiLCJDVjIiOiIwIiwiQ1YzIjoiMCIsIkNWNCI6IjAiLCJDVjUiOiIwIiwiQ1Y2Ijoic3RhYmxlIiwiQ1Y3IjoiQ29va2llIFByZXNlbnQiLCJDVjgiOiJaaXBwZWQiLCJDVjkiOiJ1bmRlZmluZWQiLCJDVjEwIjoiTmFtb2dvbyBPbiIsIkNWMTEiOiIwIiwiQ1YxMiI6IjAiLCJDVjEzIjoiMCIsIkNWMTQiOiIwIiwiQ1YxNSI6IjAiLCJDTjEiOiIwIiwiQ04yIjoiMCIsIkNOMyI6IjAiLCJDTjQiOiIwIiwiQ041IjoiMCIsIkNONiI6IjAiLCJDTjciOiIwIiwiQ044IjoiMCIsIkNOOSI6IjAiLCJDTjEwIjoiMCIsIkNOMTEiOiIwIiwiQ04xMiI6IjAiLCJDTjEzIjoiMCIsIkNOMTQiOiIwIiwiQ04xNSI6IjAiLCJDTjE2IjoiMCIsIkNOMTciOiIwIiwiQ04xOCI6IjAiLCJDTjE5IjoiMCIsIkNOMjAiOiIwIiwid2NkIjoiMCIsIkxUTSI6IjE2Mjg2NTk4NDM4NjMiLCJXQ0R0dCI6ImMiLCJOVlNUUiI6IjAiLCJSViI6IjAiLCJjb2xsZWN0QXQiOiIxMDAiLCJDbXBTIjoiRGlyZWN0IiwiQ21wTSI6Ik5vbmUiLCJDbXBOIjoiIiwiUmVmVVJMIjoiIn0=
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:51 GMT
+content-type: text/html;charset=UTF-8
+access-control-allow-origin: https://www.lowes.com
+access-control-allow-credentials: true
+access-control-max-age: 86400
+access-control-allow-methods: xhr,GET, POST, OPTIONS
+access-control-allow-headers: xhr,content-type,Content-Type, Depth, User-Agent, X-File-Size, X-Requested-With, If-Modified-Since, X-File-Name, Cache-Control
+timing-allow-origin: *
+x-content-type-options: nosniff
+age: 180000
+pragma: no-cache
+cache-control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+expires: Wed, 19 Apr 2013 01:00:00 GMT
+set-cookie: collection=1; expires=Wed, 11-Aug-2021 05:55:51 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: enabled=1; expires=Wed, 11-Aug-2021 05:55:51 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: sessionID=317235676581651369; expires=Wed, 11-Aug-2021 05:55:51 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: lowes15841z-txnName=eCommerce-www.lowes.com; expires=Wed, 11-Aug-2021 05:55:51 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: lowes15841z-BrowserVersion=Chrome-90; expires=Wed, 11-Aug-2021 05:55:51 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=63072000; includeSubDomains
+last-modified: Wed, 21 Jan 2004 01:01:30 GMT
+vary: Accept-Encoding
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+expect-ct: max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"
+server: cloudflare
+cf-ray: 67cf13051fc1e30e-CCU
+content-encoding: gzip
+----
+

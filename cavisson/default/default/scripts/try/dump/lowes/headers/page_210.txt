@@ -1,0 +1,35 @@
+--Request 
+POST https://update.googleapis.com/service/update2/json?cup2key=10:1252752485&cup2hreq=fb45deda5e768c248855d2e0ca42701c7812ecc8c111b5f00608246361ba78b3
+Host: update.googleapis.com
+X-Goog-Update-AppId: gcmjkmgdlgnkkcocmoeiminaijmmjnii,cmahhnpholdijhjokonmfdjbfmklppij,obedbbhbpmojnkanicioggnmelmoomoc,giekcmmlnklenlaomppkphknjmnnpneh,khaoiebndkojlmppeemjhbpbandiljpe,hfnkpimlhhgieaddgfemjhofmfblmnib,llkgjffcdpffmhiakmfcdcblohccpfmo,aemomkdncapdnfajjbbcbdebjljbpmpj,jflookgnkcckhobaglndicnbbgbonegd,ggkkehgbnfjpeggfpleeakpidbkibbmn,jamhcnnkihinmdlkakkaopbjbbcngflc,ojhpjlocmbogdgmfpkhlaaeamibhnphh,eeigpngbgcognadeebkilcpcaedhellh,pdafiollngonhoadbmdoemagnfpdphbe
+X-Goog-Update-Interactivity: bg
+X-Goog-Update-Updater: chromium-90.0.4430.61
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+----
+ POSTDATA {"request":{"@os":"linux","@updater":"chromium","acceptformat":"crx2,crx3","app":[{"appid":"gcmjkmgdlgnkkcocmoeiminaijmmjnii","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"cmahhnpholdijhjokonmfdjbfmklppij","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"accept_locale":"ENUS","appid":"obedbbhbpmojnkanicioggnmelmoomoc","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"giekcmmlnklenlaomppkphknjmnnpneh","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"khaoiebndkojlmppeemjhbpbandiljpe","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"hfnkpimlhhgieaddgfemjhofmfblmnib","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"llkgjffcdpffmhiakmfcdcblohccpfmo","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"aemomkdncapdnfajjbbcbdebjljbpmpj","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"jflookgnkcckhobaglndicnbbgbonegd","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"ggkkehgbnfjpeggfpleeakpidbkibbmn","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"jamhcnnkihinmdlkakkaopbjbbcngflc","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"ojhpjlocmbogdgmfpkhlaaeamibhnphh","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"eeigpngbgcognadeebkilcpcaedhellh","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"},{"appid":"pdafiollngonhoadbmdoemagnfpdphbe","enabled":true,"ping":{"r":-2},"updatecheck":{},"version":"0.0.0.0"}],"arch":"x64","dedup":"cr","hw":{"physmemory":6},"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Linux","version":"5.11.0-25-generic"},"prodversion":"90.0.4430.61","protocol":"3.1","requestid":"{c6213d10-e14d-44ac-9264-1fc6cb5e6140}","sessionid":"{9c6f3495-5bee-4c37-a5c5-e737cb74b912}","updaterversion":"90.0.4430.61"}}
+--Response 
+HTTP/1.1 200
+content-security-policy: script-src 'report-sample' 'nonce-IRvP3ZGNo+VR3AWoo5SKtQ' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Wed, 11 Aug 2021 05:31:37 GMT
+x-cup-server-proof: 3045022100c09a3f5a14155d796bbd0bb67044dc1154d40b4f72446e478628e2cfd48c87f802203a9ae93914c91a8fb5e08d354b918c5c1f59833c8e0afaceed2ea7900e542d67:fb45deda5e768c248855d2e0ca42701c7812ecc8c111b5f00608246361ba78b3
+etag: W/\"3045022100c09a3f5a14155d796bbd0bb67044dc1154d40b4f72446e478628e2cfd48c87f802203a9ae93914c91a8fb5e08d354b918c5c1f59833c8e0afaceed2ea7900e542d67:fb45deda5e768c248855d2e0ca42701c7812ecc8c111b5f00608246361ba78b3\"
+content-type: application/json; charset=utf-8
+x-daynum: 5335
+x-daystart: 81097
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-length: 3108
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

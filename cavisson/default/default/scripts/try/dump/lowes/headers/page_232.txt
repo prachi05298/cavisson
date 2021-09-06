@@ -1,0 +1,155 @@
+--Request 
+POST https://6852bd0e.akstat.io/
+Host: 6852bd0e.akstat.io
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA 
+--Response 
+HTTP/1.1 204
+access-control-allow-origin: https://www.lowes.com
+x-xss-protection: 0
+access-control-allow-credentials: true
+timing-allow-origin: *
+content-type: image/gif
+expires: Wed, 11 Aug 2021 05:31:39 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 11 Aug 2021 05:31:39 GMT
+----
+--Request 
+GET https://ct.pinterest.com/v3/?tid=2615619520270&pd=%7B%22page%22%3A%22shopping-cart%22%2C%22pin_unauth%22%3A%22dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fvice1.lowescdn.com%2Fcart%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961%22%2C%22if%22%3Atrue%2C%22sh%22%3A663%2C%22sw%22%3A1360%2C%22mh%22%3A%2289cd5bf4%22%2C%22ecm_enabled%22%3Afalse%7D&cb=1628659898812
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _pinterest_ct_ua=\"TWc9PSZJV3NSUkJBVTFDVTBld1U2OUVYVDVadnU5OFNveUJiSTRwK1YvZE54RytoeWJHRWVFSEl5WlNGRnEwcnh0VGNVOENrOFZwRG4rdlZMa1hmTW1IOE5EUmVLZUQ4S1l3THV2SjNlRWk1TDZQST0maXVoS0t5VEtzbTRvVFR5NjVkWHJkM3ZpLzdZPQ==\"
+----
+--Response 
+HTTP/1.1 200
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-type: image/gif
+access-control-allow-origin: *
+x-envoy-upstream-service-time: 3
+referrer-policy: origin
+x-pinterest-rid: 2305124788707142
+date: Wed, 11 Aug 2021 05:31:39 GMT
+x-cdn: fastly
+content-length: 35
+----
+--Request 
+GET https://ct.pinterest.com/v3/?event=addtocart&ed=%7B%22value%22%3A349%2C%22order_quantity%22%3A1%2C%22currency%22%3A%22USD%22%2C%22customer_type%22%3A%22%22%2C%22known_state%22%3A%22%22%2C%22identity_id%22%3A%22%22%2C%22line_items%22%3A%5B%7B%22product_id%22%3A%225000143961%22%7D%5D%7D&tid=2615619520270&pd=%7B%22page%22%3A%22shopping-cart%22%2C%22pin_unauth%22%3A%22dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fvice1.lowescdn.com%2Fcart%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961%22%2C%22if%22%3Atrue%2C%22sh%22%3A663%2C%22sw%22%3A1360%2C%22mh%22%3A%2289cd5bf4%22%2C%22ecm_enabled%22%3Afalse%7D&cb=1628659898820
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _pinterest_ct_ua=\"TWc9PSZJV3NSUkJBVTFDVTBld1U2OUVYVDVadnU5OFNveUJiSTRwK1YvZE54RytoeWJHRWVFSEl5WlNGRnEwcnh0VGNVOENrOFZwRG4rdlZMa1hmTW1IOE5EUmVLZUQ4S1l3THV2SjNlRWk1TDZQST0maXVoS0t5VEtzbTRvVFR5NjVkWHJkM3ZpLzdZPQ==\"
+----
+--Response 
+HTTP/1.1 200
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-type: image/gif
+access-control-allow-origin: *
+set-cookie: _pinterest_ct_ua=\"TWc9PSY1bFFZdTJvUDJqVUtvdEtEYjhleElXa1dYeXQ1Yi9RUklvV3B0azc1VHlTSzhoZE9RS2hCejV0WXhNQU42Q2d2cVRJVlJRWFdsQkdjOFZKWDAwbmFDd2ViZkRYZ1VTbFVSWlFBUmNNKzl1RT0mOUJhdGdwMjN6Q1IrQkc4U3BhbENwdmx4UHhNPQ==\"; Expires=Thu, 11 Aug 2022 05:31:39 GMT; Path=/; Domain=ct.pinterest.com; Secure; SameSite=None
+x-envoy-upstream-service-time: 3
+referrer-policy: origin
+x-pinterest-rid: 1251087452132540
+date: Wed, 11 Aug 2021 05:31:39 GMT
+x-cdn: fastly
+content-length: 35
+----
+--Request 
+GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031919983/?random=1628659898841&cv=9&fst=1628659898841&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=5&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fcart&ref=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&tiba=Shopping%20Cart%20-%20Lowes.com&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4
+Host: googleads.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+server: cafe
+content-length: 1088
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031919983/?random=1628659898844&cv=9&fst=1628659898844&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635470&u_h=663&u_w=1360&u_ah=636&u_aw=1288&u_cd=24&u_his=5&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa891&sendb=1&ig=1&data=event%3Dpage_view%3Becomm_pagetype%3Dshopping-cart%3Becomm_prodid%3D5000143961%3Becomm_totalvalue%3D349.00&frm=0&url=https%3A%2F%2Fwww.lowes.com%2Fcart&ref=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&tiba=Shopping%20Cart%20-%20Lowes.com&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4
+Host: googleads.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+server: cafe
+content-length: 1134
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

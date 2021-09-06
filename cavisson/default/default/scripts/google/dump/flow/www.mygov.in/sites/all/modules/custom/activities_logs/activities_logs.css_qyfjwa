@@ -1,0 +1,139 @@
+/**
+ * @file
+ * Styles sheet for the activities logs module.
+ */
+
+/* @group activities_logs class */
+
+#activities_logs_outer {
+  padding: 10px;
+}
+
+#activities_logs_outer .activities_icon .like_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/like_icon.png) no-repeat scroll center center #1894c1;
+}
+
+#activities_logs_outer .activities_icon .post_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/post_icon.png) no-repeat scroll center center #b2c532;
+}
+
+#activities_logs_outer .activities_icon.hour_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/hour_icon.png) no-repeat scroll center center #faaf2a;
+}
+
+#activities_logs_outer span.activities_icon {
+    background: none repeat scroll 0 0 #dadada;
+    height: 36px;
+    /*left: 25px;*/
+    position: absolute;
+    width: 36px;
+
+}
+
+#activities_logs_outer span.activities_icon.post_icon {
+    background: url("https://www.mygov.in/sites/all/themes/mygov/images/post_icon.png") no-repeat scroll center center #b2c532;
+}
+
+#activities_logs_outer .skill_wrap1{
+    background: #fff;
+    padding: 10px 10px 10px 50px;
+}
+
+
+#activities_logs_outer span.activities_icon.like_icon {
+    background: url("https://www.mygov.in/sites/all/themes/mygov/images/like_icon.png") no-repeat scroll center center #1894c1;
+}
+
+
+#activities_logs_outer span.activities_icon.hour_icon {
+    background: url("https://www.mygov.in/sites/all/themes/mygov/images/hour_icon.png") no-repeat scroll center center #faaf2a;
+}
+
+#activities_logs_outer span.activities_icon.task_icon {
+    background: url("https://www.mygov.in/sites/all/themes/mygov/images/accepted_icon.png") no-repeat scroll center center #3e81cc;
+}
+
+
+.field-created-at span.field-content {
+  color: #868686;
+  display: block;
+  float: none;
+  font-size: 13px;
+  padding-bottom: 0;
+}
+
+
+#block-activities-logs-activities-logs .skill_wrap1{
+   background: #fff;
+    border: 1px solid #cbcbcb;
+    margin-bottom: 3px;
+    padding: 10px;
+}
+
+#block-activities-logs-activities-logs .skill_wrap1 .all.post strong{font-weight:normal;}
+#block-activities-logs-activities-logs .skill_wrap1 .all.post {font-size: 13px;}
+
+#block-activities-logs-activities-logs span.activities_icon.post_icon {
+  background: url("https://www.mygov.in/sites/all/themes/mygov/images/post_icon.png") no-repeat scroll center top;
+
+}
+
+#block-activities-logs-activities-logs span.activities_icon.like_icon{
+  background: url("https://www.mygov.in/sites/all/themes/mygov/images/comment_sprite.png") no-repeat scroll 6px 1px ;
+
+}
+
+#block-activities-logs-activities-logs span.activities_icon.hour_icon {
+   background: url("https://www.mygov.in/sites/all/themes/mygov/images/hour_icon.png") no-repeat scroll center top;
+  
+}
+
+#block-activities-logs-activities-logs span.activities_icon.task_icon {
+   background: url("https://www.mygov.in/sites/all/themes/mygov/images/accepted_icon.png") no-repeat scroll center top;
+  
+}
+
+
+#block-activities-logs-activities-logs .activities_icon .like_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/like_icon.png) no-repeat scroll center top;
+}
+
+#block-activities-logs-activities-logs .activities_icon .post_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/post_icon.png) no-repeat scroll center top;
+}
+
+#block-activities-logs-activities-logs .activities_icon.hour_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/hour_icon.png) no-repeat scroll center top;
+}
+
+#block-activities-logs-activities-logs .activities_icon.share_icon {
+  background: url(https://www.mygov.in/sites/all/themes/mygov/images/ico-announcement.png) no-repeat scroll center top;
+}
+#block-activities-logs-activities-logs span.activities_icon.share_icon {
+   background: url("https://www.mygov.in/sites/all/themes/mygov/images/ico-announcement.png") no-repeat scroll center top;
+   
+}
+
+
+#block-activities-logs-activities-logs span.activities_icon {
+    background: #dadada;
+     display: block;
+    float: left;
+    height: 36px;
+    width: 36px;margin-right: 10px;
+
+}
+
+#block-activities-logs-activities-logs .activity_right {
+    float: left;
+    width: 80%;
+}
+
+#block-activities-logs-activities-logs .point_user {
+    display: block;
+    float: right;
+    text-align: center;
+}
+
+#block-activities-logs-activities-logs .all.post a{color: #2c498f;}
+

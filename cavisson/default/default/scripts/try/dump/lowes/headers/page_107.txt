@@ -1,0 +1,164 @@
+--Request 
+POST https://www.facebook.com/tr/
+Host: www.facebook.com
+Upgrade-Insecure-Requests: 1
+Origin: https://www.lowes.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+ POSTDATA id=1128484153951961&ev=Microdata&dl=https%3A%2F%2Fwww.lowes.com%2F&rl=&if=false&ts=1628659851205&cd%5BDataLayer%5D=%5B%5D&cd%5BMeta%5D=%7B%22title%22%3A%22Lowe%27s+Home+Improvement%22%2C%22meta%3Adescription%22%3A%22Shop+tools%2C+appliances%2C+building+supplies%2C+carpet%2C+bathroom%2C+lighting+and+more.+Pros+can+take+advantage+of+Pro+offers%2C+credit+and+business+resources.%22%7D&cd%5BOpenGraph%5D=%7B%22og%3Atitle%22%3A%22Lowe%27s+Home+Improvement%22%2C%22og%3Atype%22%3A%22Home+Page%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.lowes.com%22%2C%22og%3Asite_name%22%3A%22Lowe%27s%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Flda.lowes.com%2Fis%2Fimage%2FLowes%2FOG-HOMEPAGE%3Fscl%3D1%22%2C%22og%3Adescription%22%3A%22Celebrate+Lowe%E2%80%99s+first+SpringFest+event+%E2%80%93+a+festival+of+fun+and+savings+for+your+home+and+garden.+Get+deals+on+mulch%2C+soil%2C+power+equipment%2C+and+more.%22%7D&cd%5BSchema.org%5D=%5B%5D&cd%5BJSON-LD%5D=%5B%7B%22%40context%22%3A%22http%3A%2F%2Fschema.org%2F%22%2C%22%40type%22%3A%22Organization%22%2C%22name%22%3A%22Lowe%27s%22%2C%22alternateName%22%3A%22Lowe%27s+Home+Center%22%2C%22LegalName%22%3A%22Lowe%27s+Companies%2C+Inc%22%2C%22url%22%3A%22https%3A%2F%2Fwww.lowes.com%2F%22%2C%22logo%22%3A%22https%3A%2F%2Fwww.lowescdn.com%2Fimages%2Fui%2FLowesLogo_DT.svg%22%2C%22contactPoint%22%3A%7B%22%40type%22%3A%22ContactPoint%22%2C%22contactType%22%3A%22customer+support%22%2C%22telephone%22%3A%221-800-445-6937%22%2C%22email%22%3A%22%22%7D%2C%22sameAs%22%3A%5B%22https%3A%2F%2Fwww.facebook.com%2Flowes%22%2C%22https%3A%2F%2Ftwitter.com%2Flowes%22%2C%22https%3A%2F%2Fwww.pinterest.com%2Flowes%2F%22%2C%22https%3A%2F%2Finstagram.com%2Floweshomeimprovement%22%2C%22https%3A%2F%2Fwww.youtube.com%2Fuser%2FLowes%22%5D%7D%2C%7B%22%40context%22%3A%22http%3A%2F%2Fschema.org%22%2C%22%40type%22%3A%22WebSite%22%2C%22url%22%3A%22https%3A%2F%2Fwww.lowes.com%2F%22%2C%22potentialAction%22%3A%7B%22%40type%22%3A%22SearchAction%22%2C%22target%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3D%7BsearchTerm%7D%22%2C%22query-input%22%3A%22required+name%3DsearchTerm%22%7D%7D%5D&sw=1360&sh=663&v=2.9.44&r=stable&ec=1&o=30&fbp=fb.1.1628659850310.738130319&it=1628659848826&coo=false&es=automatic&tm=3&rqm=formPOST
+--Response 
+HTTP/1.1 200
+content-type: text/plain
+access-control-allow-origin: https://www.lowes.com
+access-control-allow-credentials: true
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 0
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+date: Wed, 11 Aug 2021 05:31:12 GMT
+----
+--Request 
+GET https://www.googletagmanager.com/gtag/js?id=AW-1031919983&l=googleDataLayer&cx=c
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=UTF-8
+access-control-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-headers: Cache-Control
+content-encoding: br
+vary: Accept-Encoding
+date: Wed, 11 Aug 2021 05:30:51 GMT
+expires: Wed, 11 Aug 2021 05:30:51 GMT
+cache-control: private, max-age=900
+last-modified: Wed, 11 Aug 2021 03:00:00 GMT
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 39176
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC5dd8352b39404066b56280cc4aa704de-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:50 GMT
+date: Wed, 11 Aug 2021 05:30:50 GMT
+content-length: 918
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://accdn.lpsnmedia.net/api/account/22554410/configuration/setting/accountproperties/?cb=lpCb4366x97805
+Host: accdn.lpsnmedia.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://publisher.liveperson.net/gs/js/gk_prod.js
+Host: publisher.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript
+x-object-meta-mtime: 1628532793.000000
+x-object-meta-lp-version: 1.0.419
+x-object-meta-lp-project: public
+last-modified: Mon, 09 Aug 2021 18:16:43 GMT
+x-timestamp: 1628533002.08871
+cache-control: max-age=600
+x-trans-id: txd7cb4aa1e5b64a2ebf54f-00611171e8
+x-openstack-request-id: txd7cb4aa1e5b64a2ebf54f-00611171e8
+server: ws
+access-control-allow-methods: GET, POST, PATCH, PUT
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:31:13 GMT
+via: 1.1 varnish
+age: 574
+x-served-by: cache-bom4746-BOM
+x-cache: HIT
+x-cache-hits: 2
+x-timer: S1628659873.066426,VS0,VE0
+vary: Accept-Encoding
+content-length: 1515
+----
+--Request 
+GET https://accdn.lpsnmedia.net/api/account/22554410/configuration/le-campaigns/zones?fields=id&fields=zoneValue&cb=lpZonesStaticCB
+Host: accdn.lpsnmedia.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+

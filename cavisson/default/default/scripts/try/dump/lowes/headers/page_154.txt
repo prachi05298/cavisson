@@ -1,0 +1,224 @@
+--Request 
+GET https://content.syndigo.com/site/9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66/styles.json?u=00529A56-C63C-4A8E-841D-9BC12B8BD0F4&prtnid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&siteid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&pageid=2759118-83-APFD06JASW&s=1628659879997&v=v1.0.197&visitid=E761DDDE-0C39-44CE-A23A-4F548D0AE711&ref=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&r=0.4645718006284105&pageurl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961
+Host: content.syndigo.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/json
+content-md5: JX/FbQgFTzq8TQkAPfT9Ww==
+last-modified: Thu, 08 Jul 2021 00:37:33 GMT
+etag: \"0x8D941A8936A78AF\"
+server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 54bbbe21-e01e-0119-3391-73f796000000
+x-ms-version: 2019-02-02
+x-ms-creation-time: Fri, 04 Sep 2020 02:53:39 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+content-encoding: gzip
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:31:20 GMT
+age: 2955224
+x-served-by: cache-den8261-DEN, cache-bom4724-BOM
+x-cache: HIT, HIT
+x-cache-hits: 1, 406
+x-timer: S1628659881.688004,VS0,VE0
+vary: Accept-Encoding
+access-control-allow-origin: *
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, X-PINGOTHER, Range
+cache-control: max-age=31536000
+expires: Thu, 11 Aug 2022 05:31:20 GMT
+content-length: 2098
+----
+--Request 
+GET https://cdn.krxd.net/controltag/r0usxrln4.js
+Host: cdn.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=utf-8
+etag: \"15772c23918c5fd48793adf4ebca1cd2d345b34d\"
+x-app-cache: HIT
+cache-control: public, max-age=1200
+x-response-time: 0
+content-encoding: gzip
+x-age: 0
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_config_service_ash_prod
+via: 1.1 varnish, 1.1 varnish
+x-do-esi: esi
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+age: 12
+x-served-by: config-service-a005-ash-prod.krxd.net, cache-bwi5123-BWI, cache-bom4747-BOM
+x-cache: MISS, HIT, HIT
+x-cache-hits: 0, 2, 2
+x-timer: S1628659846.107821,VS0,VE0
+vary: Accept-Encoding
+content-length: 9533
+----
+--Request 
+GET https://cdn.krxd.net/ctjs/controltag.js.a1705c5ac5f06cf0c202ff70908fc042
+Host: cdn.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+last-modified: Mon, 02 Aug 2021 12:06:17 GMT
+etag: \"a1705c5ac5f06cf0c202ff70908fc042\"
+x-amz-server-side-encryption: AES256
+cache-control: public, max-age=315360000
+content-encoding: gzip
+expires: Thu, 31 Jul 2031 12:06:16 GMT
+content-type: application/javascript
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_Controltag_S3
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+via: 1.1 varnish
+age: 753135
+x-served-by: cache-bom4747-BOM
+x-cache: HIT
+x-cache-hits: 322708
+x-timer: S1628659846.222737,VS0,VE0
+content-length: 84509
+----
+--Request 
+GET https://consumer.krxd.net/consent/get/e30196c7-5053-416c-94a4-c1acfb09b619?idt=device&dt=kxcookie&callback=Krux.ns.lowes.kxjsonp_consent_get_0
+Host: consumer.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=UTF-8
+cache-control: max-age=1800
+content-encoding: gzip
+x-age: 0
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: consumer-a001-pdx-prod.krxd.net, cache-bom4726-BOM
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1628659847.688976,VS0,VE263
+vary: Accept-Encoding
+content-length: 182
+----
+--Request 
+GET https://event.syndigo.cloud/event/p.gif?u=00529A56-C63C-4A8E-841D-9BC12B8BD0F4&prtnid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&siteid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&pageid=2759118-83-APFD06JASW&s=1628659879997&v=v1.0.197&visitid=400E2159-1751-4E87-9F62-5AF0506A3374&dt=0.003&ref=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&r=0.7173362881874321&pageurl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961
+Host: event.syndigo.cloud
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+content-md5: 3z5WfW8W0EAybHoOoppPQQ==
+last-modified: Tue, 03 Aug 2021 21:20:13 GMT
+etag: \"0x8D956C47B7798D6\"
+server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: af826c0a-b01e-008d-33ad-88d10d000000
+x-ms-version: 2019-02-02
+x-ms-creation-time: Mon, 24 Aug 2020 21:14:54 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:31:21 GMT
+age: 634266
+x-served-by: cache-den8265-DEN, cache-bom4728-BOM
+x-cache: HIT, HIT
+x-cache-hits: 2, 44528
+x-timer: S1628659881.404278,VS0,VE0
+access-control-allow-origin: *
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, X-PINGOTHER, Range
+cache-control: max-age=31536000
+expires: Thu, 11 Aug 2022 05:31:21 GMT
+content-length: 43
+----
+--Request 
+GET https://consumer.krxd.net/consent/get/e30196c7-5053-416c-94a4-c1acfb09b619?idt=device&dt=kxcookie&callback=Krux.ns.lowes.kxjsonp_consent_get_0
+Host: consumer.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=UTF-8
+cache-control: max-age=1800
+content-encoding: gzip
+x-age: 0
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: consumer-a006-pdx-prod.krxd.net, cache-bom4726-BOM
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1628659847.688990,VS0,VE262
+vary: Accept-Encoding
+content-length: 192
+----
+

@@ -1,0 +1,118 @@
+--Request 
+GET https://www.lowes.com/content/lowes/desktop/en_us/fragments/flyouts.json?v=1628659847031
+Host: www.lowes.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Accept: application/json, text/plain, */*
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: dbidv2=0c4d60e8-af11-4882-8069-11671292895b; al_sess=FuA4EWsuT07UWryyq/3foO5fKp+UCNFOOXqnqQDypxfeGCVe3QM/S4JU25cW9pe7; region=east; AKA_A2=A; bm_sz=C3B382F883B8A81A11497C9F542A09D1~YAAQbHIsMXftTJ16AQAABPWwMwyIw/S8Rj0KiTQue/1PYud9NtYgs8N4h8z1YALbBHCOWJtJoty1dYZq3bsn4L8F660kjUm4lG/FuofafLKo45cTHvseGETTqB9D6WskKO6XF5pdWUUYJ2fA5o1uTbLfNhKd6sHAXhqN4OYtkc5QcQqr1fw1brfO44J/fdHsbCYvrjKzQsQ0m6+CgUBBPQ8feJfyhN13TXPeYTQMXrbxjlxUlfjuNn+0gLQ/vWtkhlqKw4K1tHITboeQWEEtheiF6uLjebtQxRdxAaLt6MpfZA==~4405303~4342068; AMCVS_5E00123F5245B2780A490D45%40AdobeOrg=1; g_amcv_refreshed=1; at_check=true; _abck=60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMcftTJ16AQAAxvywMwZHmMsgpj2ZJ9P4Dv+aFA4pq4h/g1DsktEHcMwpWfMQb1C+dDVxIlmzqkHIT4Q025NO1eR65CCKfpP4ZEhhNNwB6fDDZdN/5TeI8xdocC0qM+0Xa7kvso841d6IIPMxRId+/Lep+5ERxs8mccru/PW5lJF8KlUnT+cohBisikseW7OjEfZhkYVfpxQaKEfXEV1gcyOZZv2pLNDhJks53MddXRQqRrM51h3efDuzZ5Zpx7dVpRyfX3HpHVqxSvrSR+9oClXeoyxVXDrAJ4WadeQbCg07lwg5oyaxbrPa7p8xYADTiqL10nkWVnilH3GkMyJp9x3R+Wo5wUUuBAFZZlE4+AS3btiNaoUb4zIPRWfM1yHvOkk=~-1~-1~-1; ak_bmsc=CFD6BB6B1F11B52B3D9C07B63E32F299~000000000000000000000000000000~YAAQbHIsMeDtTJ16AQAAyv6wMwyC/QVxtX6PVcOAzw7MbeRMt9DdYDeLnz+FHJYET6tfShANdOrfub/wBbip/qQKiMtTBFKvBQ8OaR2GjELvygRsX083I5j/PHuYInl3nw8R64ZACTCOK0SeuAtTpSNt5k6fhNHltREjBfbK7STgXLeOb/bOt3qof5CyCaCKWgEj4weksh+YFvWJ8jcWzSflRb1YuplwDxhkmVfN8LAlt1Zomi+Ex9sOwfmFZTniRSUrlAMVtJ5FMihcoPfLpMpKKoAZxu/2bYxnMMXYoP2Oel7Qg62x/1Hm4icm4NyNci5eR7aS2ADW6xm541slFVu7+GNPBDpFv2RH39M0Y3SBXQP+wMl1UpC2AivVyLI1BbowGxCDJV+1HJLAFc+wSyyGWUdqmsBs+YXzEWkOCfC6TPS6eXBrFkQpfiZNsBR4Tskac39XXHnvxkaZziKjgCdZ0St3E4ZGmb8HjvlknY5x8Hu+kd5BEw==; mbox=session#31e45163a4dc4f69bb43b3ae2d42ea61#1628661702|PC#31e45163a4dc4f69bb43b3ae2d42ea61.31_0#1691904644; mboxEdgeCluster=31; akavpau_default=1628660143~id=3e0c66f6ae8cea5d315b918b92dc4117; sn=1985; _lgsid=1628659844121; p13n=%7B%22zipCode%22%3A%2299701%22%2C%22storeId%22%3A%221985%22%2C%22state%22%3A%22AK%22%2C%22userType%22%3A%22diy%22%2C%22audienceList%22%3A%5B%5D%7D; AMCV_5E00123F5245B2780A490D45%40AdobeOrg=870038026%7CMCIDTS%7C19581%7CMCMID%7C71747673865418841840298191736677393887%7CMCAAMLH-1629264643%7C12%7CMCAAMB-1629264643%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1628667043s%7CNONE%7CvVersion%7C5.0.0%7CMCSYNCSOP%7C411-18858; fs_uid=rs.fullstory.com#Q8RZE#4938477446668288:6554343464542208/1660195844; namOgoo=B; discover-exp-2=abt8280b; prodNumber=2; RT=\"z=1&dm=lowes.com&si=bde4fb69-2075-4aef-b0c6-45081221dd74&ss=ks720lrf&sl=1&tt=70f&bcn=%2F%2F6852bd0e.akstat.io%2F&ld=70o\"; akaalb_prod_dual=1628746247~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=831b1e879195a016ae268e3b1aefd3b7; bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZvCaw+G8fgQJDjz7CgtiiJgUlX5gooK0EXgW8Oh/acLmDA+MQoCGDX2krG6G3WTJY0=
+----
+--Response 
+HTTP/1.1 200
+server: Apache
+last-modified: Thu, 29 Jul 2021 08:39:24 GMT
+accept-ranges: bytes
+content-encoding: gzip
+x-adobe-host: wsvmlnqdp22.ec.lowes.com
+access-control-allow-origin: *.lowes.com
+content-length: 21851
+content-type: application/json
+cache-control: max-age=2528027, s-maxage=10
+date: Wed, 11 Aug 2021 05:30:47 GMT
+vary: Accept-Encoding
+server-timing: cdn-cache; desc=HIT
+server-timing: edge; dur=22
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZuGOBpKenTTIfseh2DZa/nscecowFpNMOoo1nQM8EFyaw==; Domain=.lowes.com; Path=/; Max-Age=7194; HttpOnly
+----
+--Request 
+GET https://beacon.krxd.net/usermatch.gif?partner=adobe&partner_uid=75585395299652916281105585907935456939
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:30:48 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:30:48 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n007-pdx-prod.krxd.net
+x-request-time: D=26 t=1628659848
+----
+--Request 
+GET https://assets.revlifter.io/0l554347-da15-447f-9091-6e8941024cdc.js
+Host: assets.revlifter.io
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript
+last-modified: Tue, 23 Feb 2021 14:26:32 GMT
+x-amz-version-id: knWhNAdNMR5hi.2d2JnKn45FCMLHY8C_
+server: AmazonS3
+content-encoding: gzip
+date: Wed, 11 Aug 2021 05:30:48 GMT
+etag: W/\"242fe55602f41619cd6c7f910594f53e\"
+vary: Accept-Encoding
+x-cache: RefreshHit from cloudfront
+via: 1.1 651fde0cd9901478f3cc42d51f3b54ae.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C1
+x-amz-cf-id: B3FTBw8OJTdTE8SaF8oTdUbeumOEiiYj3FVDKkur3Rysy4eooivlbw==
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC1c11ce2c7e414c61b1d616140e23f97f-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 894
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

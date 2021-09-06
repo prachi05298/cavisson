@@ -1,0 +1,131 @@
+--Request 
+GET https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.1&p_id=Twitter&p_user_id=0&txn_id=nv09u&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner
+Host: analytics.twitter.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: personalization_id=\"v1_Lp8aPhtOa2N5oEhHx3p45Q==\"
+----
+--Response 
+HTTP/1.1 200
+p3p: CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\"
+date: Wed, 11 Aug 2021 05:31:11 GMT
+pragma: no-cache
+server: tsa_k
+status: 200 OK
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+content-type: application/javascript;charset=utf-8
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+last-modified: Wed, 11 Aug 2021 05:31:11 GMT
+x-transaction: cd9b588bedc79ede
+content-length: 57
+x-frame-options: SAMEORIGIN
+content-encoding: gzip
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-twitter-response-tags: BouncerCompliant
+strict-transport-security: max-age=631138519
+x-connection-hash: f49256e3e61c517e3a327b5c8340855ea6df6d7e61f3bcfe4fce14355457c622
+----
+--Request 
+GET https://t.co/i/adsct?type=javascript&version=2.0.1&p_id=Twitter&p_user_id=0&txn_id=nv09u&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner
+Host: t.co
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:11 GMT
+pragma: no-cache
+server: tsa_k
+status: 200 OK
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+content-type: image/gif;charset=utf-8
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+last-modified: Wed, 11 Aug 2021 05:31:11 GMT
+x-transaction: 73ea1587f3373509
+content-length: 65
+x-frame-options: SAMEORIGIN
+content-encoding: gzip
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-twitter-response-tags: BouncerCompliant
+strict-transport-security: max-age=0
+x-connection-hash: 98de065d346b40f53b772b1de120e557c6e78fe39704899c446fdfb5989a9adc
+----
+--Request 
+GET https://pagead2.googlesyndication.com/bg/O2l1W4tcrMlErSQCfrpxGkyfOY9pZOaE8-TKtI4Qkek.js
+Host: pagead2.googlesyndication.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://tpc.googlesyndication.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+content-type: text/javascript
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/botguard-scs
+cross-origin-resource-policy: cross-origin
+content-length: 13203
+date: Thu, 05 Aug 2021 06:41:50 GMT
+expires: Fri, 05 Aug 2022 06:41:50 GMT
+last-modified: Tue, 03 Aug 2021 09:38:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+cache-control: public, max-age=31536000
+age: 514161
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://lptag.liveperson.net/lptag/api/account/22554410/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&b=undefined
+Host: lptag.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:11 GMT
+content-type: application/x-javascript
+cache-control: public, max-age=630
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+x-cache-status: HIT
+content-encoding: gzip
+----
+

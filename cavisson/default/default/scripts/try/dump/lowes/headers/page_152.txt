@@ -1,0 +1,30 @@
+--Request 
+GET https://lowes.ecorebates.com/api/search/lowes/productRebateDetails.json;jsessionid=?filter_rebate_consumer_type=residential&retryZip=true&skus=5000143961&uiContext=PDP&jsoncallback=angular.callbacks._0
+Host: lowes.ecorebates.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:21 GMT
+content-type: application/json;charset=UTF-8
+server: nginx
+x-amzn-trace-id: Root=1-611360a9-6ba8854c5f48c6b75746eb70;
+set-cookie: JSESSIONID=A6F67222BF4F8DEDE427303F38685D33; Path=/; Secure; HttpOnly
+pragma: no-cache
+cache-control: no-cache, no-store, max-age=0
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+content-language: en-US
+x-ecr-domain: app
+x-ecr-upstream-addr: 10.21.2.230:8080
+content-encoding: gzip
+----
+

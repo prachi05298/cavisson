@@ -1,0 +1,73 @@
+
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=utf-8
+content-length: 30
+x-envoy-upstream-service-time: 2
+server: istio-envoy
+date: Wed, 11 Aug 2021 05:31:24 GMT
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=373
+server-timing: origin; dur=332
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746284~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=a975656e40e666509d81bd0a603d22f7; path=/; Expires=Thu, 12 Aug 2021 05:31:24 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZsJ3rJmEzFybKVc99t/uDKo3zdvL3qAlQrHY1jY1LXKjtU0iYLsQVtxasmufHbeFMo=; Domain=.lowes.com; Path=/; Max-Age=7157; HttpOnly
+----
+--Request 
+GET https://www.facebook.com/tr/?id=625799750871183&ev=PageView&dl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&rl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&if=false&ts=1628659884344&sw=1360&sh=663&v=2.9.44&r=stable&ec=0&o=30&fbp=fb.1.1628659850310.738130319&it=1628659883949&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:24 GMT
+expires: Wed, 11 Aug 2021 05:31:24 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://www.facebook.com/tr/?id=1128484153951961&ev=PageView&dl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&rl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&if=false&ts=1628659884361&sw=1360&sh=663&v=2.9.44&r=stable&ec=0&o=30&fbp=fb.1.1628659850310.738130319&it=1628659883949&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:24 GMT
+expires: Wed, 11 Aug 2021 05:31:24 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+

@@ -1,0 +1,56 @@
+--Request 
+POST https://collector-px61wvsvi8.px-cloud.net/api/v2/collector
+Host: collector-px61wvsvi8.px-cloud.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA [key: "payload"
+value: "aUkQRhAIEGJqAAMQHhBWEAhJEGJqBwUQCBBpbhBmS0JXd0BAXUAIEnFTXFxdRhJAV1NWEkJAXUJXQEZLEhUCFRJdVBJcR15eElNGEmRGElNGEnpmf352XVFHX1dcRhxVV0Z3XldfV1xGQXBLZlNVfFNfVxJTRhJ9UFhXUUYcDlNcXVxLX11HQQwSU0YSRhJTRhJ9UFhXUUYcDlNcXVxLX11HQQwSU0YSRhJTRhJ9UFhXUUYcDlNcXVxLX11HQQwSU0YSRhJTRhJ9UFhXUUYcDlNcXVxLX11HQQwSU0YSRhJuEG8QHhBiagoHAhAIBh4QYmoKBwMQCAMGAQICHhBiagMCBwQQCAMEAAoEBwsKCgUEAwYeEGJqAwIBChAIEAdXUAMAAAoCH1RTBAcfAwNXUB9TBFRUHwIBA1ECVgNUB1AKBBAeEGJqAQUDEAhUU15BVx4QYmoLBBAIEFpGRkJBCB0dRUVFHF5dRVdBHFFdXx1CVh11dx8EAgICH3BmZx9iXUBGU1BeVx9zW0AfcV1cVltGW11cV0AdBwICAgMGAQsEAxBPT28="
+, key: "appId"
+value: "PX61WVsvi8"
+, key: "tag"
+value: "v6.9.2"
+, key: "uuid"
+value: "5eb12280-fa65-11eb-a6ff-031c0d1f5b86"
+, key: "ft"
+value: "226"
+, key: "seq"
+value: "3"
+, key: "en"
+value: "NTA"
+, key: "cs"
+value: "2f97607ecf55a706ee59ead8c27d6dd4ef94f0dbb2964685622010158817d375"
+, key: "pc"
+value: "9064991177287009"
+, key: "sid"
+value: "49bdd2b0-fa65-11eb-8dd5-15f5bf611991\363\240\204\261\363\240\204\266\363\240\204\262\363\240\204\270\363\240\204\266\363\240\204\265\363\240\204\271\363\240\204\270\363\240\204\270\363\240\204\265\363\240\204\265\363\240\204\271\363\240\204\267"
+, key: "vid"
+value: "49bd93fc-fa65-11eb-8ed2-0242ac120008"
+, key: "cts"
+value: "49bdf9c0-fa65-11eb-8dd5-15f5bf611991"
+, key: "rsc"
+value: "3"
+]
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:27 GMT
+content-type: application/json; charset=utf-8
+content-length: 10
+access-control-allow-credentials: true
+access-control-allow-methods: GET,HEAD,PUT,PATCH,POST,DELETE
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+via: 1.1 google
+alt-svc: clear
+----
+

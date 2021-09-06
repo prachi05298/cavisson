@@ -1,0 +1,193 @@
+--Request 
+POST https://api.revlifter.io/v1/kinesis-collect
+Host: api.revlifter.io
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"Data":[{"timeStamp":111111111,"payloadType":"userdata","payload":{"page":{"pageInfo":{"abtesting":["ABT-3773-A"],"destinationURL":"https://www.lowes.com/cart","referrerURL":"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961","siteID":"desktop","pageName":"shopping-cart"},"category":{"pageType":"shopping-cart","siteSections":["checkout","shopping-cart"],"platform":1,"framework":"1","helix":true}},"components":{},"user":{"profile":{"identityID":"0e89ec12-f1fa-45c1-b027-43ed6770e5aa","custType":"","profileInfo":{}},"attributes":{"storeID":"1985"},"status":"guest","companyProfile":{},"segment":"guest"},"cart":{"attributes":{"checkFreeShippingTracker":false,"checkGiftCardImpression":false,"promotions":[]},"cartID":"6831094681533210079","total":{"grandTotal":349,"shippingTax":"0.00","subTotal":"349.00","totalTax":"0.00","promotionCodes":[],"promotions":[]},"items":[{"ivm":"2759118-83-APFD06JASW","productID":"5000143961","orderItemID":"16286598876692180607","name":"6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner","brand":"GE","quantity":1,"itemStockType":"STK","stockType":"STK","unitPrice":"349.00","wasPrice":"","type":"ANY","available":true,"availability":{"parcel":{"availabilityStatus":"NA","availabilityMessage":"NA","productStockType":"STK","availableQuantity":0,"deliveryMethodId":"1","deliveryMethodName":"Ship to Home","storeNumber":"1985","leadtimeToday":false,"leadTime":null,"itmLdTmDays":0},"pickup":{"availabilityStatus":"Available","availabilityMessage":"ready_as_soon_as_sat_aug_14_2021","productStockType":"STK","availableQuantity":327,"deliveryMethodId":"2","deliveryMethodName":"Store Pickup","storeNumber":"1436","leadtimeToday":false,"leadTime":1628931600000,"itmLdTmDays":3},"truck":{"availabilityStatus":"NA","availabilityMessage":"NA","productStockType":"STK","availableQuantity":0,"deliveryMethodId":"3","deliveryMethodName":"Truck Delivery","storeNumber":"1985","leadtimeToday":false,"leadTime":null,"itmLdTmDays":0},"bopuis":{"availabilityStatus":"Available","availabilityMessage":"ready_as_soon_as_sat_aug_14_2021","productStockType":"STK","availableQuantity":327,"deliveryMethodId":"2","deliveryMethodName":"Store Pickup","storeNumber":"1436","leadtimeToday":false,"leadTime":1628931600000,"itmLdTmDays":3},"boss":{"availabilityStatus":"NA"}},"fulfillmentType":"10052","promotions":[],"linkedItems":[],"availablelinkedItems":[{"type":"epp","serviceSubOption":"2_year_lowes_protection_plan"}],"serviceComponent":true,"ltlItem":false,"odsItem":false,"hazmatItem":false,"hazmatLevelID":"RGL","shippingOptions":[],"isChildExists":false,"isParentItem":false,"truckOrderThreshold":false}],"pageViewData":{"errors":[],"productGroup":[],"promotionMessage":"undefined","fulfillmentItemAvailabilityError":false,"discountAmount":"0.00","automaticPromo":false}},"mboxes":{"names":["lwscom_global","lwscom_cart"],"tnta":[]},"experiments":[{"expError":null,"qualifiedExperiment":"PV-BYM-215","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-307","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-309","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-311","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-334","qualifiedVariant":"C"},{"expError":null,"qualifiedExperiment":"PV-BYM-287","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-347","qualifiedVariant":"C"}]},"context":{"w":"0l554347-da15-447f-9091-6e8941024cdc","u":"2264cea9-561b-4391-a2cf-df49e5250cf2","s":"9b790476-7d0d-4673-841d-7cd3601cfc6b","se":1631251848}}]}
+--Response 
+HTTP/1.1 200
+content-type: text/html
+content-length: 7
+date: Wed, 11 Aug 2021 05:31:38 GMT
+x-amzn-requestid: 6f916a69-e345-4dea-aa87-aeec84170732
+access-control-allow-origin: *
+access-control-allow-headers: Content-Type,Authorization,X-Amz-Date,X-Api-Key,X-Amz-Security-Token,X-CSRF-TOKEN,x-csrf-token
+x-amz-apigw-id: D4wNJH5bjoEFvrw=
+access-control-allow-methods: DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT
+x-amzn-trace-id: Root=1-611360ba-14b85af941205be14d69a900;Sampled=0
+x-cache: Miss from cloudfront
+via: 1.1 0955350518c2b6b9de47200fe8a193ae.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: dYeb0I5tfSzrYxDwDeYGGImumLFDgizoLiGfrErQFI7JVGwar_JJDQ==
+----
+--Request 
+GET https://cdn.krxd.net/controltag/r0usxrln4.js
+Host: cdn.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm; e_LfeEca87^0|%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D=1628659888
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=utf-8
+etag: \"15772c23918c5fd48793adf4ebca1cd2d345b34d\"
+x-app-cache: HIT
+cache-control: public, max-age=1200
+x-response-time: 0
+content-encoding: gzip
+x-age: 0
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_config_service_ash_prod
+via: 1.1 varnish, 1.1 varnish
+x-do-esi: esi
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+age: 12
+x-served-by: config-service-a005-ash-prod.krxd.net, cache-bwi5123-BWI, cache-bom4747-BOM
+x-cache: MISS, HIT, HIT
+x-cache-hits: 0, 2, 2
+x-timer: S1628659846.107821,VS0,VE0
+vary: Accept-Encoding
+content-length: 9533
+----
+--Request 
+GET https://cdn.krxd.net/ctjs/controltag.js.a1705c5ac5f06cf0c202ff70908fc042
+Host: cdn.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm; e_LfeEca87^0|%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D=1628659888
+----
+--Response 
+HTTP/1.1 200
+last-modified: Mon, 02 Aug 2021 12:06:17 GMT
+etag: \"a1705c5ac5f06cf0c202ff70908fc042\"
+x-amz-server-side-encryption: AES256
+cache-control: public, max-age=315360000
+content-encoding: gzip
+expires: Thu, 31 Jul 2031 12:06:16 GMT
+content-type: application/javascript
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_Controltag_S3
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+via: 1.1 varnish
+age: 753135
+x-served-by: cache-bom4747-BOM
+x-cache: HIT
+x-cache-hits: 322708
+x-timer: S1628659846.222737,VS0,VE0
+content-length: 84509
+----
+--Request 
+GET https://www.googletagmanager.com/a?id=AW-1031919983&cv=1&v=3&t=t&pid=1774684362&rv=891&es=1&e=gtm.init_consent&eid=10&tc=1&z=0
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+vary: *
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.googletagmanager.com/a?id=AW-1031919983&cv=1&v=3&t=t&pid=1774684362&rv=891&es=1&e=gtm.init&eid=11&tc=1&z=0
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+vary: *
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://s.pinimg.com/ct/lib/main.89cd5bf4.js
+Host: s.pinimg.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+etag: \"6deee3ea7ecc4a5d9687c1bd57018c16\"
+content-encoding: gzip
+accept-ranges: bytes
+content-type: application/javascript
+content-length: 17418
+cache-control: max-age=1209600
+vary: Accept-Encoding, Origin
+x-fallback: 8f64adf2-49.44.114.178
+x-cdn: akamai
+access-control-max-age: 86400
+access-control-expose-headers: X-CDN
+access-control-allow-methods: GET
+access-control-allow-origin: *
+----
+

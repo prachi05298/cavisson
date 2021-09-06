@@ -1,0 +1,125 @@
+--Request 
+GET https://ct.pinterest.com/user/?tid=2615619520270&pd=%7B%22page%22%3A%22hp%22%7D&cb=1628659850323
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-credentials: true
+access-control-expose-headers: Epik,Pin-Unauth
+pin-unauth: dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+access-control-allow-origin: https://www.lowes.com
+content-type: application/json; charset=utf-8
+content-encoding: gzip
+x-envoy-upstream-service-time: 1
+referrer-policy: origin
+x-pinterest-rid: 1412950611702399
+date: Wed, 11 Aug 2021 05:30:51 GMT
+x-cdn: fastly
+content-length: 308
+----
+--Request 
+GET https://ct.pinterest.com/v3/?tid=2615619520270&pd=%7B%22page%22%3A%22hp%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.lowes.com%2F%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A663%2C%22sw%22%3A1360%2C%22mh%22%3A%2289cd5bf4%22%2C%22ecm_enabled%22%3Afalse%7D&cb=1628659850327
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-type: image/gif
+access-control-allow-origin: *
+x-envoy-upstream-service-time: 2
+referrer-policy: origin
+x-pinterest-rid: 9841508926287197
+date: Wed, 11 Aug 2021 05:30:51 GMT
+x-cdn: fastly
+content-length: 35
+----
+--Request 
+GET https://www.googletagmanager.com/gtag/js?id=AW-1031919983&l=googleDataLayer&cx=c
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=UTF-8
+access-control-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-headers: Cache-Control
+content-encoding: br
+vary: Accept-Encoding
+date: Wed, 11 Aug 2021 05:30:51 GMT
+expires: Wed, 11 Aug 2021 05:30:51 GMT
+cache-control: private, max-age=900
+last-modified: Wed, 11 Aug 2021 03:00:00 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 39176
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC5dd8352b39404066b56280cc4aa704de-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:50 GMT
+date: Wed, 11 Aug 2021 05:30:50 GMT
+content-length: 918
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

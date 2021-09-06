@@ -1,0 +1,110 @@
+--Request 
+GET https://network.bazaarvoice.com/id.json?_=54kjc&callback=_bvajsonp2
+Host: network.bazaarvoice.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: BVID=991ae592-5b46-456e-838c-770a83d60db8; BVSID=63189ce3-a47e-47d2-88df-9a65810a24d7
+----
+--Response 
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-transform
+Content-Type: application/javascript
+Date: Wed, 11 Aug 2021 05:31:28 GMT
+Server: nginx/1.12.1
+Vary: Accept-Encoding
+Content-Length: 123
+Connection: keep-alive
+----
+--Request 
+GET https://va.v.liveperson.net/api/js/22554410?&cb=lpCb39763x37981&t=sp&ts=1628659888512&pid=9737138271&tid=7916049064&pt=GE%206100-BTU%20DOE%20(8000-BTU%20ASHRAE)%20115-Volt%20White%20Portable%20Air%20Conditioner%20in%20the%20Portable%20Air%20Conditioners%20department%20at%20Lowes.com&u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&r=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&sec=%5B%22lowes%20%3A%20product-display%20%3A%20heating_cooling%2Cair_conditioners_fans%2Croom_air_conditioners%2Cportable_air_conditioners%22%2C%221%22%5D&df=0&os=2&identities=%5B%7B%22iss%22%3A%22LivePerson%22%2C%22acr%22%3A%220%22%7D%5D
+Host: va.v.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:29 GMT
+content-type: application/javascript
+set-cookie: LPVisitorID=MwZjUwNjU5YTYyZDUxNjk3; Expires=Thu, 11-Aug-2022 05:31:29 GMT; Path=/; HttpOnly
+set-cookie: LPSessionID=xD2M7VuaRzush56fUXtNkw; Path=/api/js/22554410; HttpOnly
+cache-control: no-store
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+content-encoding: gzip
+----
+--Request 
+GET https://network.bazaarvoice.com/st.gif?cl=PageView&loadId=24b125d012d2c978976&type=Product&BVBRANDID=f89d7817-f2f6-459d-823a-ae4d247567fd&BVBRANDSID=e25d865c-eac8-4133-8c19-b9f815e6aab0&tz=300&sourceVersion=3.14.0&magpieJsVersion=3.14.0&source=bv-loader&environment=prod&client=Lowes&dc=0534&host=www.lowes.com&bvProduct=RatingsAndReviews&locale=en_US&deploymentZone=main_site&productId=5000143961&categoryId=portable_air_conditioners&rootCategoryId=heating_cooling&numReviews=&href=https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961&canurl=https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961&res=1360x663&lang=en-us&charset=UTF-8&geo=1&cookies=1&r_t=(con:0,dns:0,load:8100,req:840,res:31,tot:9066)&_=bd8i98&ref=https://www.lowes.com/search%3FsearchTerm%3Dair%2520conditioner
+Host: network.bazaarvoice.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: BVID=991ae592-5b46-456e-838c-770a83d60db8; BVSID=63189ce3-a47e-47d2-88df-9a65810a24d7
+----
+--Response 
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0
+Content-Type: image/gif
+Date: Wed, 11 Aug 2021 05:31:28 GMT
+Expires: -1
+P3P: policyref=\"/w3c/p3p.xml\", CP=\"ADMa OUR IND DSP NON COR\"
+Server: nginx/1.12.1
+Set-Cookie: BVID=991ae592-5b46-456e-838c-770a83d60db8;Version=1;Domain=.network.bazaarvoice.com;Max-Age=31536000;Expires=Thu, 11 Aug 2022 05:31:28 GMT;Secure;SameSite=None
+Set-Cookie: BVSID=63189ce3-a47e-47d2-88df-9a65810a24d7;Version=1;Domain=.network.bazaarvoice.com;Max-Age=1800;Expires=Wed, 11 Aug 2021 06:01:28 GMT;Secure;SameSite=None
+Content-Length: 43
+Connection: keep-alive
+----
+--Request 
+GET https://network.bazaarvoice.com/st.gif?loadId=24b125d012d2c978976&BVBRANDID=f89d7817-f2f6-459d-823a-ae4d247567fd&BVBRANDSID=e25d865c-eac8-4133-8c19-b9f815e6aab0&tz=300&sourceVersion=3.14.0&magpieJsVersion=3.14.0&source=bv-loader&environment=prod&client=Lowes&dc=0534&host=www.lowes.com&r_batch=!((bvProduct:bv-loader,bvProductVersion:%2713.4.0%27,cl:Diagnostic,deploymentZone:main_site,elapsedMs:%272.6150%27,endTime:%2712895.2250%27,locale:en_US,name:timeToRunScout,startTime:%2712892.6100%27,type:Performance))&_=wsk4bd
+Host: network.bazaarvoice.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: BVID=991ae592-5b46-456e-838c-770a83d60db8; BVSID=63189ce3-a47e-47d2-88df-9a65810a24d7
+----
+--Response 
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0
+Content-Type: image/gif
+Date: Wed, 11 Aug 2021 05:31:28 GMT
+Expires: -1
+P3P: policyref=\"/w3c/p3p.xml\", CP=\"ADMa OUR IND DSP NON COR\"
+Server: nginx/1.12.1
+Set-Cookie: BVID=991ae592-5b46-456e-838c-770a83d60db8;Version=1;Domain=.network.bazaarvoice.com;Max-Age=31536000;Expires=Thu, 11 Aug 2022 05:31:28 GMT;Secure;SameSite=None
+Set-Cookie: BVSID=63189ce3-a47e-47d2-88df-9a65810a24d7;Version=1;Domain=.network.bazaarvoice.com;Max-Age=1800;Expires=Wed, 11 Aug 2021 06:01:28 GMT;Secure;SameSite=None
+Content-Length: 43
+Connection: keep-alive
+----
+

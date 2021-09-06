@@ -1,0 +1,226 @@
+
+
+<style>
+#nav-flyout-ewc:focus{outline:0}.ewc-cart-header-logo{border-bottom:1px solid #D0D0D0;height:60px;display:flex;flex-direction:column;align-items:center;justify-content:center}.ewc-cart-header-logo::after{display:none;content:" ";border-style:solid;_border-style:dashed;border-width:4px;border-color:transparent;border-top:4px solid #767676;border-bottom-width:0;width:0;height:0;font-size:0;line-height:0;position:absolute;top:28px;right:10px}.cart-header-logo{max-width:46px;max-height:40px;background-repeat:no-repeat;display:inline-block}.ewc-pantry-header{border-top:1px solid #ddd;padding-top:15px;text-align:center}.ewc-item{position:relative;min-height:38px;width:76px;margin-bottom:24px}.ewc-item .ewc-item-quantity{position:absolute;bottom:-5px;right:-5px;line-height:18px;height:20px;background-color:#fff;border:1px solid grey;border-radius:10px;width:auto;text-align:center;min-width:20px;padding:0 5px;font-size:13px;z-index:1}.ewc-item .ewc-item-image{text-align:center}.ewc-item .ewc-item-image .sc-product-image{width:76px;height:76px}.ewc-item .ewc-dibs-info-container{display:inline-block}.ewc-item .ewc-dibs-info-container .ewc-dibs-utterance-info{display:inline-block;margin-bottom:4px}.ewc-item .ewc-dibs-info-container .ewc-dibs-alexa-logo{margin-top:4px}.ewc-item .ewc-item-unavailable-text{color:#c25f29}.ewc-dibs-alert-container{margin-top:26px;margin-bottom:22px}.ewc-dibs-alert-container+.ewc-item,.ewc-item~.ewc-item{margin-top:unset}.ewc-dibs-alert-container{text-align:center}.ewc-dibs-alert-container .ewc-dibs-inner{padding:4px;border-radius:5px;background-color:transparent;border:1px solid #BBD3DE;cursor:pointer;font-weight:400}.ewc-dibs-alert-container .ewc-dibs-inner a,.ewc-dibs-alert-container .ewc-dibs-inner a:visited{color:#0066c0}.ewc-item .a-icon-popover{display:none}.ewc-view-related-items{width:max-content}.ewc-item-image a:focus{box-shadow:none!important}.ewc-item::after{content:" ";display:block;z-index:2;position:absolute;top:-3px;left:-3px;width:100%;height:100%;opacity:0;background-color:#373D3E;pointer-events:none;border-radius:4px;padding:3px}.ewc-item:hover:after{opacity:.05}.nav-ewc-persistent-hover.nav-ewc-compact-view .nav-ewc-arrow,.nav-ewc-persistent-hover.nav-ewc-compact-view .nav-ewc-arrow::before,.nav-ewc-persistent-hover.nav-ewc-full-height-persistent-hover .nav-ewc-arrow,.nav-ewc-persistent-hover.nav-ewc-full-height-persistent-hover .nav-ewc-arrow::before{display:block;z-index:6;right:-1px}.nav-ewc-persistent-hover.nav-ewc-compact-view .nav-ewc-arrow,.nav-ewc-persistent-hover.nav-ewc-full-height-persistent-hover .nav-ewc-arrow{border-style:solid;_border-style:dashed;border-width:7px;border-color:transparent;border-right:7px solid #ddd;border-left-width:0;width:0;height:0;font-size:0;line-height:0;position:absolute;top:30px}.nav-ewc-persistent-hover.nav-ewc-compact-view .nav-ewc-arrow::before,.nav-ewc-persistent-hover.nav-ewc-full-height-persistent-hover .nav-ewc-arrow::before{border-style:solid;_border-style:dashed;border-width:6px;border-color:transparent;border-right:6px solid #fff;border-left-width:0;width:0;height:0;font-size:0;line-height:0;content:" ";position:relative;top:-6px}.nav-ewc-persistent-hover.nav-ewc-compact-view #nav-flyout-anchor .nav-ewc-arrow,.nav-ewc-persistent-hover.nav-ewc-full-height-persistent-hover #nav-flyout-anchor .nav-ewc-arrow{top:-30px}#ewc-compact-body{background-color:#fff;bottom:0;width:100%}.ewc-body-overlay{background:rgba(170,170,170,.05);top:0;right:0;z-index:3;position:absolute;width:100%;height:100%;pointer-events:none}.ewc-scroller{max-height:100%}.ewc-scroller::-webkit-scrollbar{width:11px}.ewc-scroller::-webkit-scrollbar-thumb{background:silver;border-left:calc(11px - 4px) solid #f7f7f7}.ewc-scroller::-webkit-scrollbar-thumb:vertical:hover{background:#7d7d7d}.ewc-scroller::-webkit-scrollbar-track{background:#f7f7f7}.ewc-scroller{scrollbar-face-color:silver;scrollbar-track-color:#f7f7f7}.ewc-active-cart,.ewc-pantry-box,.ewc-pantry-header{display:flex;flex-direction:column;align-items:center;justify-content:center}.ewc-active-cart,.ewc-body-overlay,.ewc-scroller{display:none}.ewc-compact-body--scroll .ewc-body-overlay,.ewc-scroller.ewc-scroller--selected{display:block}.ewc-active-cart.ewc-active-cart--selected{display:flex}.ewc-compact-head{background-color:#fff;top:0;width:100%}.ewc-compact-head .ewc-subtotal-value .currencyINR{display:inline-block;background:url(https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-site-wide-2._V1_.png);background-repeat:no-repeat;margin-right:1px;vertical-align:middle;font-size:8px;text-decoration:inherit;background-position:0 -333px;width:6px;height:9px;line-height:9px;margin-bottom:3px}.ewc-compact-head .ewc-subtotal-value .a-size-mini .currencyINR{width:6px;height:9px;line-height:9px;margin-bottom:1px}.ewc-compact-head .ewc-subtotal-value .a-size-mini.a-color-price .currencyINR{background-position:0 -303px}.ewc-compact-head .ewc-subtotal-value .a-size-small .currencyINR{width:6px;height:9px;line-height:9px;margin-bottom:1px}.ewc-compact-head .ewc-subtotal-value .a-size-small.a-color-price .currencyINR{background-position:0 -318px}.ewc-compact-head .ewc-subtotal-value .a-size-base .currencyINR{width:6px;height:9px;line-height:9px;margin-bottom:2px}.ewc-compact-head .ewc-subtotal-value .a-size-base.a-color-price .currencyINR{background-position:0 -333px}.ewc-compact-head .ewc-subtotal-value .a-size-medium .currencyINR{width:7px;height:11px;line-height:11px;margin-bottom:2px}.ewc-compact-head .ewc-subtotal-value .a-size-medium.a-color-price .currencyINR{background-position:0 -363px}.ewc-compact-head .ewc-subtotal-value .a-size-large .currencyINR{width:9px;height:14px;line-height:14px;margin-bottom:3px}.ewc-compact-head .ewc-subtotal-value .a-size-large.a-color-price .currencyINR{background-position:0 -408px}.ewc-compact-head .ewc-checkout{padding:0 1px}.ewc-compact-head--multiple-carts .ewc-cart-header-logo{cursor:pointer}.ewc-compact-head--multiple-carts .ewc-subtotal-value{padding-bottom:5px}.ewc-compact-head--open{box-shadow:0 3px 4px 0 rgba(0,0,0,.1);border:1px solid #CCC;border-radius:3px;z-index:4}.ewc-compact-head--open .ewc-cart-header{display:block;border:1px solid transparent;cursor:pointer}.ewc-compact-head--open .ewc-cart-header-logo{border-bottom:0;height:40px}.ewc-compact-head--open .ewc-cart-item-quantity{margin-bottom:14px;margin-top:unset!important}.ewc-compact-head--open .ewc-cart-header--selected .ewc-cart-header-logo::after,.ewc-compact-head--open.ewc-compact-head--multiple-carts .ewc-subtotal{display:none}.ewc-compact-head--open .ewc-cart-header--selected,.ewc-compact-head--open .ewc-cart-header:hover{background:#f3f3f3;border:1px solid #A6A6A6}.ewc-compact-head--open .ewc-cart-header--selected,.ewc-compact-head--open .ewc-cart-header--selected:hover{border-left:1px solid #E77502}.ewc-cart-header{display:none;text-align:center}.ewc-cart-header--selected{display:block}.ewc-cart-header--selected .ewc-cart-header-logo::after{display:inline-block}.ewc-compact{width:100px;height:100%}.ewc-buy-box-ptc-form{margin-bottom:0}.ewc-compact-wrap .dummy-content-for-ewc{font-size:25px;text-align:center;padding:80vh 50px}.ewc-compact-wrap .dummy-content-for-ewc~.ewc-compact{border-left:1px solid #ddd;position:fixed;top:0;right:0;width:130px!important}.ewc-compact-wrap .ewc-compact-left-arrow{border-style:solid;_border-style:dashed;border-width:6px;border-color:transparent;border-right:6px solid #fff;border-left-width:0;width:0;height:0;font-size:0;line-height:0;position:absolute;top:30px;right:100px}.ewc-compact-wrap .ewc-compact-left-arrow::before{border-style:solid;_border-style:dashed;border-width:calc(6px + 1px);border-color:transparent;border-right:calc(6px + 1px) solid #ddd;border-left-width:0;width:0;height:0;font-size:0;line-height:0;position:absolute;top:calc(0px - calc(6px + 1px));left:calc(0px - 1px);z-index:-1;content:" "}#ewc-smart-wagon-desktop-sideSheet{position:fixed;right:-500px;width:580px;bottom:0;top:0;border-width:0;margin:0;z-index:296;box-shadow:-4px 0 5px rgba(0,0,0,.25);background-color:#fff}#ewc-smart-wagon-desktop-sideSheet .currencyINR{display:inline-block;background:url(https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-site-wide-2._V1_.png);background-repeat:no-repeat;margin-right:1px;vertical-align:middle;font-size:8px;text-decoration:inherit;background-position:0 -333px;width:6px;height:9px;line-height:9px;margin-bottom:3px}#ewc-smart-wagon-desktop-sideSheet .a-size-mini .currencyINR{width:6px;height:9px;line-height:9px;margin-bottom:1px}#ewc-smart-wagon-desktop-sideSheet .a-size-mini.a-color-price .currencyINR{background-position:0 -303px}#ewc-smart-wagon-desktop-sideSheet .a-size-small .currencyINR{width:6px;height:9px;line-height:9px;margin-bottom:1px}#ewc-smart-wagon-desktop-sideSheet .a-size-small.a-color-price .currencyINR{background-position:0 -318px}#ewc-smart-wagon-desktop-sideSheet .a-size-base .currencyINR{width:6px;height:9px;line-height:9px;margin-bottom:2px}#ewc-smart-wagon-desktop-sideSheet .a-size-base.a-color-price .currencyINR{background-position:0 -333px}#ewc-smart-wagon-desktop-sideSheet .a-size-medium .currencyINR{width:7px;height:11px;line-height:11px;margin-bottom:2px}#ewc-smart-wagon-desktop-sideSheet .a-size-medium.a-color-price .currencyINR{background-position:0 -363px}#ewc-smart-wagon-desktop-sideSheet .a-size-large .currencyINR{width:9px;height:14px;line-height:14px;margin-bottom:3px}#ewc-smart-wagon-desktop-sideSheet .a-size-large.a-color-price .currencyINR{background-position:0 -408px}#ewc-smart-wagon-content{overflow:auto;height:100%}#ewc-smart-wagon-popover-lgtbox{z-index:295;opacity:.4;cursor:pointer}#ewc-smart-wagon-close-button{top:0;left:-32px;cursor:pointer;position:absolute;padding:2px;z-index:296}#ewc-smart-wagon-close-button:before{position:absolute;left:15px;content:' ';height:23px;width:2px;background-color:#fff;transform:rotate(45deg)}#ewc-smart-wagon-close-button:after{position:absolute;left:15px;content:' ';height:23px;width:2px;background-color:#fff;transform:rotate(-45deg)}#navbar #nav-flyout-ewc .nav-flyout-body{z-index:300}.ewc-smart-wagon-item-image-container{height:190px}#ewc-smart-wagon-loading-spinner{position:absolute;top:250px}.ewc-pantry-header .pantry-logo{width:auto;height:18px;margin-left:10px}.ewc-item .sc-hidden{display:none}.ewc-item .quantity{width:55px}.ewc-item .sc-quantity-textfield{width:71px}.quantity-option .sc-update-quantity-option{padding:0!important}.quantity-option .sc-action-update-quantity input{background-color:inherit;border:none;color:inherit!important;width:100%;text-align:left}.quantity-option-10{border-top-color:#e7e7e7;border-top-width:1px;border-top-style:solid}
+</style>
+
+
+<div class="ewc-compact sc-java-remote-feature celwidget" id="ewc-content" cel_widget_id="ewc-loaded">
+
+
+
+
+<div class="a-row ewc-compact-head">
+
+<input type="hidden" name="totalCartQuantity" value="1" id="ewc-total-quantity"/>
+
+
+
+
+
+<div class="a-row ewc-compact-view-cart-header">
+<div data-cart-type="Retail_Cart" class="a-row ewc-cart-header ewc-cart-header--selected">
+
+
+
+
+
+<div class="a-row ewc-subtotal">
+
+<div class="a-row a-spacing-top-base ewc-subtotal-label">
+<span class="a-size-small a-color-base">Subtotal</span>
+</div>
+
+
+<div class="a-row ewc-subtotal-value">
+
+<input type="hidden" name="ewcCurrencySymbol" value="USD" class="ewc-currency-symbol"/>
+
+
+<span class="ewc-subtotal-amount">
+<span class="a-size-base a-color-price a-text-bold">
+$24.99
+</span>
+</span>
+
+</div>
+</div>
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div id="ewc-compact-body">
+
+
+
+
+
+
+
+
+<div class="a-scroller ewc-scroller ewc-scroller--selected a-scroller-vertical">
+<div data-cart-type="Retail_Cart" class="a-row ewc-active-cart ewc-active-cart--selected">
+<div class="ewc-body-overlay"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-asin="B0843ZHLF6" data-encoded-offering="9uAw6mopUmLfV4FFIgvdr%2Ftpdwmty1a0wm5JtJIOaKz76omN0KbkoB5zDbEJ3WBtM6W7UTXDNxLei%2F4Jj1a90AC6LjrKSFGAk3YPgwKXQeb3m141rrW4R%2FFG2p%2FOhzgjGugzDdswD9NXn45SiT0XGg%3D%3D" data-giftable="0" data-giftwrapped="0" data-isprimeasin="0" data-item-count="1" data-itemcategory="normal" data-itemid="Cc2e08119-3c6b-4345-8271-7544718c6ba2" data-itemislastpantryitem="0" data-itemtype="active" data-minquantity="1" data-outofstock="0" data-price="24.99" data-quantity="1" data-subtotal="{&quot;numberOfItems&quot;:1,&quot;subtotal&quot;:{&quot;code&quot;:&quot;USD&quot;,&quot;amount&quot;:24.99},&quot;points&quot;:0}" id="sc-item-Cc2e08119-3c6b-4345-8271-7544718c6ba2" class="a-row ewc-item">
+<div class="ewc-item-hover-overlay"></div>
+<div class="a-section a-spacing-none ewc-item-content">
+
+
+
+
+
+<span class="a-declarative" data-action="ewc-popover" data-ewc-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;name&quot;:&quot;preload-B0843ZHLF6-Cc2e08119-3c6b-4345-8271-7544718c6ba2&quot;,&quot;position&quot;:&quot;triggerHorizontal&quot;}">
+<div class="a-row ewc-item-image">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+    
+        
+    
+    
+
+
+
+
+<a class="a-link-normal sc-product-link" target="_self" rel="noopener" href="/gp/product/B0843ZHLF6/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&amp;psc=1">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+                
+                    
+                
+                
+            
+            
+            
+            
+            
+        
+        
+    
+    
+    <img alt="Amazon Basics Kids Bedding Nap Set with Llama Pillow and Fleece Throw Blanket" src="https://m.media-amazon.com/images/I/71JryAghqiL._AC_AA152_.jpg" class="sc-product-image" height="152" width="152"/>
+
+
+
+    
+</a>
+
+</div>
+</span>
+
+
+<div class="a-popover-preload" id="a-popover-preload-B0843ZHLF6-Cc2e08119-3c6b-4345-8271-7544718c6ba2">
+<div class="a-row ewc-view-related-items">
+<span class="a-declarative" data-action="view-related-items" data-view-related-items="{&quot;itemid&quot;:&quot;Cc2e08119-3c6b-4345-8271-7544718c6ba2&quot;,&quot;smartWagonType&quot;:&quot;VIEW_RELATED_ITEMS&quot;,&quot;quantity&quot;:&quot;1&quot;,&quot;price&quot;:&quot;24.99&quot;,&quot;asin&quot;:&quot;B0843ZHLF6&quot;}">
+<a class="a-link-normal" href="#">View related items</a>
+</span>
+</div>
+</div>
+
+
+
+
+
+</div>
+
+</div>
+
+
+</div>
+</div>
+
+
+
+
+
+</div>
+
+
+</div>
+<script>
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('load').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/313xxqqc28L.js?AUIClients/EverywhereCartAsset');
+});
+</script>

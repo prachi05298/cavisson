@@ -1,0 +1,114 @@
+--Request 
+POST https://collector-px61wvsvi8.px-cloud.net/api/v2/collector
+Host: collector-px61wvsvi8.px-cloud.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA [key: "payload"
+value: "aUkQRhAIEGJqCgIHEB4QVhAISRBiagsDEAgDAQQCHhBiagsAEAgEBAEeEGJqAAQLEAgDAAoKHhBiagAFAhAIBAEEHhBiagMKBBAIAwAKCh4QYmoDCgcQCAcCAx4QYmoAAQAQCAMACgoeEGJqAAEDEAgHAgMeEGJqCwIKEAgQBAdUCgQAUAIfVFMEBx8DA1dQHwoLB1YfClZUBwsDVlQFAAIGEB4QYmoLAgsQCBAGCwQDVgICAh9UUwQHHwMDV1AfUFQFUx8BCwcDBVRTBAcEAwoQHhBiagsLBBAIEFFRAVcGUAZREB4QYmoKCwAQCEZAR1ceEGJqCwUHEAgDCwoKHhBiagMCAwIQCBBTUBAeEGJqCwMCEAgQBgsEAwEBUQIfVFMEBx8DA1dQH1BUBVMfAQsHAwVUUwQHBAMKEB4QYmoLAgUQCBADHAEcAQoHBBAeEGJqCwMKEAgQBgcHCwQDBQEEChAeEGJqCgACEAgQYmoKAwQQHhBiagsBAhAIXEdeXh4QYmoHBxAIEFpGRkJBFwFzFwB0FwB0RUVFHF5dRVdBHFFdXxcAdEJWFwB0dXcfBAICAh9wZmcfYl1ARlNQXlcfc1tAH3FdXFZbRltdXFdAFwB0BwICAgMGAQsEAxAeEGJqCgcCEAgCHhBiagoHAxAIBwIEBR4QYmoDAgcEEAgDBAAKBAcLCgsFBgoCHhBiagMCAQoQCBAEB1QEAwpRAh9UUwQHHwMDV1AfCwUEUR8KAwoLBVEEAQEHClYQHhBiagEFAxAIVFNeQVceEGJqCwQQCBBaRkZCQQgdHUVFRRxeXUVXQRxRXV8dUVNARhBPTx5JEEYQCBBiagAQHhBWEAhJEGJqCwQQCBBaRkZCQQgdHUVFRRxeXUVXQRxRXV8dUVNARhAeEGJqBAEQCBB W1xHShJKCgRtBAYQHhBiagMLAxAIAh4QYmoKBwIQCAMeEGJqCgcDEAgHAwIHHhBiagMCAgoQCAEEAgIeEGJqAwIHBxAIAwQACgQHCwoLBQYABB4QYmoDAgcEEAgDBAAKBAcLCgsFBgoDHhBiagMCAQoQCBAEB1QEAwpRAh9UUwQHHwMDV1AfCwUEUR8KAwoLBVEEAQEHClYQHhBiagEFAxAIVFNeQVdPT28="
+, key: "appId"
+value: "PX61WVsvi8"
+, key: "tag"
+value: "v6.9.2"
+, key: "uuid"
+value: "65f618c0-fa65-11eb-976c-81897c63358d"
+, key: "ft"
+value: "226"
+, key: "seq"
+value: "0"
+, key: "en"
+value: "NTA"
+, key: "pc"
+value: "1125413557808107"
+, key: "sid"
+value: "49bdd2b0-fa65-11eb-8dd5-15f5bf611991"
+, key: "vid"
+value: "49bd93fc-fa65-11eb-8ed2-0242ac120008"
+, key: "cts"
+value: "49bdf9c0-fa65-11eb-8dd5-15f5bf611991"
+, key: "rsc"
+value: "1"
+]
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:36 GMT
+content-type: application/json; charset=utf-8
+content-length: 232
+access-control-allow-credentials: true
+access-control-allow-methods: GET,HEAD,PUT,PATCH,POST,DELETE
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://connect.facebook.net/signals/config/625799750871183?v=2.9.44&r=stable
+Host: connect.facebook.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: application/x-javascript; charset=utf-8
+report-to: {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/\"}],\"group\":\"coop_report\"}
+x-fb-rlafr: 0
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy-report-only: require-corp;report-to=\"coop_report\"
+cross-origin-opener-policy: same-origin-allow-popups
+pragma: public
+cache-control: public, max-age=1200
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+content-security-policy: default-src * data: blob: 'self';script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.google.com 127.0.0.1:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';block-all-mixed-content;upgrade-insecure-requests;
+x-frame-options: DENY
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-fb-debug: dUKj2dvjqBlFNsoF5Xmz3YHuJNVqJ/9zQ84zIWqiv4Romtq/ZnD0ze0wD65dOHPP15l3dz9Q3K3Cw6bzULTYzQ==
+x-fb-trip-id: 1588961438
+date: Wed, 11 Aug 2021 05:31:38 GMT
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://1060694.collect.igodigital.com/collect.js
+Host: 1060694.collect.igodigital.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: igodigitaltc2=49f1b9d6-fa65-11eb-9e7b-2aaabc362be4; igodigitalst_1060694=49f1c2b4-fa65-11eb-9e7b-2aaabc362be4; igodigitalst_1370143=60a0e828-fa65-11eb-9220-d216d4e65b49; igodigitalstdomain=20011
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:37 GMT
+content-type: application/javascript
+last-modified: Tue, 10 Aug 2021 22:06:28 GMT
+vary: Accept-Encoding
+content-encoding: gzip
+----
+

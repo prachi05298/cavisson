@@ -1,0 +1,320 @@
+--Request 
+POST https://collector-px61wvsvi8.px-cloud.net/api/v2/collector
+Host: collector-px61wvsvi8.px-cloud.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA [key: "payload"
+value: "aUkQRhAIEGJqCgIHEB4QVhAISRBiagsDEAgDAQQCHhBiagsAEAgEBAEeEGJqAAQLEAgDAAoKHhBiagAFAhAIBAEEHhBiagMKBBAIAwAKCh4QYmoDCgcQCAcCAx4QYmoAAQAQCAMACgoeEGJqAAEDEAgHAgMeEGJqCwIKEAgQBwQEAwUBAgIfVFMEBx8DA1dQH1NXVgUfUQNRVAMBBFcGC1MKEB4QYmoLAgsQCBAGCwQDVgICAh9UUwQHHwMDV1AfUFQFUx8BCwcDBVRTBAcEAwoQHhBiagsLBBAIEFFRAVcGUAZREB4QYmoKCwAQCEZAR1ceEGJqCwUHEAgDCwoKHhBiagMCAwIQCBBTUBAeEGJqCwMCEAgQBgsEAwEBUQIfVFMEBx8DA1dQH1BUBVMfAQsHAwVUUwQHBAMKEB4QYmoLAgUQCBADHAEcAQoHBBAeEGJqCwMKEAgQBgcHCwQDBQEEChAeEGJqCgACEAgQYmoKAwQQHhBiagsBAhAIXEdeXh4QYmoHBxAIEFpGRkJBFwFzFwB0FwB0RUVFHF5dRVdBHFFdXxcAdBAeEGJqCgcCEAgCHhBiagoHAxAIAAIDCgMeEGJqAwIHBBAIAwQACgQHCwoFAwECAB4QYmoDAgEKEAgQBwQHBVRWAAIfVFMEBx8DA1dQH1MGVgQfBwMGVFEFB1BXVgsGEB4QYmoBBQMQCFRTXkFXHhBiagsEEAgQWkZGQkEIHR1FRUUcXl1FV0EcUV1fHUFXU0BRWg1BV1NAUVpmV0BfD1NbQBcAAlFdXFZbRltdXFdAEE9PHkkQRhAIEGJqABAeEFYQCEkQYmoLBBAIEFpGRkJBCB0dRUVFHF5dRVdBHFFdXx1BV1NAUVoNQVdTQFFaZldAXw9TW0AXAAJRXVxWW0ZbXVxXQBAeEGJqBAEQCBB W1xHShJKCgRtBAYQHhBiagMLAxAIAh4QYmoKBwIQCAMeEGJqCgcDEAgAAgMLCx4QYmoDAgIKEAgBBAICHhBiagMCBwcQCAMEAAoEBwsKBQMABAseEGJqAwIHBBAIAwQACgQHCwoFAwECAB4QYmoDAgEKEAgQBwQHBVRWAAIfVFMEBx8DA1dQH1MGVgQfBwMGVFEFB1BXVgsGEB4QYmoBBQMQCFRTXkFXT09v"
+, key: "appId"
+value: "PX61WVsvi8"
+, key: "tag"
+value: "v6.9.2"
+, key: "uuid"
+value: "5657fd20-fa65-11eb-a4d6-514fc75bed94"
+, key: "ft"
+value: "226"
+, key: "seq"
+value: "0"
+, key: "en"
+value: "NTA"
+, key: "pc"
+value: "9468033149891020"
+, key: "sid"
+value: "49bdd2b0-fa65-11eb-8dd5-15f5bf611991"
+, key: "vid"
+value: "49bd93fc-fa65-11eb-8ed2-0242ac120008"
+, key: "cts"
+value: "49bdf9c0-fa65-11eb-8dd5-15f5bf611991"
+, key: "rsc"
+value: "1"
+]
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 218
+access-control-allow-credentials: true
+access-control-allow-methods: GET,HEAD,PUT,PATCH,POST,DELETE
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://1060694.collect.igodigital.com/collect.js
+Host: 1060694.collect.igodigital.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: igodigitaltc2=49f1b9d6-fa65-11eb-9e7b-2aaabc362be4; igodigitalst_1060694=49f1c2b4-fa65-11eb-9e7b-2aaabc362be4; igodigitalstdomain=7583
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-type: application/javascript
+last-modified: Wed, 11 Aug 2021 01:13:49 GMT
+vary: Accept-Encoding
+content-encoding: gzip
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC8f22bc63cd284f6184d59595847bd553-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 1851
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=224&li=gpt_2021080501&jk=2399671777886998&rc=
+Host: pagead2.googlesyndication.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Wed, 11 Aug 2021 05:31:11 GMT
+server: cafe
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=224&t=2&li=gpt_2021080501&jk=2399671777886998&bg=!o6CloOTNAAbOj6irzo87ACkAdvg8WtXsE3ClPLPaT2RdIVI7hCwJ9tTTASfJIvB6h550zbmp4QVxpgIAAAGNUgAAAAtoAQeZApLIr9p_Hto1mSSvdaWm32h_N-dX8fHfia_ouZI9wZuNemAMky5Tyja2pJ0RMNODfdkWdeMn8x02SzCKHKr-w_Ch5YCqMXkTC_tJtIdgns-YxQu9-CqO4KB_EYh82OnL_XDHgWooAWZroqKdaP-SUf8z-uPtzU0h9pHnZZ31jKKtpXQc5tMviz4xaSbtLVLzJkzHS75kz-vQ4ITqCuOjfnBwNsM_Wk2TsQ4YnN_MqodJIUsoIIyLf_O-fw1ZGLeN_7xQcwJKXWf76rkSN-Uh4uq9JhUEOcncZw_d6xMP2cV56YYOpKcGDc4SSfwFwJonE8edigOiSTVfRfNObojOg9NiFIOWwNKkoF1i7hqM0n38RHUKbYyCBERuoh8rM80gZqpnXrPs1KULKD1wSvEkjVhfGEVRGQLXMjFWKUu8DZ0nC1rmjwwpm8y38K2rbWuKyi3wc0ZrpntOrTNNZa_d96hZclKFIoRx7qt9a0-giNwGzHdSKG2LgIgcbK04r9FEKHWI-1ZTTxqcb_WfxptjjeichIGOs35XjWBjVK9zp6wvQgoe5EPLJ-Bw7CkcPGrO0vbTs3XlLgp-YQC4D87bKjuEEL9cMEOXF6ALroD_EuickPAuD7nJTM1LzvGpyqjpr5hAjWY9YsXpSNYwUtGOFhFeZEpHQC_Xmaiu0A01Ggz0EK80_qQa6VxPF45PivJxR6r-sX088l-OdYzZNNbmAr2lZcBSMeTDHvZWzL4bZkEKGrExFOedfyUhIY-sTbqGUHugjof6NYkLH7igfTVAoMpIUxDvrP01FQCFRXtEjEAzhQdMUmgZM30vGvEKCJvo0ezt3DvhjdGaaKlu6zAR1Ad9fx7Mw87TPepCmKHOoqwAm8Ig
+Host: pagead2.googlesyndication.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:12 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: image/gif
+x-content-type-options: nosniff
+server: cafe
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://nova.collect.igodigital.com/c2/1060694/track_page_view?payload=%7B%22search%22%3A%22air%2520conditioner%22%2C%22title%22%3A%22Air%20conditioner%20at%20Lowes.com%3A%20Search%20Results%22%2C%22url%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.lowes.com%2F%22%2C%22user_info%22%3A%7B%22email%22%3A%22%22%2C%22details%22%3A%7B%22Source%22%3A%22DESKTOP%22%2C%22cust_type%22%3A%22%22%2C%22known_state%22%3A%22%22%7D%7D%2C%22child_ids%22%3A%5B%221370143%22%5D%7D
+Host: nova.collect.igodigital.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: igodigitaltc2=49f1b9d6-fa65-11eb-9e7b-2aaabc362be4; igodigitalst_1060694=49f1c2b4-fa65-11eb-9e7b-2aaabc362be4; igodigitalstdomain=7583
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:12 GMT
+content-type: image/gif
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-disposition: inline
+content-transfer-encoding: binary
+cache-control: private
+etag: W/\"98b3d9d20e032f90aca49e9b116225d5\"
+set-cookie: igodigitaltc2=49f1b9d6-fa65-11eb-9e7b-2aaabc362be4; domain=.igodigital.com; path=/; expires=Mon, 11 Aug 2031 05:31:12 GMT; Secure; SameSite=None
+set-cookie: igodigitalst_1060694=49f1c2b4-fa65-11eb-9e7b-2aaabc362be4; domain=.igodigital.com; path=/; expires=Wed, 11 Aug 2021 06:31:12 GMT; Secure; SameSite=None
+set-cookie: igodigitalstdomain=7583; domain=.igodigital.com; path=/; expires=Wed, 11 Aug 2021 06:31:12 GMT; Secure; SameSite=None
+x-request-id: 916ebdfd-a55e-464b-b69e-3635be29bd34
+x-runtime: 0.006991
+vary: Accept-Encoding
+content-encoding: gzip
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC65aa80b0ba084b2c96fc825c1ccec785-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 476
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCffc5f8f812ee4f5f9292cf88c51613cc-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 651
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC270015e98019439f833fc3d6ef7f5877-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:49 GMT
+date: Wed, 11 Aug 2021 05:30:49 GMT
+content-length: 2746
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://www.googletagmanager.com/gtag/js?id=DC-6450450&l=googleDataLayer
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=UTF-8
+access-control-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-headers: Cache-Control
+content-encoding: br
+vary: Accept-Encoding
+date: Wed, 11 Aug 2021 05:30:50 GMT
+expires: Wed, 11 Aug 2021 05:30:50 GMT
+cache-control: private, max-age=900
+last-modified: Wed, 11 Aug 2021 03:00:00 GMT
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 37675
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

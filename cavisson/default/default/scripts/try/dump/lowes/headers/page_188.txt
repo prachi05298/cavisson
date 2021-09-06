@@ -1,0 +1,157 @@
+--Request 
+POST https://www.lowes.com/cart/recommendations
+Host: www.lowes.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Accept: application/json, text/plain, */*
+x-requested-with: XMLHttpRequest
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/json
+Origin: https://www.lowes.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: dbidv2=0c4d60e8-af11-4882-8069-11671292895b; al_sess=FuA4EWsuT07UWryyq/3foO5fKp+UCNFOOXqnqQDypxfeGCVe3QM/S4JU25cW9pe7; region=east; AKA_A2=A; bm_sz=C3B382F883B8A81A11497C9F542A09D1~YAAQbHIsMXftTJ16AQAABPWwMwyIw/S8Rj0KiTQue/1PYud9NtYgs8N4h8z1YALbBHCOWJtJoty1dYZq3bsn4L8F660kjUm4lG/FuofafLKo45cTHvseGETTqB9D6WskKO6XF5pdWUUYJ2fA5o1uTbLfNhKd6sHAXhqN4OYtkc5QcQqr1fw1brfO44J/fdHsbCYvrjKzQsQ0m6+CgUBBPQ8feJfyhN13TXPeYTQMXrbxjlxUlfjuNn+0gLQ/vWtkhlqKw4K1tHITboeQWEEtheiF6uLjebtQxRdxAaLt6MpfZA==~4405303~4342068; AMCVS_5E00123F5245B2780A490D45%40AdobeOrg=1; g_amcv_refreshed=1; at_check=true; ak_bmsc=CFD6BB6B1F11B52B3D9C07B63E32F299~000000000000000000000000000000~YAAQbHIsMeDtTJ16AQAAyv6wMwyC/QVxtX6PVcOAzw7MbeRMt9DdYDeLnz+FHJYET6tfShANdOrfub/wBbip/qQKiMtTBFKvBQ8OaR2GjELvygRsX083I5j/PHuYInl3nw8R64ZACTCOK0SeuAtTpSNt5k6fhNHltREjBfbK7STgXLeOb/bOt3qof5CyCaCKWgEj4weksh+YFvWJ8jcWzSflRb1YuplwDxhkmVfN8LAlt1Zomi+Ex9sOwfmFZTniRSUrlAMVtJ5FMihcoPfLpMpKKoAZxu/2bYxnMMXYoP2Oel7Qg62x/1Hm4icm4NyNci5eR7aS2ADW6xm541slFVu7+GNPBDpFv2RH39M0Y3SBXQP+wMl1UpC2AivVyLI1BbowGxCDJV+1HJLAFc+wSyyGWUdqmsBs+YXzEWkOCfC6TPS6eXBrFkQpfiZNsBR4Tskac39XXHnvxkaZziKjgCdZ0St3E4ZGmb8HjvlknY5x8Hu+kd5BEw==; mboxEdgeCluster=31; sn=1985; _lgsid=1628659844121; p13n=%7B%22zipCode%22%3A%2299701%22%2C%22storeId%22%3A%221985%22%2C%22state%22%3A%22AK%22%2C%22userType%22%3A%22diy%22%2C%22audienceList%22%3A%5B%5D%7D; AMCV_5E00123F5245B2780A490D45%40AdobeOrg=870038026%7CMCIDTS%7C19581%7CMCMID%7C71747673865418841840298191736677393887%7CMCAAMLH-1629264643%7C12%7CMCAAMB-1629264643%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1628667043s%7CNONE%7CvVersion%7C5.0.0%7CMCSYNCSOP%7C411-18858; fs_uid=rs.fullstory.com#Q8RZE#4938477446668288:6554343464542208/1660195844; namOgoo=B; discover-exp-2=abt8280b; REVLIFTER={\"w\":\"0l554347-da15-447f-9091-6e8941024cdc\",\"u\":\"2264cea9-561b-4391-a2cf-df49e5250cf2\",\"s\":\"9b790476-7d0d-4673-841d-7cd3601cfc6b\",\"se\":1631251848}; IR_gbd=lowes.com; _px_uAB=MTk4OHx0cnVl; _px_f394gi7Fvmc43dfg_user_id=NDk2MWQwMDAtZmE2NS0xMWViLWJmN2EtMzk1MTdmYTY1NjE4; pxcts=49bdf9c0-fa65-11eb-8dd5-15f5bf611991; _pxvid=49bd93fc-fa65-11eb-8ed2-0242ac120008; _fbp=fb.1.1628659850310.738130319; _gcl_au=1.1.1926396264.1628659852; _pin_unauth=dWlkPVkyUmlOV0kxTWpFdE5HUTVaQzAwWWpreUxUazNNMlF0T1dRNVlqVXhOVGRpTlRKag; mdLogger=false; kampyle_userid=0606-2a92-bc75-e10b-ea83-a325-b197-2c32; kampyleUserSession=1628659852376; kampyleUserSessionsCount=1; cd_user_id=17b33b124f05ce-0cffc1be426d6f-162c1a0c-dc230-17b33b124f172c; __gads=ID=9702daa85583d990:T=1628659861:S=ALNI_MZnxkDFYGKHdT6yXG1H_D2Y-wg_dQ; prodNumber=2; kampyleUserPercentile=69.46131310610906; mbox=session#31e45163a4dc4f69bb43b3ae2d42ea61#1628661702|PC#31e45163a4dc4f69bb43b3ae2d42ea61.31_0#1691904679; salsify_session_id=3a2dd283-a5e0-4975-8767-569a0913fcb2; ecrSessionId=A6F67222BF4F8DEDE427303F38685D33; g_previous=%7B%22gpvPageLoadTime%22%3A%220.00%22%2C%22gpvPageScroll%22%3A%228%7C20%7C11%7C5997%22%2C%22gpvSitesections%22%3A%22air_conditioner%22%2C%22gpvSiteId%22%3A%22desktop%22%2C%22gpvPageType%22%3A%22search-results%22%7D; IR_12374=1628659883492%7C0%7C1628659883492%7C%7C; _px_4559617368_cs=eyJpZCI6IjQ5NjEzM2MwLWZhNjUtMTFlYi1iZjdhLTM5NTE3ZmE2NTYxOCIsInN0b3JhZ2UiOnt9LCJleHBpcmF0aW9uIjoxNjI4NjYxNjg1MzA0fQ==; _uetsid=4aa62ac0fa6511ebb446155ff10e7248; _uetvid=4aa72ee0fa6511eb8260079478319ce8; kampyleSessionPageCounter=3; RT=\"z=1&dm=lowes.com&si=bde4fb69-2075-4aef-b0c6-45081221dd74&ss=ks720lrf&sl=3&tt=pg1&bcn=%2F%2F6852bd0e.akstat.io%2F&ld=xtg&nu=3vz6ln2a&cl=11gk\"; BVBRANDID=f89d7817-f2f6-459d-823a-ae4d247567fd; BVBRANDSID=e25d865c-eac8-4133-8c19-b9f815e6aab0; _px3=bee02a6f7441bdf595a5bd1ced1440eb9c9350c5f6dd06c5338cbb6a9aa5d92e:YAVnELbRsAo5++XBKqf05e5Gnat5s7bqtKbsduyLO7A41EB/JG+htYp0RlgOhpQ+ZCYMcZ1CTwk8gd4pNPqggQ==:1000:JwEFM5zGN+YBIX8KF5yMNwtqkgzCee2PzipXjZcYUzfjeGQ6KRLZcPiJpEaGTeiMaFQwOdiWuKnXmGJaigV0H1fwtFD+0WH6ei0h/+vG/TG9FGosxI0iAXsUKb7UU/z+UL5cSxEogvPQeSaR9vw5AdcAT6Qapd7bYflHrxUavXW4IH1CYoWCnBqWznTsScDPGHW325inBJ9OF39Fqeuexg==; akavpau_default=1628660187~id=37d451651fb26c2aed17953542e522a2; akaalb_prod_dual=1628746287~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=72e1dc284553d95bded2dbbe6d689252; L_AT=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Mjg2NTk4ODcsInN1YiI6IjBlODllYzEyLWYxZmEtNDVjMS1iMDI3LTQzZWQ2NzcwZTVhYSIsInNvdXJjZSI6Imxvd2VzIiwic3RhdHVzIjoiRyIsInRva2VuVHlwZSI6ImFjY2Vzc190b2tlbiIsInJvbGVzIjpbInJlYWQiLCJ3cml0ZSJdLCJleHAiOjE2Mjk5NTU4ODd9.lrYsmV1BV4iOUzkPgHd2_jEEafqe42gR9wEjjUIdzWy-rPEb_U-6rOz7D4VLChDiT-qXAqmGLyv3_pV-iUKWOGb1l-xkv6yL26RBunH4oZHAYa7GA6bfhBLhKvbf2fhgeDT0OA4gxaBD8ZlUrPNNFo6A5GkWyg3whTHlFerJAXz0meGLElfG5jXQBJPYFhDsROLzHxuTD5ayAO78_IMpf-MiDtnabPj9net3wUE0tIIdFnI6dnJawjqLCRf1e21Rdwqm3QPx0yQHqIo1lZEJOe6dj1gdCifhWOdFcTfX1tXqlAPVLY8ZCBFov8FX5OhFhFW54mOsfGKMomG6l2pS_A; L_RT=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Mjg2NTk4ODcsInN1YiI6IjBlODllYzEyLWYxZmEtNDVjMS1iMDI3LTQzZWQ2NzcwZTVhYSIsInNvdXJjZSI6Imxvd2VzIiwic3RhdHVzIjoiRyIsInRva2VuVHlwZSI6InJlZnJlc2hfdG9rZW4iLCJleHAiOjE2Mjk5NTU4ODd9.kdxDHRpnGaYKBeWCqI8xZBNIYhOPJRt_83SuI9Eb3dZMMj85gGUUMG1FIWwmzMN2WmbsoktXk4vo5guZHrPLzVuFwU2xk5ixirv3M0swt5rP8XbGIYRmzT8Q03fBNm9DEqN90-CBxdsFsQiEA_cnHdDW1aj9b3Hd-W1JZdRkFFGbzM6krFusjdRuLafjAGYCSl_QO3Euo2sXYdTfo8FJFqsues9nYVPEpgxEEgvv8XeFlb0kBOx-HdhZhAjNgVUqacbXPwVG0fB7iJZfNleAcBS0dKE4bo4ktyyw90GHx2QFMU5I1cmCEZl6YMJgQalGU_ldYzxF5DAPOFrRR7IIoA; akavpau_cart=1628660187~id=37d451651fb26c2aed17953542e522a2; bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZud1faJ6I7HbTa5UxswiYnlwxWtXY1F6FV1asET7aiIy0qHPvwgl21/aHkQQT/iziU=; _abck=60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMYz2TJ16AQAAQ6+xMwZXOsze/uIKWzRaVUsx/v0BEK6KEZS+e3mFEgSe4fCc2gAWXzKMnsioFiD77GOAdnd4+nKtHocj2xfYeynmqOmWmUF04HkRjfq79JVpQfF316KvXzKoBZDHrryEdnQULrKOTdJ04ZXdCouI+j9CeG21Qtcn51eRth+PxWRdt7UkA7vVJYXHZqv2KaAodMExjmZrP6jk+TxOrLhAddcpxb1+tX20Q0l/Irry+4zYkVXkk/j/Pgt3IAVXn+0Xvccz8hiBTDsaoX9iplvRfGhcaak8Zqnr20jwtgm0HUwAaFGBOQcQjAo1NgVeJ7pvK8Y/b6eJayFKovmsiaS5jpj0rqSa7l+AMWTkRPs/BbgeUuh4XduaMQaWxLgGxgGfKRIo5K7LGA==~0~-1~-1; SHOPPINGCART=1|0
+----
+ POSTDATA {"productId":["5000143961"],"recType":"recs","responseType":"json"}
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=utf-8
+content-encoding: gzip
+x-envoy-upstream-service-time: 166
+server: istio-envoy
+content-length: 1273
+expires: Wed, 11 Aug 2021 05:31:29 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 11 Aug 2021 05:31:29 GMT
+vary: Accept-Encoding
+set-cookie: dbid=null; Expires=Tue, 1 May 2000 08:48:44 GMT; Secure; HttpOnly; Path=/
+set-cookie: akavpau_cart=1628660189~id=8aefccb1f5e0feb23907a6a8cbb6ea91; Path=/; HttpOnly; Secure; SameSite=None
+set-cookie: akaalb_prod_dual=1628746289~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=e435b4fa4c161751b8c34c9ae4eabc3a; path=/; Expires=Thu, 12 Aug 2021 05:31:29 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZsh/Sb9j9kQAnkNF/JuyyLTxcveAyQDOt0b29PpC1++YCkwaq32XC6QImITF0LCFXE=; Domain=.lowes.com; Path=/; Max-Age=7152; HttpOnly
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=337
+server-timing: origin; dur=492
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+----
+--Request 
+GET https://www.facebook.com/tr/?id=625799750871183&ev=AddToCart&dl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&rl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&if=false&ts=1628659888173&cd[0]=%7B%22customer_type%22%3A%22%22%2C%22known_state%22%3A%22%22%2C%22identity_id%22%3A%22%22%2C%22content_ids%22%3A%222759118-83-APFD06JASW%22%2C%22product_ids%22%3A%225000143961%22%2C%22content_type%22%3A%22product%22%2C%22content_category%22%3A%22portable_air_conditioners%22%2C%22value%22%3A%22349.00%22%2C%22currency%22%3A%22USD%22%2C%22brand_name%22%3A%22GE%22%7D&sw=1360&sh=663&v=2.9.44&r=stable&ec=4&o=2078&fbp=fb.1.1628659850310.738130319&it=1628659883949&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:28 GMT
+expires: Wed, 11 Aug 2021 05:31:28 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://www.facebook.com/tr/?id=1128484153951961&ev=AddToCart&dl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&rl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&if=false&ts=1628659888174&cd[0]=%7B%22customer_type%22%3A%22%22%2C%22known_state%22%3A%22%22%2C%22identity_id%22%3A%22%22%2C%22content_ids%22%3A%222759118-83-APFD06JASW%22%2C%22product_ids%22%3A%225000143961%22%2C%22content_type%22%3A%22product%22%2C%22content_category%22%3A%22portable_air_conditioners%22%2C%22value%22%3A%22349.00%22%2C%22currency%22%3A%22USD%22%2C%22brand_name%22%3A%22GE%22%7D&sw=1360&sh=663&v=2.9.44&r=stable&ec=4&o=30&fbp=fb.1.1628659850310.738130319&it=1628659883949&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:28 GMT
+expires: Wed, 11 Aug 2021 05:31:28 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://nova.collect.igodigital.com/c2/1370143/track_cart?payload=%7B%22cart%22%3A%5B%7B%22item%22%3A%225000143961%22%2C%22quantity%22%3A1%2C%22price%22%3A%22349.00%22%2C%22unique_id%22%3A%225000143961%22%7D%5D%2C%22url%22%3A%22https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961%22%2C%22user_info%22%3A%7B%22email%22%3A%22%22%2C%22details%22%3A%7B%22Source%22%3A%22DESKTOP%22%2C%22cust_type%22%3A%22%22%2C%22known_state%22%3A%22%22%7D%7D%7D
+Host: nova.collect.igodigital.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: igodigitaltc2=49f1b9d6-fa65-11eb-9e7b-2aaabc362be4; igodigitalst_1060694=49f1c2b4-fa65-11eb-9e7b-2aaabc362be4; igodigitalstdomain=7583
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:28 GMT
+content-type: image/gif
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-disposition: inline
+content-transfer-encoding: binary
+cache-control: private
+etag: W/\"98b3d9d20e032f90aca49e9b116225d5\"
+set-cookie: igodigitaltc2=49f1b9d6-fa65-11eb-9e7b-2aaabc362be4; domain=.igodigital.com; path=/; expires=Mon, 11 Aug 2031 05:31:28 GMT; Secure; SameSite=None
+set-cookie: igodigitalst_1370143=60a0e828-fa65-11eb-9220-d216d4e65b49; domain=.igodigital.com; path=/; expires=Wed, 11 Aug 2021 06:31:28 GMT; Secure; SameSite=None
+set-cookie: igodigitalstdomain=20011; domain=.igodigital.com; path=/; expires=Wed, 11 Aug 2021 06:31:28 GMT; Secure; SameSite=None
+x-request-id: 5defc56a-895a-455a-8640-3d3e9a7d7e5f
+x-runtime: 0.008661
+vary: Accept-Encoding
+content-encoding: gzip
+----
+--Request 
+GET https://beacon.krxd.net/event.gif?0=%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D&event_id=LfeEca87
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 204
+date: Wed, 11 Aug 2021 05:31:28 GMT
+set-cookie: _kuid_=OS0grtrm; Expires=Mon, 07-Feb-22 05:31:28 GMT; Max-Age=15552000; Domain=.krxd.net; Path=/; Secure; SameSite=None
+set-cookie: e_LfeEca87^0|%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D=1628659888; Expires=Fri, 13-Aug-21 05:31:28 GMT; Max-Age=172800; Domain=.krxd.net; Path=/; Secure; SameSite=None
+cache-control: private, no-cache, no-store
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+x-served-by: beacon-n012-pdx-prod.krxd.net
+x-request-time: D=52 t=1628659888
+----
+

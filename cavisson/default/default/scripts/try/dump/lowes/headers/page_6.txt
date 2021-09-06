@@ -1,0 +1,35 @@
+--Request 
+POST https://www.lowes.com/SUnSgtrAu/6ZgIc24HL/zyD/eD4jE8/Q5iYJwtN/TiMYOnwD/BGw5V3/5GZyw
+Host: www.lowes.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: dbidv2=0c4d60e8-af11-4882-8069-11671292895b; akavpau_default=1628660139~id=cfd53143bdbc46752d07c1954685ff2b; al_sess=FuA4EWsuT07UWryyq/3foO5fKp+UCNFOOXqnqQDypxfeGCVe3QM/S4JU25cW9pe7; region=east; AKA_A2=A; ak_bmsc=CFD6BB6B1F11B52B3D9C07B63E32F299~000000000000000000000000000000~YAAQbHIsMXHtTJ16AQAAlPSwMww8NFElzcYr35r0gEbyenGjr5ZhLN4U2R0MICQSu8k0Ffx5I4iHThv7g/4ktVYpTNkOUbWrqX9DKhkn4/egugaiIxrUVMOWwIgP4ivICECBWirEbi61URvE29TGpunjzZh1ldLOoBCTu9DZaRbO92GGNygI/ZE/p3hI22MvK7j0o8nAVbixGJbMN8CbQo9bKtamYdA+WswG5Y9KCeXYMj1KYfhTBal0FKQb0XNDbmGnb8GvHG/7YuPWNTK2bK51qBYxBX9lFFu0M9JzrqY3fFjM/0m+bP7rgZbOvtNDjxO5So3K+P2yrCPi/MWR82PoRSDb1dpSam1XJMl/gVoKzJ4xKCwHtH1/ZYDAIzP0UxGdbGtkjl1+C0Cby4r9jTgH0CtnO26zkwBsu6W9EA0sHX3RsfH/3JT9dm3gabAWPaaE/dnz47NBuVZpFZK0Vw0BebElqJUIIHn6dQ==; bm_sz=C3B382F883B8A81A11497C9F542A09D1~YAAQbHIsMXftTJ16AQAABPWwMwyIw/S8Rj0KiTQue/1PYud9NtYgs8N4h8z1YALbBHCOWJtJoty1dYZq3bsn4L8F660kjUm4lG/FuofafLKo45cTHvseGETTqB9D6WskKO6XF5pdWUUYJ2fA5o1uTbLfNhKd6sHAXhqN4OYtkc5QcQqr1fw1brfO44J/fdHsbCYvrjKzQsQ0m6+CgUBBPQ8feJfyhN13TXPeYTQMXrbxjlxUlfjuNn+0gLQ/vWtkhlqKw4K1tHITboeQWEEtheiF6uLjebtQxRdxAaLt6MpfZA==~4405303~4342068; AMCV_5E00123F5245B2780A490D45%40AdobeOrg=-1303530583%7CMCIDTS%7C19581%7CMCMID%7C71747673865418841840298191736677393887%7CMCAAMLH-1629264641%7C12%7CMCAAMB-1629264641%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1628667041s%7CNONE%7CvVersion%7C3.3.0; AMCVS_5E00123F5245B2780A490D45%40AdobeOrg=1; g_amcv_refreshed=1; _abck=60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMa7tTJ16AQAA/PmwMwZpNsLIps9TiKQGVdsGVHPf6Vohdpwdz2m8vCUIQPO6vslDX5N/7HvtL03KUUEhCGjCc6qHD6tlfCRlRoK6rxbRnqYGgaR6xXOAzM+vr+zxm0L2S2wi5b1AdeyU9+a0q4vLXFCq0rYwF3Zyukwu+a/bKCJd9doQsciZ3deGrAf8cis04CLXC5kicQSS9xYIEZITKxYv4EuGRowmBhjCApyPQ9wFJ+MGsyYuuWaHl+6ugppFMvytJN5UMc+gRSlMY3ZkGRjT3sN2FV5kfly/kuauXd2m2aAgFHTxy8YPxU9qBVWLzmmrgNTuddVcIHTfjvfCP3HuVK88cBtp6L2KWZBRN3jJI+To8PAcxMHAaH4U1ACftiw=~-1~-1~-1; akaalb_prod_dual=1628746241~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0e9c9f9ff1ab620365806b2a0bd5afd; bm_sv=677C34FAE8D3C91FD2BA8CDBCFA81193~ikQT35wHGWWWeupE4VYAIhSF+Gh69TvaBkEjRXVFbNcF0kHrU1t9YIB0fSzxOLrO9WEkG9SPbtrRkOtiboNSy1xyRUvddojWBItsUNt6IgZXW9uNjuOImw6hU2f9RaqjUptkXstZTQ1Sc8ldtIgRncYPpK3fSOY6GCAg1RLgE3A=
+----
+ POSTDATA {"sensor_data":"7a74G7m23Vrp0o5c9276101.7-1,2,-94,-100,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36,uaend,12147,20030107,en-US,Gecko,0,0,0,0,400727,9840316,1288,636,1360,663,1288,501,1288,,cpen:0,i1:0,dm:0,cwen:0,non:1,opc:0,fc:0,sc:0,wrc:1,isc:0,vib:1,bat:1,x11:0,x12:1,7556,0.19002319395,814329920158,0,loc:-1,2,-94,-101,do_en,dm_en,t_en-1,2,-94,-105,0,0,0,0,1241,1038,0;-1,2,-94,-102,0,0,0,0,1241,1038,0;-1,2,-94,-108,-1,2,-94,-110,-1,2,-94,-117,-1,2,-94,-111,-1,2,-94,-109,-1,2,-94,-114,-1,2,-94,-103,-1,2,-94,-112,https://www.lowes.com/-1,2,-94,-115,1,32,32,0,0,0,0,1330,0,1628659840316,20,17422,0,0,2903,0,0,1336,0,0,60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMa7tTJ16AQAA/PmwMwZpNsLIps9TiKQGVdsGVHPf6Vohdpwdz2m8vCUIQPO6vslDX5N/7HvtL03KUUEhCGjCc6qHD6tlfCRlRoK6rxbRnqYGgaR6xXOAzM+vr+zxm0L2S2wi5b1AdeyU9+a0q4vLXFCq0rYwF3Zyukwu+a/bKCJd9doQsciZ3deGrAf8cis04CLXC5kicQSS9xYIEZITKxYv4EuGRowmBhjCApyPQ9wFJ+MGsyYuuWaHl+6ugppFMvytJN5UMc+gRSlMY3ZkGRjT3sN2FV5kfly/kuauXd2m2aAgFHTxy8YPxU9qBVWLzmmrgNTuddVcIHTfjvfCP3HuVK88cBtp6L2KWZBRN3jJI+To8PAcxMHAaH4U1ACftiw=~-1~-1~-1,36930,488,-1820806838,30261689,PiZtE,15831,92,0,-1-1,2,-94,-106,9,1-1,2,-94,-119,163,125,64,50,77,86,1064,54,54,47,50,3005,1682,292,-1,2,-94,-122,0,0,0,0,1,0,0-1,2,-94,-123,-1,2,-94,-124,-1,2,-94,-126,-1,2,-94,-127,00300044040300043020-1,2,-94,-70,-1127778619;-563023189;dis;;true;true;true;300;true;24;24;true;false;-1-1,2,-94,-80,5383-1,2,-94,-116,147604605-1,2,-94,-118,87279-1,2,-94,-129,98f7979f11c93279c5ea09beec21055d155a5331e783f9bfe9e4a1a482531594,1,0,Google Inc.,Google SwiftShader,3c84d65d49fb3b8d03ed2f26bf53630900f726ac7aa573f0a715315b02e21805,27-1,2,-94,-121,;135;13;0"}
+--Response 
+HTTP/1.1 201
+content-length: 18
+date: Wed, 11 Aug 2021 05:30:42 GMT
+content-type: application/json
+vary: Origin
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.lowes.com
+access-control-allow-headers: Content-Type
+server-timing: edge; dur=3
+server-timing: origin; dur=312
+server-timing: cdn-cache; desc=MISS
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: _abck=60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMcftTJ16AQAAxvywMwZHmMsgpj2ZJ9P4Dv+aFA4pq4h/g1DsktEHcMwpWfMQb1C+dDVxIlmzqkHIT4Q025NO1eR65CCKfpP4ZEhhNNwB6fDDZdN/5TeI8xdocC0qM+0Xa7kvso841d6IIPMxRId+/Lep+5ERxs8mccru/PW5lJF8KlUnT+cohBisikseW7OjEfZhkYVfpxQaKEfXEV1gcyOZZv2pLNDhJks53MddXRQqRrM51h3efDuzZ5Zpx7dVpRyfX3HpHVqxSvrSR+9oClXeoyxVXDrAJ4WadeQbCg07lwg5oyaxbrPa7p8xYADTiqL10nkWVnilH3GkMyJp9x3R+Wo5wUUuBAFZZlE4+AS3btiNaoUb4zIPRWfM1yHvOkk=~-1~-1~-1; Domain=.lowes.com; Path=/; Expires=Thu, 11 Aug 2022 05:30:42 GMT; Max-Age=31536000; Secure
+----
+

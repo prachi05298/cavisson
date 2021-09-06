@@ -1,0 +1,57 @@
+--Request 
+POST https://ct.pinterest.com/md/
+Host: ct.pinterest.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"urls":{"loc":"https://www.lowes.com/","canonical":"https://www.lowes.com"},"meta":{"og":"<meta data-react-helmet=\"true\" property=\"og:title\" content=\"Lowe's Home Improvement\"><meta data-react-helmet=\"true\" property=\"og:type\" content=\"Home Page\"><meta data-react-helmet=\"true\" property=\"og:url\" content=\"https://www.lowes.com\"><meta data-react-helmet=\"true\" property=\"og:site_name\" content=\"Lowe's\"><meta data-react-helmet=\"true\" property=\"og:image\" content=\"http://lda.lowes.com/is/image/Lowes/OG-HOMEPAGE?scl=1\"><meta data-react-helmet=\"true\" property=\"og:description\" content=\"Celebrate Lowe’s first SpringFest event – a festival of fun and savings for your home and garden. Get deals on mulch, soil, power equipment, and more.\">"},"sdo":{"jsonld":["<script data-react-helmet=\"true\" type=\"application/ld+json\">{\"@context\":\"http://schema.org/\",\"@type\":\"Organization\",\"name\":\"Lowe's\",\"alternateName\":\"Lowe's Home Center\",\"LegalName\":\"Lowe's Companies, Inc\",\"url\":\"https://www.lowes.com/\",\"logo\":\"https://www.lowescdn.com/images/ui/LowesLogo_DT.svg\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"telephone\":\"1-800-445-6937\",\"email\":\"\"},\"sameAs\":[\"https://www.facebook.com/lowes\",\"https://twitter.com/lowes\",\"https://www.pinterest.com/lowes/\",\"https://instagram.com/loweshomeimprovement\",\"https://www.youtube.com/user/Lowes\"]}</script>","<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://www.lowes.com/\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.lowes.com/search?searchTerm={searchTerm}\",\"query-input\":\"required name=searchTerm\"}}</script>"]},"aux":{"micro_s":1545},"tid":"2615619520270"}
+--Response 
+HTTP/1.1 204
+cache-control: no-cache,no-store,must-revalidate,max-age=0
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+access-control-allow-origin: *
+x-envoy-upstream-service-time: 0
+referrer-policy: origin
+x-pinterest-rid: 2912114993412000
+date: Wed, 11 Aug 2021 05:30:52 GMT
+x-cdn: fastly
+----
+--Request 
+GET https://lptag.liveperson.net/lptag/api/account/22554410/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&b=undefined
+Host: lptag.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:51 GMT
+content-type: application/x-javascript
+cache-control: public, max-age=630
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+x-cache-status: HIT
+content-encoding: gzip
+----
+

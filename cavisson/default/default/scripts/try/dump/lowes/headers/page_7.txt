@@ -1,0 +1,76 @@
+--Request 
+GET https://dpm.demdex.net/id?d_visid_ver=5.0.0&d_fieldgroup=AAM&d_rtbd=json&d_ver=2&d_orgid=5E00123F5245B2780A490D45%40AdobeOrg&d_nsid=0&d_mid=71747673865418841840298191736677393887&d_blob=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&ts=1628659841910
+Host: dpm.demdex.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: demdex=75585395299652916281105585907935456939
+----
+--Response 
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.lowes.com
+Cache-Control: no-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private
+content-encoding: gzip
+Content-Type: application/json;charset=utf-8
+DCS: dcs-prod-ind1-2-v012-0bbcd26ab.edge-ind1.demdex.com 6.3.1.20210623115127
+Expires: Thu, 01 Jan 1970 00:00:00 UTC
+P3P: policyref=\"/w3c/p3p.xml\", CP=\"NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS PUR COM NAV INT\"
+Pragma: no-cache
+set-cookie: demdex=75585395299652916281105585907935456939; Max-Age=15552000; Expires=Mon, 7 Feb 2022 05:30:41 GMT; Path=/; Domain=.demdex.net; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Origin
+X-TID: 4jP1UNSAS5s=
+Content-Length: 317
+Connection: keep-alive
+----
+--Request 
+GET https://edge.fullstory.com/s/fs.js
+Host: edge.fullstory.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+Origin: https://www.lowes.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-guploader-uploadid: ADPycdtCDVqf_ceHkpm2DwRGpHL15RqupWYsTO3KVPVGkRfGDeXEBupt2sHq9oSXKs7WulK7X1lwnyfmUHrqBQtVY9Iq3GNVSw
+date: Wed, 11 Aug 2021 05:19:03 GMT
+expires: Wed, 11 Aug 2021 06:19:03 GMT
+last-modified: Thu, 05 Aug 2021 19:32:56 GMT
+etag: \"22b58691e95646727daf16321cfe2ed1\"
+x-goog-generation: 1628191976428607
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: gzip
+x-goog-stored-content-length: 64115
+content-type: application/javascript
+content-encoding: gzip
+x-goog-hash: crc32c=z4hkXw==
+x-goog-hash: md5=IrWGkelWRnJ9rxYyHP4u0Q==
+x-goog-storage-class: MULTI_REGIONAL
+accept-ranges: bytes
+content-length: 64115
+access-control-allow-origin: *
+access-control-expose-headers: Content-Length, Content-Type, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace
+server: UploadServer
+age: 699
+cache-control: public, max-age=3600,no-transform
+alt-svc: clear
+----
+

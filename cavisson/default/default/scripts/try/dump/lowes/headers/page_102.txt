@@ -1,0 +1,151 @@
+--Request 
+GET https://vwonwkaqvq-a.global.ssl.fastly.net/LLODOWS854.json
+Host: vwonwkaqvq-a.global.ssl.fastly.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Length: 39010
+Last-Modified: Mon, 12 Jul 2021 07:04:12 GMT
+ETag: \"43a691e732ca527436e7a28d2e11ae42\"
+Content-Encoding: gzip
+Content-Type: application/x-javascript
+Access-Control-Allow-Origin: *
+cache-control: max-age=3600
+Accept-Ranges: bytes
+Date: Wed, 11 Aug 2021 05:30:50 GMT
+Via: 1.1 varnish
+Age: 2896
+X-Served-By: cache-bom4751-BOM
+X-Cache: HIT
+X-Cache-Hits: 4
+X-Timer: S1628659850.456747,VS0,VE0
+Vary: Accept-Encoding
+----
+--Request 
+GET https://colrep.sitelabweb.com/rp/?d=lhrxF6sa_Di2BUd7Avp11vOG68aAsjaGNjzTEFJj30GtcFhCVgcqRx_XYz6zUWJ~gw_G00mjqEO8JkVd18ryVec8bjcqRHO0AEZi7hFX5n1GaDPP~mUTREiTApMK5yX5NiODtRJ~TyXGdg0jF4aShlAB55s3NSZqSMgKRLF1DVNgjm_XVppTSFLfN5ABJ6iTMhOK9mlMI56TPNORr1KDgvoTOPM8J1Pt1av3l_b7MhXmJC7SxLJgbwG-gomShHQeEyDex1vnRqJKiwsXg~HzPRKfnyI~Fn1G93V~FiJTlEcTF0NKm3Z1M~3T9LKSBIR~1DjTXXJP2wTgl3sSQiM52llMtr4SLNMSgoZX9kzShGRfVwC8A6gDMjM3V2_lUu6FE6Z~ZyXCUprjhHNuqzE7Z0rXJ-e8rlp5NlM2x_MQs1_GlbpTOHZfNwP8kGfDhUYq2mm_Fd6WHOYgn5UjUxmTlGYv~0ACN1sDzVNau2aXld8GLNY~klVzRbyzOEMiFjFdUJsTEjNauwaGZsOjtNJ~-yVGY0-HeKcD6lDREzfkUWMbz3rNcqMG0UZkfuUo9kjTX_c~FhUBN0cTJ0cvvhq4NkFGMNbfnzN0Fg1ihGNP2wPT96sGhmaN_umqIiOGMCcxLvFXlqsWJ4ZS70QwQNsmBccvumlMEt9TDMZgj1IDYqyTe2YvBmE8lwrjMjYanhmmJg7DAAYgrxFXNZmzEHMSE0EtEGf2AmZ7m0m1Y1Im9RMGbzUGUpzDdGZS~2Ds4BfV4gJdnur4lg6zuOZkgzXG9ljTWHMv-lEdU9gjJSN7rja_Y~8WA7NRgiIoFcmmdKMiFhE8EzfjIhNai4a1Yt7z1NJgxDQ~Mcmj_HMSE0EtEGf2AmZ7m0m1Y1Im9RMGbzUGUpzDdGZS~2Ds4BfV4gJKiz_mY16TbLNRr2ICZj1zFKcjFlACJBiXNidNump5J~9T1Bc~owYpJtpSmGaPmx&c=522
+Host: colrep.sitelabweb.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: image/gif
+Date: Wed, 11 Aug 2021 05:31:10 GMT
+ETag: \"60ed64cb-2a\"
+Last-Modified: Tue, 13 Jul 2021 10:02:51 GMT
+Server: nginx
+Content-Length: 42
+Connection: keep-alive
+----
+--Request 
+GET https://s.pinimg.com/ct/lib/main.89cd5bf4.js
+Host: s.pinimg.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+etag: \"6deee3ea7ecc4a5d9687c1bd57018c16\"
+content-encoding: gzip
+accept-ranges: bytes
+content-type: application/javascript
+content-length: 17418
+cache-control: max-age=1209600
+vary: Accept-Encoding, Origin
+x-fallback: 8f63cb74-49.44.114.178
+x-cdn: akamai
+access-control-max-age: 86400
+access-control-expose-headers: X-CDN
+access-control-allow-methods: GET
+access-control-allow-origin: *
+----
+--Request 
+GET https://static.ads-twitter.com/uwt.js
+Host: static.ads-twitter.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:10 GMT
+via: 1.1 varnish
+cache-control: no-cache
+age: 19420
+x-served-by: cache-bom4721-BOM
+x-cache: HIT
+x-timer: S1628659870.275242,VS0,VE0
+vary: Accept-Encoding,Host
+p3p: CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\"
+last-modified: Mon, 12 Jul 2021 23:59:25 GMT
+content-type: application/javascript; charset=utf-8
+etag: \"65cf0c0ceb852397f0d1e6732cd3c533+gzip\"
+content-encoding: gzip
+accept-ranges: bytes
+content-length: 1958
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCacde2c6c5c9848b490f9b665b2b5750f-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 523
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

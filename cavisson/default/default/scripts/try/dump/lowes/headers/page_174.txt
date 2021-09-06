@@ -1,0 +1,17 @@
+
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=utf-8
+content-length: 30
+x-envoy-upstream-service-time: 29
+server: istio-envoy
+date: Wed, 11 Aug 2021 05:31:24 GMT
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=364
+server-timing: origin; dur=331
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746284~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=a975656e40e666509d81bd0a603d22f7; path=/; Expires=Thu, 12 Aug 2021 05:31:24 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZt+EJwSyj3SoH8itIu/k7oRt5QQZlPSyfjnwA1Bdb1BuQ==; Domain=.lowes.com; Path=/; Max-Age=7157; HttpOnly
+----
+

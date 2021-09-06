@@ -1,0 +1,96 @@
+--Request 
+POST https://rs.fullstory.com/rec/page
+Host: rs.fullstory.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"OrgId":"Q8RZE","UserId":"4938477446668288","Url":"https://www.lowes.com/search?searchTerm=(blocked)","Base":"https://www.lowes.com/search?searchTerm=(blocked)","Width":1273,"Height":501,"ScreenWidth":1360,"ScreenHeight":663,"Referrer":"https://www.lowes.com/","Preroll":10058,"Doctype":"<!DOCTYPE html>","CompiledVersion":"11e53d809a","CompiledTimestamp":1628185160}
+--Response 
+HTTP/1.1 200
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.lowes.com
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+date: Wed, 11 Aug 2021 05:31:03 GMT
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://cdn.krxd.net/ctjs/controltag.js.a1705c5ac5f06cf0c202ff70908fc042
+Host: cdn.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+last-modified: Mon, 02 Aug 2021 12:06:17 GMT
+etag: \"a1705c5ac5f06cf0c202ff70908fc042\"
+x-amz-server-side-encryption: AES256
+cache-control: public, max-age=315360000
+content-encoding: gzip
+expires: Thu, 31 Jul 2031 12:06:16 GMT
+content-type: application/javascript
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_Controltag_S3
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:44 GMT
+via: 1.1 varnish
+age: 753133
+x-served-by: cache-bom4747-BOM
+x-cache: HIT
+x-cache-hits: 322704
+x-timer: S1628659844.278152,VS0,VE0
+content-length: 84509
+----
+--Request 
+GET https://vwonwkaqvq-a.global.ssl.fastly.net/LODOWS854.js
+Host: vwonwkaqvq-a.global.ssl.fastly.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Length: 47619
+Last-Modified: Mon, 12 Jul 2021 07:04:13 GMT
+ETag: \"a05be756851e86bd6c86c0feb6495fa9\"
+Content-Encoding: gzip
+Content-Type: application/x-javascript
+Access-Control-Allow-Origin: *
+cache-control: max-age=3600
+Accept-Ranges: bytes
+Date: Wed, 11 Aug 2021 05:30:46 GMT
+Via: 1.1 varnish
+Age: 1978
+X-Served-By: cache-bom4751-BOM
+X-Cache: HIT
+X-Cache-Hits: 5
+X-Timer: S1628659846.437194,VS0,VE0
+Vary: Accept-Encoding
+----
+

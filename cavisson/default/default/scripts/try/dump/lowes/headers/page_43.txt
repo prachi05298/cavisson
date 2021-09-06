@@ -1,0 +1,388 @@
+--Request 
+POST https://www.lowes.com/gauge/pageview/homepage
+Host: www.lowes.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: dbidv2=0c4d60e8-af11-4882-8069-11671292895b; al_sess=FuA4EWsuT07UWryyq/3foO5fKp+UCNFOOXqnqQDypxfeGCVe3QM/S4JU25cW9pe7; region=east; AKA_A2=A; bm_sz=C3B382F883B8A81A11497C9F542A09D1~YAAQbHIsMXftTJ16AQAABPWwMwyIw/S8Rj0KiTQue/1PYud9NtYgs8N4h8z1YALbBHCOWJtJoty1dYZq3bsn4L8F660kjUm4lG/FuofafLKo45cTHvseGETTqB9D6WskKO6XF5pdWUUYJ2fA5o1uTbLfNhKd6sHAXhqN4OYtkc5QcQqr1fw1brfO44J/fdHsbCYvrjKzQsQ0m6+CgUBBPQ8feJfyhN13TXPeYTQMXrbxjlxUlfjuNn+0gLQ/vWtkhlqKw4K1tHITboeQWEEtheiF6uLjebtQxRdxAaLt6MpfZA==~4405303~4342068; AMCVS_5E00123F5245B2780A490D45%40AdobeOrg=1; g_amcv_refreshed=1; at_check=true; _abck=60EED5F365C9E9A4B1813AF1DB1118C9~-1~YAAQbHIsMcftTJ16AQAAxvywMwZHmMsgpj2ZJ9P4Dv+aFA4pq4h/g1DsktEHcMwpWfMQb1C+dDVxIlmzqkHIT4Q025NO1eR65CCKfpP4ZEhhNNwB6fDDZdN/5TeI8xdocC0qM+0Xa7kvso841d6IIPMxRId+/Lep+5ERxs8mccru/PW5lJF8KlUnT+cohBisikseW7OjEfZhkYVfpxQaKEfXEV1gcyOZZv2pLNDhJks53MddXRQqRrM51h3efDuzZ5Zpx7dVpRyfX3HpHVqxSvrSR+9oClXeoyxVXDrAJ4WadeQbCg07lwg5oyaxbrPa7p8xYADTiqL10nkWVnilH3GkMyJp9x3R+Wo5wUUuBAFZZlE4+AS3btiNaoUb4zIPRWfM1yHvOkk=~-1~-1~-1; ak_bmsc=CFD6BB6B1F11B52B3D9C07B63E32F299~000000000000000000000000000000~YAAQbHIsMeDtTJ16AQAAyv6wMwyC/QVxtX6PVcOAzw7MbeRMt9DdYDeLnz+FHJYET6tfShANdOrfub/wBbip/qQKiMtTBFKvBQ8OaR2GjELvygRsX083I5j/PHuYInl3nw8R64ZACTCOK0SeuAtTpSNt5k6fhNHltREjBfbK7STgXLeOb/bOt3qof5CyCaCKWgEj4weksh+YFvWJ8jcWzSflRb1YuplwDxhkmVfN8LAlt1Zomi+Ex9sOwfmFZTniRSUrlAMVtJ5FMihcoPfLpMpKKoAZxu/2bYxnMMXYoP2Oel7Qg62x/1Hm4icm4NyNci5eR7aS2ADW6xm541slFVu7+GNPBDpFv2RH39M0Y3SBXQP+wMl1UpC2AivVyLI1BbowGxCDJV+1HJLAFc+wSyyGWUdqmsBs+YXzEWkOCfC6TPS6eXBrFkQpfiZNsBR4Tskac39XXHnvxkaZziKjgCdZ0St3E4ZGmb8HjvlknY5x8Hu+kd5BEw==; mbox=session#31e45163a4dc4f69bb43b3ae2d42ea61#1628661702|PC#31e45163a4dc4f69bb43b3ae2d42ea61.31_0#1691904644; mboxEdgeCluster=31; akavpau_default=1628660143~id=3e0c66f6ae8cea5d315b918b92dc4117; sn=1985; _lgsid=1628659844121; p13n=%7B%22zipCode%22%3A%2299701%22%2C%22storeId%22%3A%221985%22%2C%22state%22%3A%22AK%22%2C%22userType%22%3A%22diy%22%2C%22audienceList%22%3A%5B%5D%7D; AMCV_5E00123F5245B2780A490D45%40AdobeOrg=870038026%7CMCIDTS%7C19581%7CMCMID%7C71747673865418841840298191736677393887%7CMCAAMLH-1629264643%7C12%7CMCAAMB-1629264643%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1628667043s%7CNONE%7CvVersion%7C5.0.0%7CMCSYNCSOP%7C411-18858; fs_uid=rs.fullstory.com#Q8RZE#4938477446668288:6554343464542208/1660195844; namOgoo=B; discover-exp-2=abt8280b; akaalb_prod_dual=1628746246~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=3efa0ce303a445cee9017009c69e8877; RT=\"z=1&dm=lowes.com&si=bde4fb69-2075-4aef-b0c6-45081221dd74&ss=ks720lrf&sl=0&tt=0&bcn=%2F%2F6852bd0e.akstat.io%2F\"; bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZsMiP9/BK2URdIMuaV9VOPOolhXybh4IW358HWnAzPlspEbdsdIiBF/605v9bVLY/Q=; prodNumber=2
+----
+ POSTDATA {"adobe":{"visitNum":"1","lastVisit":"First Visit","prodNum":"2","visitorAPI":"VisitorAPI Present"},"gauge":{"pageCount":"1","resolution":"1360x663","colorDepth":"24","javaEnabled":"N","cookiesEnabled":"Y","viewportWidth":"1288","viewportHeight":"501","charset":"UTF-8","referrer":"","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36","language":"en-US","timestamp":"2021-08-11T05:30:47.019Z","timezoneOffset":"300","host":"www.lowes.com","boomerID":"bde4fb69-2075-4aef-b0c6-45081221dd74","lowesDigitalId":"","respond":false,"scrollDepth":null,"p_visit":"1","clientVersion":"1.4.0","previousPageType":"","previousSitesections":"","previousSiteID":"","previousPageLoad":null,"botScore":null,"isPro":false,"proUser":{},"_lgsid":"1628659844121","dbid":"0c4d60e8-af11-4882-8069-11671292895b","bttsessionID":"317235676581651369"},"dataLayers":{"current":{"page":{"pageInfo":{"pageID":"4bac4c6c-1bf7-46f4-9f22-c2227d466909","pageName":"Lowe's Home Improvement | Hardware Store","siteID":"desktop","contentPageURL":"home","contentPath":"/content/lowes/en_us/homepage","destinationURL":"https://www.lowes.com/","referrerURL":"","abtesting":["globalweb-header-stable","globalweb-footer-stable"]},"category":{"pageType":"hp","siteSections":["hp","hp","hp","hp"],"platform":1,"content":"tesla","framework":1,"helix":true}},"user":{"dbid":"0c4d60e8-af11-4882-8069-11671292895b","profile":{"profileInfo":{"identityID":""}},"status":"guest","segment":"consumer"},"mboxes":{"names":["lwscom_hp","lwscom_global"],"tnta":[]},"recommendations":{"offers":{}},"experiments":[{"expError":null,"qualifiedExperiment":"PV-BYM-295","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-215","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-311","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-309","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-334","qualifiedVariant":"C"},{"expError":null,"qualifiedExperiment":"PV-BYM-307","qualifiedVariant":"V1"},{"expError":null,"qualifiedExperiment":"PV-BYM-347","qualifiedVariant":"C"}]}},"track":{},"path":"/pageview/homepage","method":"post"}
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=utf-8
+content-length: 30
+x-envoy-upstream-service-time: 2
+server: istio-envoy
+date: Wed, 11 Aug 2021 05:30:47 GMT
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=280
+server-timing: origin; dur=42
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746247~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=831b1e879195a016ae268e3b1aefd3b7; path=/; Expires=Thu, 12 Aug 2021 05:30:47 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZvblZA2FLbD3ydoms5ul8jcybXcaNu7dyWbNhqOt8o8rA==; Domain=.lowes.com; Path=/; Max-Age=7194; HttpOnly
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC72d2ec0cab6f4408838d32aa7124111c-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 422
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:47 GMT
+date: Wed, 11 Aug 2021 05:30:47 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://usermatch.krxd.net/um/v2?partner=google
+Host: usermatch.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 0
+location: https://cm.g.doubleclick.net/pixel?google_cm&google_nid=krux_digital&google_hm=T1MwZ3J0cm0
+x-cache: MISS
+x-cache-hits: 0
+x-served-by: usermatch-a013-ash-prod.krxd.net
+x-age: 0
+----
+--Request 
+GET https://cm.g.doubleclick.net/pixel?google_nid=krux_digital&google_cm&google_hm=T1MwZ3J0cm0
+Host: cm.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+location: https://cm.g.doubleclick.net/pixel?google_nid=krux_digital&google_cm=&google_hm=T1MwZ3J0cm0&google_tc=
+date: Wed, 11 Aug 2021 05:30:47 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+cross-origin-resource-policy: cross-origin
+content-type: text/html; charset=UTF-8
+server: HTTP server (unknown)
+content-length: 311
+x-xss-protection: 0
+set-cookie: test_cookie=CheckForPermission; expires=Wed, 11-Aug-2021 05:45:47 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://match.adsrvr.org/track/cmf/generic?ttd_pid=krux&ttd_tpi=1
+Host: match.adsrvr.org
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:47 GMT
+content-type: text/html
+content-length: 161
+location: https://match.adsrvr.org/track/cmb/generic?ttd_pid=krux&ttd_tpi=1
+cache-control: private,no-cache, must-revalidate
+pragma: no-cache
+x-aspnet-version: 4.0.30319
+set-cookie: TDID=f13a2308-d19b-4261-8f70-1932ca95e8ae; domain=.adsrvr.org; expires=Thu, 11-Aug-2022 05:30:47 GMT; path=/; secure; SameSite=None
+set-cookie: TDCPM=CAEYBSgCMgsIuqiD-vyk7jkQBTgB; domain=.adsrvr.org; expires=Thu, 11-Aug-2022 05:30:47 GMT; path=/; secure; SameSite=None
+p3p: CP=\"NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV\"
+----
+--Request 
+GET https://idsync.rlcdn.com/379708.gif?partner_uid=OS0grtrm
+Host: idsync.rlcdn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: no-cache, no-store
+content-type: image/gif
+p3p: CP=\"NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA\"
+set-cookie: rlas3=CCjUsc0+84YhRbcJrVsKCJ/X/4IcmnnQbHc1I43w4kk=; Path=/; Domain=rlcdn.com; Expires=Thu, 11 Aug 2022 05:30:47 GMT; Secure; SameSite=None
+set-cookie: pxrc=CAA=; Path=/; Domain=rlcdn.com; Expires=Sun, 10 Oct 2021 05:30:47 GMT; Secure; SameSite=None
+timing-allow-origin: *
+date: Wed, 11 Aug 2021 05:30:47 GMT
+content-length: 42
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://stags.bluekai.com/site/26357?id=OS0grtrm&redir=https://beacon.krxd.net/usermatch.gif?_kuid%3DOS0grtrm%26partner%3Dbluekai%26bk_uuid%3D%24_BK_UUID
+Host: stags.bluekai.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+P3P: CP=\"NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV\", policyref=\"http://tags.bluekai.com/w3c/p3p.xml\"
+Location: https://beacon.krxd.net/usermatch.gif?_kuid=OS0grtrm&partner=bluekai&bk_uuid=Klf4m99999O0OCBC
+BK-Server: 1a52
+Date: Wed, 11 Aug 2021 05:30:47 GMT
+Connection: keep-alive
+Set-Cookie: bkdc=phx; expires=Mon, 07-Feb-2022 05:30:47 GMT; path=/; domain=.bluekai.com; SameSite=None; Secure
+Set-Cookie: bkpa=KJyN0fWvyM9xQms7iVBmD36Qk/J6AxT5ocB/Zg12RZm8U1ec+0YrcdXwZxEONBU86kJGCL5hjrcNyOi/Z6PA0Nz9Mt8bJhl8WlHYQjvHP04EGZ5b+MRVY3g3dg102KjRWFvmdkDym+gBHN+IGE/7KIF+mBbfn00YvXA=; expires=Mon, 07-Feb-2022 05:30:47 GMT; path=/; domain=.bluekai.com; SameSite=None; Secure
+Set-Cookie: bku=2VR99/5QWtsmsBXT; expires=Mon, 07-Feb-2022 05:30:47 GMT; path=/; domain=.bluekai.com; SameSite=None; Secure
+----
+--Request 
+GET https://beacon.krxd.net/optout_check?callback=Krux.ns.lowes.kxjsonp_optOutCheck
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-type: text/javascript
+cache-control: private, max-age=0, s-max-age=0
+x-served-by: beacon-n002-pdx-prod.krxd.net
+x-request-time: D=40 t=1628659848
+----
+--Request 
+GET https://cdn.krxd.net/userdata/get?pub=e30196c7-5053-416c-94a4-c1acfb09b619&technographics=1&callback=Krux.ns.lowes.kxjsonp_userdata
+Host: cdn.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript
+cache-control: private, max-age=1800
+content-encoding: gzip
+x-age: 0
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_userdata_ash_prod_krxd_net___UserData_Service_V2
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:47 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: userdata-a021-ash-prod.krxd.net, cache-bom4747-BOM
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1628659847.202956,VS0,VE201
+vary: Accept-Encoding
+content-length: 260
+----
+--Request 
+GET https://dpm.demdex.net/ibs:dpid=66757&&dpuuid=OS0grtrm&redir=https%3A%2F%2Fbeacon.krxd.net%2Fusermatch.gif%3Fpartner%3Dadobe%26partner_uid%3D$%7BDD_UUID%7D
+Host: dpm.demdex.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: demdex=75585395299652916281105585907935456939; dpm=75585395299652916281105585907935456939
+----
+--Response 
+HTTP/1.1 302 Found
+Cache-Control: no-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private
+DCS: dcs-prod-ind1-2-v012-0974e1dd9.edge-ind1.demdex.com 6.3.1.20210623115127
+Expires: Thu, 01 Jan 1970 00:00:00 UTC
+Location: https://beacon.krxd.net/usermatch.gif?partner=adobe&partner_uid=75585395299652916281105585907935456939
+P3P: policyref=\"/w3c/p3p.xml\", CP=\"NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS PUR COM NAV INT\"
+Pragma: no-cache
+set-cookie: dpm=75585395299652916281105585907935456939; Max-Age=15552000; Expires=Mon, 7 Feb 2022 05:30:47 GMT; Path=/; Domain=.dpm.demdex.net; Secure; SameSite=None
+set-cookie: demdex=75585395299652916281105585907935456939; Max-Age=15552000; Expires=Mon, 7 Feb 2022 05:30:47 GMT; Path=/; Domain=.demdex.net; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-TID: dqs1Hbl0Sdw=
+Content-Length: 0
+Connection: keep-alive
+----
+--Request 
+GET https://servedby.flashtalking.com/map/?key=ad919e4f211cr5452615&url=https://beacon.krxd.net/usermatch.gif?partner=flashtalking&partner_uid=[%FT_GUID%]
+Host: servedby.flashtalking.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302 Found
+Date: Wed, 11 Aug 2021 05:30:48 GMT
+Connection: Keep-Alive
+Cache-Control: no-cache, no-store
+Content-Length: 0
+Server: prod-xre-app57.frk11
+Set-Cookie: flashtalkingad1=\"GUID=4971A57BD143B2\";Path=/;Domain=flashtalking.com;Expires=Fri, 11-Aug-23 05:30:48 GMT;SameSite=None;Secure
+Pragma: no-cache
+Location: https://beacon.krxd.net/usermatch.gif?partner=flashtalking&partner_uid=4971A57BD143B2
+X-HW: 1628659847.dop125.am5.t,1628659848.cds010.am5.shn,1628659848.dop125.am5.t,1628659848.cds115.am5.sc,1628659848.cds115.am5.p
+----
+--Request 
+GET https://aa.agkn.com/adscores/g.js?sid=9212244187&_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e
+Host: aa.agkn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:47 GMT
+content-length: 0
+location: https://beacon.krxd.net/data.gif?_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e&_kua_seg=000&_kua_zip=&_kua_age=&_kua_gender=&_k_adadvisor_key=
+server: AAWebServer
+p3p: policyref=\"https://www.agkn.com/p3p/p3p.xml\",CP=\"NOI NID\"
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: 0
+set-cookie: ab=0001%3AG9NoTybGGXF7q9E7Spnh2U0u7Hu%2FRp5V; Domain=.agkn.com; Secure; SameSite=None; Expires=Wed,  11 Aug 2022 05:30:47 GMT; Path=/
+----
+--Request 
+GET https://aa.agkn.com/adscores/g.pixel?sid=9212303288&_kdpid=OS0grtrm
+Host: aa.agkn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+date: Wed, 11 Aug 2021 05:30:47 GMT
+content-length: 0
+location: https://beacon.krxd.net/usermatch.gif?partner=neustar&partner_uid=1kAM48Nq47yowvgBx3scMh8J%2BxD4k3lLPqmISYjX2i0%3D
+server: AAWebServer
+p3p: policyref=\"https://www.agkn.com/p3p/p3p.xml\",CP=\"NOI NID\"
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: 0
+set-cookie: ab=0001%3A%2FyLug1DlaXl7q9E7Spnh2ZMokjof0aSy; Domain=.agkn.com; Secure; SameSite=None; Expires=Wed,  11 Aug 2022 05:30:47 GMT; Path=/
+----
+--Request 
+GET https://p.rfihub.com/cm?in=1&pub=6919
+Host: p.rfihub.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302 Found
+Date: Wed, 11 Aug 2021 05:30:48 GMT
+P3P: CP=\"NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT\"
+Set-Cookie: eud=H4sIAAAAAAAAANvFxGtoZmRhZmppYWJhYmkAAKmwna8QAAAA; Path=/; Domain=.rfihub.com; Expires=Mon, 5 Sep 2022 05:30:48 GMT; Secure; SameSite=None
+Set-Cookie: rud=H4sIAAAAAAAAAOMSNrS0NDS3MDc2NDAxtDCxNAEiIT5D3TD3svIKjxyT0PSASCleQzMjCzNTSwsToAoDAEjWA8s0AAAA; Path=/; Domain=.rfihub.com; Expires=Mon, 5 Sep 2022 05:30:48 GMT; Secure; SameSite=None
+Set-Cookie: ruds=H4sIAAAAAAAAAOMSNrS0NDS3MDc2NDAxtDCxNAEiIT5D3TD3svIKjxyT0PSASAAi08PpJQAAAA; Path=/; Domain=.rfihub.com; Secure; SameSite=None
+Location: https://beacon.krxd.net/usermatch.gif?partner_id=rfuel&partner_user_id=1991787310418494494
+Content-Length: 0
+Server: Jetty(9.3.29.v20201019)
+----
+

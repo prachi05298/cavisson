@@ -1,0 +1,107 @@
+--Request 
+GET https://6450450.fls.doubleclick.net/activityi;src=6450450;type=lowes002;cat=unive0;ord=1;num=1206992367520;gtm=2od891;auiddc=1926396264.1628659852;~oref=https%3A%2F%2Fwww.lowes.com%2F?
+Host: 6450450.fls.doubleclick.net
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 302
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:30:52 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+follow-only-when-prerender-shown: 1
+strict-transport-security: max-age=21600
+location: https://6450450.fls.doubleclick.net/activityi;dc_pre=COvo1N-eqPICFUYkaAodVYAFaA;src=6450450;type=lowes002;cat=unive0;ord=1;num=1206992367520;gtm=2od891;auiddc=1926396264.1628659852;~oref=https%3A%2F%2Fwww.lowes.com%2F?
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+server: cafe
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://bat.bing.com/p/action/5668750.js
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 204
+cache-control: private,max-age=86400
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 52653618CC73478398706E982D39F7CC Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:30:51Z
+date: Wed, 11 Aug 2021 05:30:50 GMT
+----
+--Request 
+GET https://bat.bing.com/action/0?ti=5668750&Ver=2&mid=2c3d014f-be5f-46ec-933d-b0321749b662&sid=4aa62ac0fa6511ebb446155ff10e7248&vid=4aa72ee0fa6511eb8260079478319ce8&vids=1&pi=0&lg=en-US&sw=1360&sh=663&sc=24&tl=Lowe%27s%20Home%20Improvement&p=https%3A%2F%2Fwww.lowes.com%2F&r=&lt=9087&evt=pageLoad&msclkid=N&sv=1&rn=668729
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 204
+cache-control: no-cache, must-revalidate
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 4329C82807554B54B55A2087230BD489 Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:30:51Z
+date: Wed, 11 Aug 2021 05:30:51 GMT
+----
+--Request 
+GET https://bat.bing.com/action/0?ti=5668750&Ver=2&mid=2c3d014f-be5f-46ec-933d-b0321749b662&sid=4aa62ac0fa6511ebb446155ff10e7248&vid=4aa72ee0fa6511eb8260079478319ce8&vids=0&pagetype=home&ea=event_name&en=Y&evt=custom&msclkid=N&rn=551905
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 204
+cache-control: no-cache, must-revalidate
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 97BDD5548EB54CCEBB21F64AB15D6D03 Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:30:51Z
+date: Wed, 11 Aug 2021 05:30:51 GMT
+----
+

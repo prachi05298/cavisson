@@ -1,0 +1,543 @@
+--Request 
+POST https://d.btttag.com/analytics.rcv?pgNm=product-display&trSeg=eCommerce-www.lowes.com&navStart=1628659872750
+Host: d.btttag.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: collection=1; enabled=1; sessionID=317235676581651369; lowes15841z-txnName=eCommerce-www.lowes.com; lowes15841z-BrowserVersion=Chrome-90
+----
+ POSTDATA eyJ0aGlzVVJMIjoiaHR0cHM6Ly93d3cubG93ZXMuY29tL3BkL0dFLTYwMDAtQlRVLVBvcnRhYmxlLUFpci1Db25kaXRpb25lci81MDAwMTQzOTYxIiwicGFnZU5hbWUiOiJwcm9kdWN0LWRpc3BsYXkiLCJuc3QiOiIxNjI4NjU5ODcyNzUwIiwidW5sb2FkRXZlbnRTdGFydCI6IjE2Mjg2NTk4NzM2MDYiLCJyZWRpcmVjdFN0YXJ0IjoiMCIsImNfY291bnQiOiIwIiwiY29fY291bnQiOiIwIiwidG90UkQiOiIwIiwiZmV0Y2hTdGFydCI6IjE2Mjg2NTk4NzI3NTIiLCJkb21haW5Mb29rdXBTdGFydCI6IjE2Mjg2NTk4NzI3NTIiLCJjb25uZWN0U3RhcnQiOiIxNjI4NjU5ODcyNzUyIiwic2VjdXJlQ29ubmVjdGlvblN0YXJ0IjoiMCIsInJlcXVlc3RTdGFydCI6IjE2Mjg2NTk4NzI3NTgiLCJyZXNwb25zZVN0YXJ0IjoiMTYyODY1OTg3MzU5MiIsIlJFRSI6IjE2Mjg2NTk4NzM2MjMiLCJCUFQiOiIzMSIsImRvbUxvYWRpbmciOiIxNjI4NjU5ODczNjQzIiwiZG9tSW50ZXJhY3RpdmUiOiIxNjI4NjU5ODc1NDU2IiwiZG9tQ29udGVudExvYWRlZFN0YXJ0IjoiMTYyODY1OTg3Nzg3MCIsImRvbUNvbnRlbnRMb2FkZWRFbmQiOiIxNjI4NjU5ODc3ODc0IiwibG9hZEV2ZW50U3RhcnQiOiIxNjI4NjU5ODgxNzIzIiwibmF2aWdhdGlvblR5cGUiOiIxIiwicmVkaXJlY3RDb3VudCI6IjAiLCJwYWdlVHlwZSI6IkdDUCBQcm9kdWN0IERldGFpbHMgIEhlbGl4IiwicGFnZVZhbHVlIjoiMCIsInBnVG0iOiI4OTczIiwiZG5zIjoiMCIsInRjcCI6IjAiLCJkb20iOiI4MDgwIiwiZkJ5dGUiOiI4MzQiLCJzc2wiOiIwIiwiZmlyc3RQYWludCI6IjEwODMiLCJmQ1BudCI6IjEwODMiLCJmbXAiOiIwIiwidHRpIjoiMTI2NCIsImx0X3R0aSI6IjAiLCJmcHNfdHRpIjoiMTI2NCIsImZwcyI6IjAiLCJGSURzIjoiMCIsIkZJRGQiOiIwIiwiTENQIjoiMTI4NCIsIkNMU2UiOiI2NTUxIiwiQ0xTIjoiMC4wNjI0MjYzMTk3MzIzMzQ5MTYiLCJUQlQiOiIyNCIsIlNjcm5IIjoiNjYzIiwiU2NyblciOiIxMzYwIiwicFdTeiI6IjI1NTQ1NyIsInBTeiI6IjEwMDQyNTYiLCJJTUFHRV9TSVpFIjoiMCIsIkpTX1NJWkUiOiIxMzM5NDEiLCJlbGVtZW50Q291bnQiOiIxNDUiLCJjYXJ0VmFsdWUiOiIwIiwiT051bUJyIjoiMCIsIm9yZGVyVE5EIjoiMCIsImVUIjoiNSIsInNpdGVJRCI6Imxvd2VzMTU4NDF6IiwidHhuTmFtZSI6ImVDb21tZXJjZS13d3cubG93ZXMuY29tIiwiY2FtcGFpZ24iOiIiLCJBQiI6IkRlZmF1bHQiLCJEQ1RSIjoiZWFzdCIsInRvcCI6Ii04MjEwIiwiYnYiOiIwIiwiYnZ6biI6IkNocm9tZS05MCIsInR1bCI6IjAiLCJFVU9TIjoiTGludXgiLCJjdXJyZW5jeUNvZGUiOiIiLCJzSUQiOiIzMTcyMzU2NzY1ODE2NTEzNjkiLCJnSUQiOiIzMTcyMzU2NzY1ODE2NTEzNjkiLCJTSGkiOiI2NjMiLCJTV2kiOiIxMzYwIiwiQ1NJRCI6IjAiLCJDVjEiOiIwYzRkNjBlOC1hZjExLTQ4ODItODA2OS0xMTY3MTI5Mjg5NWIiLCJDVjIiOiIwIiwiQ1YzIjoiMCIsIkNWNCI6IjAiLCJDVjUiOiIwIiwiQ1Y2Ijoic3RhYmxlIiwiQ1Y3IjoiQ29va2llIFByZXNlbnQiLCJDVjgiOiJaaXBwZWQiLCJDVjkiOiJ1bmRlZmluZWQiLCJDVjEwIjoiTmFtb2dvbyBPbiIsIkNWMTEiOiIwIiwiQ1YxMiI6IjAiLCJDVjEzIjoiMCIsIkNWMTQiOiIwIiwiQ1YxNSI6IjAiLCJDTjEiOiIwIiwiQ04yIjoiMCIsIkNOMyI6IjAiLCJDTjQiOiIwIiwiQ041IjoiMCIsIkNONiI6IjAiLCJDTjciOiIwIiwiQ044IjoiMCIsIkNOOSI6IjAiLCJDTjEwIjoiMCIsIkNOMTEiOiIwIiwiQ04xMiI6IjAiLCJDTjEzIjoiMCIsIkNOMTQiOiIwIiwiQ04xNSI6IjAiLCJDTjE2IjoiMCIsIkNOMTciOiIwIiwiQ04xOCI6IjAiLCJDTjE5IjoiMCIsIkNOMjAiOiIwIiwid2NkIjoiMCIsIkxUTSI6IjE2Mjg2NTk4NzM4MzUiLCJXQ0R0dCI6ImMiLCJOVlNUUiI6IjAiLCJSViI6IjAiLCJjb2xsZWN0QXQiOiIxMDAiLCJDbXBTIjoiRGlyZWN0IiwiQ21wTSI6Ik5vbmUiLCJDbXBOIjoiIiwiUmVmVVJMIjoiaHR0cHM6Ly93d3cubG93ZXMuY29tL3NlYXJjaD9zZWFyY2hUZXJtPWFpciUyMGNvbmRpdGlvbmVyIn0=
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:24 GMT
+content-type: text/html;charset=UTF-8
+access-control-allow-origin: https://www.lowes.com
+access-control-allow-credentials: true
+access-control-max-age: 86400
+access-control-allow-methods: xhr,GET, POST, OPTIONS
+access-control-allow-headers: xhr,content-type,Content-Type, Depth, User-Agent, X-File-Size, X-Requested-With, If-Modified-Since, X-File-Name, Cache-Control
+timing-allow-origin: *
+x-content-type-options: nosniff
+age: 180000
+pragma: no-cache
+cache-control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+expires: Wed, 19 Apr 2013 01:00:00 GMT
+set-cookie: collection=1; expires=Wed, 11-Aug-2021 05:56:24 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: enabled=1; expires=Wed, 11-Aug-2021 05:56:24 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: sessionID=317235676581651369; expires=Wed, 11-Aug-2021 05:56:24 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: lowes15841z-txnName=eCommerce-www.lowes.com; expires=Wed, 11-Aug-2021 05:56:24 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+set-cookie: lowes15841z-BrowserVersion=Chrome-90; expires=Wed, 11-Aug-2021 05:56:24 GMT; Max-Age=1500; path=/; SameSite=None; domain=btttag.com; secure
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=63072000; includeSubDomains
+last-modified: Wed, 21 Jan 2004 01:01:30 GMT
+vary: Accept-Encoding
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+expect-ct: max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"
+server: cloudflare
+cf-ray: 67cf13d6a975e30e-CCU
+content-encoding: gzip
+----
+--Request 
+GET https://www.facebook.com/tr/?id=625799750871183&ev=ViewContent&dl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&rl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&if=false&ts=1628659884372&cd[customer_type]=&cd[known_state]=&cd[identity_id]=&cd[content_ids]=%5B%222759118-83-APFD06JASW%22%5D&cd[content_type]=product&cd[content_category]=heating_cooling&cd[product_ids]=%5B%222759118-83-APFD06JASW%22%5D&cd[currency]=USD&sw=1360&sh=663&v=2.9.44&r=stable&ec=1&o=30&fbp=fb.1.1628659850310.738130319&it=1628659883949&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:24 GMT
+expires: Wed, 11 Aug 2021 05:31:24 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://www.facebook.com/tr/?id=1128484153951961&ev=ViewContent&dl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&rl=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&if=false&ts=1628659884374&cd[customer_type]=&cd[known_state]=&cd[identity_id]=&cd[content_ids]=%5B%222759118-83-APFD06JASW%22%5D&cd[content_type]=product&cd[content_category]=heating_cooling&cd[product_ids]=%5B%222759118-83-APFD06JASW%22%5D&cd[currency]=USD&sw=1360&sh=663&v=2.9.44&r=stable&ec=1&o=30&fbp=fb.1.1628659850310.738130319&it=1628659883949&coo=false&rqm=GET
+Host: www.facebook.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+date: Wed, 11 Aug 2021 05:31:24 GMT
+expires: Wed, 11 Aug 2021 05:31:24 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 44
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://apps.bazaarvoice.com/deployments/Lowes/main_site/production/en_US/bv.js
+Host: apps.bazaarvoice.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript;charset=UTF-8
+content-length: 19811
+x-amz-replication-status: COMPLETED
+last-modified: Fri, 06 Aug 2021 04:34:34 GMT
+content-encoding: gzip
+x-amz-version-id: nKdekLa6hxP7iytEAscjeTwBNNPtYZIG
+accept-ranges: bytes
+server: AmazonS3
+date: Wed, 11 Aug 2021 05:31:25 GMT
+cache-control: max-age=300
+etag: \"d851aac0b6f2b424b2022aeba8be3ae3\"
+x-cache: Hit from cloudfront
+via: 1.1 ec743c5f92ab9b84ef2d975d05ee0132.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: bhc9hmhF7YznKxQDfz26ltrk3vgDT4r0pHDcIwjWR7BEeoTPVfly5A==
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC59d4420b823e47f1910c7b3645160666-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 1327
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCb493cf1ad0b54f20b2e824242e38a4d2-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 415
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC54531dfbcb804f1e946f0fe9300aaa29-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+content-length: 1705
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://lptag.liveperson.net/tag/tag.js?site=22554410
+Host: lptag.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:30:50 GMT
+content-type: application/javascript
+content-length: 7567
+last-modified: Thu, 03 Sep 2020 08:27:49 GMT
+etag: \"5f50a905-1d8f\"
+content-encoding: gzip
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+cache-control: public, max-age=630
+----
+--Request 
+GET https://d.agkn.com/pixel/9458/?che=4939538719690071&mcvsid=71747673865418841840298191736677393887
+Host: d.agkn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: ab=0001%3A%2FyLug1DlaXl7q9E7Spnh2evF1mBUeNyK; u=C|0CAAAAAAAKKYdHgAAAAABATT4AAAAAA
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+content-length: 43
+cache-control: no-cache, must-revalidate
+date: Wed, 11 Aug 2021 05:31:24 GMT
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+p3p: CP=\"NOI DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT\"
+pragma: no-cache
+server: Apache-Coyote/1.1
+set-cookie: ab=0001%3A%2FyLug1DlaXl7q9E7Spnh2evF1mBUeNyK;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure
+set-cookie: u=C|0CAAAAAAAKKYdLAAAAAACATT4AAAAAA;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure
+x-cache: Miss from cloudfront
+via: 1.1 517bd2dfbf745eddfa0429e3625229ec.cloudfront.net (CloudFront)
+x-amz-cf-pop: CCU50-C2
+x-amz-cf-id: chzFs4UcmKM-wXcrky1_xc5PbGzWcc29GJ6qK5QGH2bJDnhMJMixPw==
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCb3ad2a2bd3ca47dfbdb42be185649f14-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 360
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+--Request 
+GET https://login.dotomi.com/ucm/UCMController?dtm_com=28&dtm_cid=2621&dtm_cmagic=cc7090&dtm_format=5&dtmc_product_id=5000143961&dtmc_fulfillment_channel=NON&dtmc_brand=ge&dtmc_department=heating_cooling&dtmc_category=air_conditioners_fans&dtmc_sub_category=room_air_conditioners&dtm_fid=101&cli_promo_id=product-display&dtmc_ref=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&dtmc_loc=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&canonical_url=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961
+Host: login.dotomi.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+server: nginx
+date: Wed, 11 Aug 2021 05:31:24 GMT
+content-type: text/html
+content-length: 987
+cache-control: no-cache, private, max-age=0, no-store
+expires: 0
+pragma: no-cache
+p3p: policyref=\"/w3c/p3p.xml\", CP=\"NOI DSP NID OUR STP\"
+content-encoding: gzip
+----
+--Request 
+GET https://wkxppshj-qx.global.ssl.fastly.net/nrse.html
+Host: wkxppshj-qx.global.ssl.fastly.net
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Length: 371
+Last-Modified: Mon, 08 Feb 2021 13:27:19 GMT
+ETag: \"52094d7353258e732e5d0e429446e456\"
+Content-Encoding: gzip
+Content-Type: text/html
+Access-Control-Allow-Origin: *
+cache-control: max-age=3600
+Accept-Ranges: bytes
+Date: Wed, 11 Aug 2021 05:30:50 GMT
+Via: 1.1 varnish
+Age: 1663
+X-Served-By: cache-bom4741-BOM
+X-Cache: HIT
+X-Cache-Hits: 529
+X-Timer: S1628659851.515578,VS0,VE0
+Vary: Accept-Encoding
+----
+--Request 
+GET https://lptag.liveperson.net/lptag/api/account/22554410/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&b=undefined
+Host: lptag.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:11 GMT
+content-type: application/x-javascript
+cache-control: public, max-age=630
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+x-cache-status: HIT
+content-encoding: gzip
+----
+--Request 
+POST https://www.facebook.com/tr/
+Host: www.facebook.com
+Upgrade-Insecure-Requests: 1
+Origin: https://www.lowes.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: fr=0lWiq4Hkf4nWU7VMY..BhE2CL...1.0.BhE2CL.
+----
+ POSTDATA [key: "id"
+value: "625799750871183"
+, key: "ev"
+value: "Microdata"
+, key: "dl"
+value: "https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961"
+, key: "rl"
+value: "https://www.lowes.com/search?searchTerm=air%20conditioner"
+, key: "if"
+value: "false"
+, key: "ts"
+value: "1628659884898"
+, key: "cd[DataLayer]"
+value: "[]"
+, key: "cd[Meta]"
+value: "{\"title\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner in the Portable Air Conditioners department at Lowes.com\",\"meta:description\":\"Shop GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner in the Portable Air Conditioners department at Lowe\'s.com. GE Appliances is dedicated to providing the right solutions for rooms of any size. Our portable air conditioners are designed to provide exceptional comfort\"}"
+, key: "cd[OpenGraph]"
+value: "{\"og:image\":\"//mobileimages.lowes.com/productimages/c56595c2-2c17-4e5e-b20c-8b65b445f5cb/16815581.jpg?size=xl\",\"og:type\":\"product\",\"og:title\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner Lowes.com\",\"og:description\":\"Shop GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditionerundefined at Lowe\'s.com. GE Appliances is dedicated to providing the right solutions for rooms of any size. Our portable air conditioners are designed to provide exceptional comfort\",\"og:site_name\":\"Lowe\'s\",\"og:url\":\"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961\"}"
+, key: "cd[Schema.org]"
+value: "[]"
+, key: "cd[JSON-LD]"
+value: "[[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner\",\"url\":\"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961\"},{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Heating & Cooling\",\"item\":\"https://www.lowes.com/pl/Heating-cooling/4294934542\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Air Conditioners & Fans\",\"item\":\"https://www.lowes.com/pl/Air-conditioners-fans-Heating-cooling/4294859079\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Room Air Conditioners\",\"item\":\"https://www.lowes.com/pl/Room-air-conditioners-Air-conditioners-fans-Heating-cooling/4294749561\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Portable Air Conditioners\",\"item\":\"https://www.lowes.com/pl/Portable-air-conditioners-Room-air-conditioners-Air-conditioners-fans-Heating-cooling/2830525945\"}]},{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner\",\"image\":\"//mobileimages.lowes.com/productimages/c56595c2-2c17-4e5e-b20c-8b65b445f5cb/16815581.jpg\",\"brand\":{\"@type\":\"Thing\",\"name\":\"GE\"},\"description\":\"6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner\",\"sku\":\"5000143961\",\"offers\":{\"@type\":\"Offer\",\"@id\":\"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961\",\"sku\":\"5000143961\",\"availableDeliveryMethod\":\"http://schema.org/OnSitePickup\",\"availability\":\"http://schema.org/InStock\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"branchCode\":\"1985\"},\"price\":349,\"itemCondition\":\"http://schema.org/NewCondition\",\"image\":\"//mobileimages.lowes.com/productimages/c56595c2-2c17-4e5e-b20c-8b65b445f5cb/16815581.jpg\",\"priceCurrency\":\"USD\",\"url\":\"https://www.lowes.com/pd/GE-6000-BTU-Portable-Air-Conditioner/5000143961\"},\"review\":[{\"@type\":\"Review\",\"reviewBody\":\"Good luck getting that tune out of your head. I looked at a lot of different units and ultimately it came down to a dice roll and I got this one from GE. I live in Phoenix and it can get pretty hot and muggy here in the summer. Currently in the high 90\'s and 20% humidity. Brought the unit home and set it up with the window install. It doesn\'t take a lot of time to set up and thankfully the casters are pre installed. IMO the instructions do not provide enough detail on installing the exhaust hose and its flanges (see pix). The square flange that attaches to the unit is keyed to only install one of 4 possible ways, there is no mention of this in the instructions. Its easier to install the hose to the flanges first, you can reach into the flange and pull the hose rather than pushing as instructed in the directions. After running on high cool for about 5 min I had 50 degree air coming out of the unit. it cooled the room fine and cycled off and on set at 73 degrees. I noticed the exhaust hose gets hot (I measured 120 degrees) so a lot of heat leakage back into the room. Once it have it run in for a few days, I\'m going to move it to a more semi permanent location and wrap the exhaust hose with duct insulation. I have this unit and an air scrubber running in the room and I don\'t think its too loud, I measured 65 to 70 dB. So far so good and now I get to put my evap cooler back in the garage!\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":4},\"author\":{\"@type\":\"Thing\",\"name\":\"NationofFred\"}},{\"@type\":\"Review\",\"reviewBody\":\"This was an easy set up from start to finish. My room has never felt any cooler. What I love most is the temp controls and flexible air control on the front. Will definitely be saving this on for the heat coming up!!\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":5},\"author\":{\"@type\":\"Thing\",\"name\":\"\"}},{\"@type\":\"Review\",\"reviewBody\":\"Sound level is ok. Turned it on, set it to 78, haven\'t shut it off since. Maintains the temperature in my bedroom. Fan doesn\'t seem too loud. Blue LED panel lights up the room just a little. I did have trouble understanding the window vent instructions, probably just me.\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":5},\"author\":{\"@type\":\"Thing\",\"name\":\"Specboy30\"}},{\"@type\":\"Review\",\"reviewBody\":\"The only thing I have found wrong with this product is it is missing the hardware (upside for me is that I had hardware from other A/C that worked )  and the weatherstrip came in all knotted up and I had to add a screw and washer to the exhaust so that it would stay connected to the bracket that goes in the window. It is not that hot here yet we will see how that goes later.\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":4},\"author\":{\"@type\":\"Thing\",\"name\":\"Tray\"}},{\"@type\":\"Review\",\"reviewBody\":\"If you have pets (cats, ferrets), they can easily pull the drain plug out.  It\342\200\231s a slip fitting.  GE should make all drain ports THREADED!  \\r\\n\\r\\nUnbeknownst to me the air conditioner was draining directly on my carpet for several days before I noticed that the ferret or cat had pulled the plug and stashed it in their secret hiding place.\\r\\n\\r\\nLuckily I was in the middle of replacing my carpet, and ripping it out, otherwise it might have been the entire summer before I realized the unit was draining into the carpet!!!\\r\\n\\r\\nGE was great about customer service in shipping out a new drain plug, but the coupling should be threaded.  Duh!\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":4},\"author\":{\"@type\":\"Thing\",\"name\":\"CDawg57\"}},{\"@type\":\"Review\",\"reviewBody\":\"If cooling and efficiency are your main concerns for a bedroom/moderate sized room, this unit is an excellent choice. While it is noisier than other portable AC units i\'ve used, and the installation materials are also sub-par in comparison, it cools better and more efficiently than any other unit i\'ve purchased.  Four stars overall, and five stars for cooling.  This review is for the GE 8000/6100 BTU Unit rated for 250 sq ft.  \\n\\nWe live in Florida, and use portable units as emergency hurricane backups and to augment our central AC from mid-June through mid-September.  We\'ve used several portable AC units in the past from two different brands, each rated at 400 sq. ft.  This unit matches their cooling power, despite carrying a much lower power rating and capacity.  It also uses roughly 300 watts less energy, helping us save a bit on our electric bill.  Like the other units, water will accumulate quickly in a humid environment, so we elevate them and use drain hoses and buckets, as shown in the photos.  While some scoff at water accumulation, this is Florida--we want our units to eliminate humidity!  A 4-5 gallon bucket with hoses is sufficient to handle drainage, and should be checked every 8 hours.  This unit is excellent at knocking down humidity in your enclosure, typically reducing our indoor humidity by 15-20%.  \\n\\nEvery portable AC unit carries drawbacks, and despite this unit\'s cooling prowess, there are some oddities.  Most importantly, it is noticeably louder than others we\'ve previously used.  The sound is comparable to the elongated window ACs in hotels during the 1990s and 2000s.  It doesn\'t bother us, but if you\'re a light sleeper, or if this is for a child\'s bedroom, it could be problematic.  Next, in comparison to others we\'ve used, the additional materials are substandard.  The exhaust hose is thinner, and the included insulation was literally wrapped into a ball and tied--rendering it useless.  If you purchase this unit, do yourself the favor and buy your own insulation package as well.  It also did not include any drainage hoses in the package, so the ones you see in the photos are extras I had laying around.  You\'ll have to retrofit and cut your own otherwise.  Finally--and this is unexplainable--if we set the temperature at its lowest setting of 61 degrees, our condenser makes a rattling sound.  Set to 62 degrees or higher?  No rattling at all.  This has held steady for several weeks, so perhaps its a software bug?  \\n\\nDespite the mild drawbacks, i\'m more impressed with this GE unit than any other ive purchased before. When it comes time to replace our larger units, i\'ll be looking at a larger GE one--and reusing some of our prior setup materials.  The cooling and efficiency is too impressive to purchase anything else.\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":4},\"author\":{\"@type\":\"Thing\",\"name\":\"BeachBoy\"}},{\"@type\":\"Review\",\"reviewBody\":\"I purchase this unit for Weather Emergency Only for apartment or home..  Its great unit haves low sound is Decibel Rating (Highest Setting) 52 & Decibel Rating (Lowest Setting) 50. Also it cools very fast in 250 square feet area & uses 8.8 amps.  I love it most of all it has window insulation and secure window panel.  This product comes with full window kit & easy assemble only thing you need is Philips Screwdriver.  I really recommend customers to purchase also powerful indoor air circulation floor fan Product Brand: Vornado Model: 753 Fan Size: 17.32 inches, covers 100 square feet area & uses 0.6 amps. These both products together are great investment for emergency or personal use.  Great additional connection with your generator for weather emergency for your apartment, or home use.\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":5},\"author\":{\"@type\":\"Thing\",\"name\":\"Sa71an\"}},{\"@type\":\"Review\",\"reviewBody\":\"Seems to do the job. Extracts an amazing amount of water from the atmosphere. But the installation is not the best for louvered windows. I\342\200\231ve had to use duct tape to seal off spaces the mounting kit pieces and foam strips would not seal. The exhaust hose wants to retract and pull out of the exhaust nozzle and exhaust bracket that fits directly onto the standup unit. So you have to be careful if you move the unit around. When not in use I push it out of the way, tight to the wall which restricts the airflow into the hose. I pull the unit out from the wall when in use. A 15 amp circuit is minimum for this unit. Anything much more than just the AC on the circuit will trip the breaker. Pay attention to the \342\200\234Drainage Instructions\342\200\235 as they are 100% accurate. If you are in a humid climate (I\342\200\231m in Maui) this unit will extract a LOT of water from the atmosphere.  All that said, the unit (so far) meets my cooling expectations which is 10 degrees lower than outside temp. That is, the 80 degree range inside when it gets hot (average temps in the 90\342\200\231s) outside. I only gave it a three star rating as it\342\200\231s only been in service every day for a week and we haven\342\200\231t hit our hottest temps yet. It is not an industrial strength AC unit so expectations should be in line with what it can do, not what it can\342\200\231t.\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":3},\"author\":{\"@type\":\"Thing\",\"name\":\"Srfnff\"}},{\"@type\":\"Review\",\"reviewBody\":\"It\342\200\231s helped out a lot with a window ac also but not as we would want but it does help and work good with what it is suppose to but I have a two bedroom top flor apartment and does a decent job with another ac in the back room a window ac but if you just have this won\342\200\231t do the job for a two bed room apartment need more btu that what\342\200\231s I wish I would have done since I spent so much but hey it\342\200\231s getting us thru barley but better then nothing right so can\342\200\231t really complain would love if I would have went with a bigger one well that covered more square feet I guess so\\nMore btu but other the. That it does work good and doesn\342\200\231t have a lot of heat coming thru the hose that runs out the window would be nice if it did have a type of insulation that would also wrap around it tho just to recommend\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":4},\"author\":{\"@type\":\"Thing\",\"name\":\"Jayy\"}},{\"@type\":\"Review\",\"reviewBody\":\"Have had for one month during record breaking temps in the PNW. The unit is aesthetically pleasing and has performed well. Although rated for a 250 sqft room, it has cooled my living room which is about 300 sqft. The noise of the unit is acceptable, I don\342\200\231t find it any more overbearing than expected (all portable ACs are \342\200\234loud\342\200\235).  The venting window attachments work fine despite the design of it leaving small gaps in the seal.  I ended up buying a second unit for a bedroom and gifted one to a friend who has also been pleased with the unit. It would be nice if the unit showed the actual temperature of the room (most ACs do not have this feature, I have my own thermometers in each room so it does not bother me much).\",\"reviewRating\":{\"@type\":\"Rating\",\"ratingValue\":5},\"author\":{\"@type\":\"Thing\",\"name\":\"Parabellum322\"}}],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"reviewCount\":523,\"ratingValue\":3.9}}],{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://www.lowes.com/\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.lowes.com/search?searchTerm={searchTerm}\",\"query-input\":\"required name=searchTerm\"}},{\"@context\":\"http://schema.org/\",\"@type\":\"DownloadAction\",\"object\":{\"@type\":\"DigitalDocument\",\"name\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner Use and Care Manual\",\"description\":\"Use and Care Manual\"},\"url\":\"http://pdf.lowes.com/productdocuments/abfe7dd9-48ee-4a06-880c-92a4622e7d5c/42601812.pdf\"},{\"@context\":\"http://schema.org/\",\"@type\":\"DownloadAction\",\"object\":{\"@type\":\"DigitalDocument\",\"name\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner Prop65 Warning Label\",\"description\":\"Prop65 Warning Label\"},\"url\":\"http://pdf.lowes.com/productdocuments/314dd465-90d5-4ea2-9380-3aa546e29717/16815607.pdf\"},{\"@context\":\"http://schema.org/\",\"@type\":\"ImageObject\",\"name\":\"GE 6100-BTU DOE (8000-BTU ASHRAE) 115-Volt White Portable Air Conditioner\",\"image\":\"http://mobileimages.lowes.com/productimages/c56595c2-2c17-4e5e-b20c-8b65b445f5cb/16815581.jpg\",\"thumbnail\":\"http://mobileimages.lowes.com/productimages/c56595c2-2c17-4e5e-b20c-8b65b445f5cb/16815581.jpg?size=mthb\",\"representativeOfPage\":true,\"contentUrl\":\"http://mobileimages.lowes.com/productimages/c56595c2-2c17-4e5e-b20c-8b65b445f5cb/16815581.jpg\"}]"
+, key: "sw"
+value: "1360"
+, key: "sh"
+value: "663"
+, key: "v"
+value: "2.9.44"
+, key: "r"
+value: "stable"
+, key: "ec"
+value: "2"
+, key: "o"
+value: "30"
+, key: "fbp"
+value: "fb.1.1628659850310.738130319"
+, key: "it"
+value: "1628659883949"
+, key: "coo"
+value: "false"
+, key: "es"
+value: "automatic"
+, key: "tm"
+value: "3"
+, key: "rqm"
+value: "formPOST"
+]
+--Response 
+HTTP/1.1 200
+content-type: text/plain
+access-control-allow-origin: https://www.lowes.com
+access-control-allow-credentials: true
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+content-length: 0
+server: proxygen-bolt
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+date: Wed, 11 Aug 2021 05:31:25 GMT
+----
+--Request 
+GET https://client.perimeterx.net/PX61WVsvi8/main.min.js
+Host: client.perimeterx.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: *
+content-type: application/javascript; charset=utf-8
+cache-control: max-age=900,stale-while-revalidate=60,stale-if-error=3600
+x-px-hash: YWE0OGUwMDNiYTYyNTExMjg5OWE4NTBkOWFmMWIzNzJkZDFlYjkxYmU2NjU4ODA0YmVmOWM2YjY4ZTYyMjNlMw==
+etag: W/\"2f103-kA1d70gBf1+E9SsUCaZIhwmG+I0\"
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:49 GMT
+via: 1.1 varnish
+age: 738
+x-served-by: cache-bom4751-BOM
+x-cache: HIT
+x-cache-hits: 3
+x-timer: S1628659849.060850,VS0,VE0
+vary: Accept-Encoding
+active-cdn: fastly
+access-control-expose-headers: active-cdn,x-served-by
+content-length: 81242
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RC87fa49f39baf4b19b54be6ddb7c365d5-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:48 GMT
+date: Wed, 11 Aug 2021 05:30:48 GMT
+content-length: 455
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

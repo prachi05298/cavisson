@@ -1,0 +1,85 @@
+--Request 
+GET https://event.syndigo.cloud/event/e.gif?u=00529A56-C63C-4A8E-841D-9BC12B8BD0F4&prtnid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&siteid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&pageid=2759118-83-APFD06JASW&s=1628659879997&v=v1.0.197&visitid=E761DDDE-0C39-44CE-A23A-4F548D0AE711&type=a2ctracking&message=potential%20dom%20change%20(quantity%20element%20not%20found)&dt=6.513&ref=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&r=0.6156435324618856&pageurl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961
+Host: event.syndigo.cloud
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+content-md5: 3z5WfW8W0EAybHoOoppPQQ==
+last-modified: Tue, 03 Aug 2021 21:20:13 GMT
+etag: \"0x8D956C47B774AAD\"
+server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 08400e4e-101e-002a-3ead-88e8ee000000
+x-ms-version: 2019-02-02
+x-ms-creation-time: Mon, 24 Aug 2020 21:14:54 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:31:26 GMT
+age: 634271
+x-served-by: cache-den8230-DEN, cache-bom4728-BOM
+x-cache: HIT, HIT
+x-cache-hits: 2, 14352
+x-timer: S1628659887.614150,VS0,VE0
+access-control-allow-origin: *
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, X-PINGOTHER, Range
+cache-control: max-age=31536000
+expires: Thu, 11 Aug 2022 05:31:26 GMT
+content-length: 43
+----
+--Request 
+GET https://event.syndigo.cloud/event/k.gif?u=00529A56-C63C-4A8E-841D-9BC12B8BD0F4&prtnid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&siteid=9827c4b9-a79e-4fa7-86f8-ac2e4d8a0d66&pageid=2759118-83-APFD06JASW&s=1628659879997&v=v1.0.197&visitid=E761DDDE-0C39-44CE-A23A-4F548D0AE711&sku=2759118-83-APFD06JASW&quantity=1&variant=&price=349&currency=USD&brand=ge&category=Heating%20%26%20Cooling&productId=5000143961&careplan=0&careplanprice=&dt=6.513&ref=https%3A%2F%2Fwww.lowes.com%2Fsearch%3FsearchTerm%3Dair%2520conditioner&r=0.981964878971693&pageurl=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961
+Host: event.syndigo.cloud
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: image/gif
+content-md5: 3z5WfW8W0EAybHoOoppPQQ==
+last-modified: Tue, 03 Aug 2021 21:20:13 GMT
+etag: \"0x8D956C47B76D568\"
+server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: b74ee115-201e-0044-41ad-8841c7000000
+x-ms-version: 2019-02-02
+x-ms-creation-time: Mon, 24 Aug 2020 21:14:54 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:31:26 GMT
+age: 634271
+x-served-by: cache-den8231-DEN, cache-bom4728-BOM
+x-cache: HIT, HIT
+x-cache-hits: 7, 6
+x-timer: S1628659887.614282,VS0,VE0
+access-control-allow-origin: *
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, X-PINGOTHER, Range
+cache-control: max-age=31536000
+expires: Thu, 11 Aug 2022 05:31:26 GMT
+content-length: 43
+----
+

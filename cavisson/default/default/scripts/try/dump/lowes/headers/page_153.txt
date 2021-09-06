@@ -1,0 +1,66 @@
+--Request 
+GET https://lowes.ecorebates.com/api/search/lowes/productRebateDetails.json;jsessionid=?filter_rebate_consumer_type=residential&retryZip=true&skus=5000143961&uiContext=PDP&jsoncallback=angular.callbacks._1
+Host: lowes.ecorebates.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:21 GMT
+content-type: application/json;charset=UTF-8
+server: nginx
+x-amzn-trace-id: Root=1-611360a9-0ab7040e2a68c58f46a0b012;
+set-cookie: JSESSIONID=CB3A4CAF2B44CDA85C26F05B2D27F50C; Path=/; Secure; HttpOnly
+pragma: no-cache
+cache-control: no-cache, no-store, max-age=0
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+content-language: en-US
+x-ecr-domain: app
+x-ecr-upstream-addr: 10.21.2.230:8080
+content-encoding: gzip
+----
+--Request 
+GET https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=r0usxrln4&kxt=https%3A%2F%2Fwww.lowes.com&kxcl=cdn&kxp=
+Host: cdn.krxd.net
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm
+----
+--Response 
+HTTP/1.1 200
+last-modified: Tue, 21 Feb 2017 17:50:54 GMT
+etag: \"3d2100fd7107262ecb55ce6847f01fa5\"
+cache-control: public, max-age=315360000
+expires: Fri, 19 Feb 2027 17:50:50 GMT
+content-type: text/html
+x-cdn-backend: 4FrRTvEr9h480D4BywjehZ--F_Partner_JS_S3
+fastly-restarts: 1
+content-encoding: gzip
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:45 GMT
+via: 1.1 varnish
+age: 5509978
+x-served-by: cache-bom4747-BOM
+x-cache: HIT
+x-cache-hits: 146394
+x-timer: S1628659846.847660,VS0,VE0
+vary: Accept-Encoding
+p3p: policyref=\"https://cdn.krxd.net/kruxcontent/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\"
+content-length: 525
+----
+

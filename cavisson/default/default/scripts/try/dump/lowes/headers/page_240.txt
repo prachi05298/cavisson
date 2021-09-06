@@ -1,0 +1,115 @@
+--Request 
+GET https://vwonwkaqvq-a.global.ssl.fastly.net/LLODOWS854.json
+Host: vwonwkaqvq-a.global.ssl.fastly.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Length: 39010
+Last-Modified: Mon, 12 Jul 2021 07:04:12 GMT
+ETag: \"43a691e732ca527436e7a28d2e11ae42\"
+Content-Encoding: gzip
+Content-Type: application/x-javascript
+Access-Control-Allow-Origin: *
+cache-control: max-age=3600
+Accept-Ranges: bytes
+Date: Wed, 11 Aug 2021 05:30:50 GMT
+Via: 1.1 varnish
+Age: 2896
+X-Served-By: cache-bom4751-BOM
+X-Cache: HIT
+X-Cache-Hits: 4
+X-Timer: S1628659850.456747,VS0,VE0
+Vary: Accept-Encoding
+----
+--Request 
+GET https://colrep.sitelabweb.com/rp/?d=OMDQfU22f3dcYvGF1BDGjNaNuj-INX4TEXJGy0pogQ9yDScBb0qsgRiTzZYji1p20Q-zqQJ7D032Bxum__cgh9p2FP6Hi4Vltm07BHK2ogMf8z1wQ_ij1tNs4zmNQd-CzFc7YnF14N8mEWZsuuyIdg3WqkTioEtNdpAD8YJ-8l5N0MhSRrO64ipJ0V-T9RJ79i3~EGxj9hNt44kFkktDuMd~t9tr9TNWbOYf3yvNUJhCqkMsDY_2EE-0i5M4zMF15FECybMh04jY8iuCyLMCqB1cBDLVIHYyTp6rUNmjqlNcbzaIUR-C6gSbDN7jUA-yybMgHpxqUQtjPsZ~0r0Ik68jrkaVuv49UAhkutMsbwZJQV-zaEN40l0FBg7W1LcB4liXYhtzqUMSBm-bFKDXMYZjgz399JkTXZdB0pmo0P-2yPMc451FAJ72qiZBmhuFFPt2ScO~-1oZEP8m0TNQ8z39Q_uDupNOx5l2hE-mj4ZsC0DnM8xDnPYO01kIUctzlcMhGm1cYW9CDKc~4mt9hRzHYlJ7uBX2JkyTjbdQQ3-Ix7D2zcLBivyEUcymaHcG3m2bV8PjhRJ~Lzw95BuWjoZAx9rsJWCSz3Yp090VFzyDyaN8ihj2ROuGldO~yinZN382vHM~-0qQV6ijaZYilzc2MQCTqNMpKzC~Ry7zvQN85iuWQd3jaHZxyknZJ6KTCTLxxx-cABt2SqaAxzc6NEG3n9bPsl0FMBxWyfNt_2iqEg4G_bZCB5y6IN82yVYj3y1sQNuWaqM6-y_ZEX-j5ON4030kIzy0r3QNpyilMb4TdcMxBzyoR5Kz5INxLi0NQOtjjUZ7qkaoJEBTyHL48xBVAzxjqaN84xkFAgujyeJFazpsRJQW8Ic-x96wJSuSvgcS39_nZHCXjFPtDyI1U~8mETPt_mzZVa73XbPwCy-o0I&c=522
+Host: colrep.sitelabweb.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: image/gif
+Date: Wed, 11 Aug 2021 05:31:40 GMT
+ETag: \"60ed64cb-2a\"
+Last-Modified: Tue, 13 Jul 2021 10:02:51 GMT
+Server: nginx
+Content-Length: 42
+Connection: keep-alive
+----
+--Request 
+GET https://udc-neb.kampyle.com/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif?data=eyJldmVudHMiOiBbCiAgICB7InNlc3Npb25fc2NyZWVuX3NpemUiOiAiMTM2MHg2NjMiLCJzZXNzaW9uX2R1YSI6ICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuNjEgU2FmYXJpLzUzNy4zNiIsInNlc3Npb25fcGxhdGZvcm0iOiAiTGludXggeDg2XzY0IiwicmVmZXJyaW5nX3VybCI6ICJodHRwczovL3d3dy5sb3dlcy5jb20vcGQvR0UtNjAwMC1CVFUtUG9ydGFibGUtQWlyLUNvbmRpdGlvbmVyLzUwMDAxNDM5NjEiLCJyZWZlcnJpbmdfZG9tYWluIjogInd3dy5sb3dlcy5jb20iLCJ0cmFja2VyX3R5cGUiOiAiamF2YXNjcmlwdCIsInRyYWNrZXJfdmVyc2lvbiI6ICIyLjEuMTUiLCJldmVudF9uYW1lIjogIm5lYnVsYV9wYWdlX3ZpZXciLCJldmVudF90aW1lc3RhbXBfZXBvY2giOiAiMTYyODY1OTkwMDk1MiIsImV2ZW50X3RpbWV6b25lX29mZnNldCI6IC01LCJ1c2VyX2lkIjogIjE3YjMzYjEyNGYwNWNlLTBjZmZjMWJlNDI2ZDZmLTE2MmMxYTBjLWRjMjMwLTE3YjMzYjEyNGYxNzJjIiwiZW52aXJvbWVudCI6ICJwcm9kVXNPcmVnb24iLCJhY2NvdW50SWQiOiAzOTIzMzcsInVybCI6ICJodHRwczovL3d3dy5sb3dlcy5jb20vY2FydCIsIndlYnNpdGVJZCI6IDM5MjMzOSwiZm9ybUlkIjogbnVsbCwiZm9ybVRyaWdnZXJUeXBlIjogbnVsbCwia2FtcHlsZV9kYXRhIjogeyJMQVNUX0lOVklUQVRJT05fVklFVyI6ICIiLCJERUNMSU5FRF9EQVRFIjogIiIsImthbXB5bGVJbnZpdGVQcmVzZW50ZWQiOiAiIiwia2FtcHlsZV91c2VyaWQiOiAiMDYwNi0yYTkyLWJjNzUtZTEwYi1lYTgzLWEzMjUtYjE5Ny0yYzMyIiwia2FtcHlsZVVzZXJTZXNzaW9uIjogIjE2Mjg2NTk4NTIzNzYiLCJrYW1weWxlVXNlclBlcmNlbnRpbGUiOiAiNjkuNDYxMzEzMTA2MTA5MDYiLCJTVUJNSVRURURfREFURSI6ICIifSwiY29va2llX3NpemUiOiA0ODA5LCJrYW1weWxlX3ZlcnNpb24iOiAiMi4zOS4wIiwib25zaXRlX3ZlcnNpb24iOiAiMi4zOS4wIiwiaGlzdG9yeV9sZW5ndGgiOiA1LCJldmVudF9sb2NhbF90aW1lc3RhbXAiOiAxNjI4NjU5OTAwNDgxLCJwb3NpdGlvbiI6IG51bGwsImlzVXNlcklkZW50aWZpZWQiOiBmYWxzZSwiZmVlZGJhY2tfY29ycmVsYXRpb25fdXVpZCI6IG51bGx9Cl19
+Host: udc-neb.kampyle.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:41 GMT
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, DELETE
+access-control-allow-headers: X-Requested-With, Origin, Content-Type, Accept
+access-control-max-age: 1800
+x-me: prod-instance-gatewayservice-green-nm1p
+x-application-context: application:9090
+content-type: image/gif; charset=UTF-8
+content-length: 0
+server: Jetty(9.2.11.v20150529)
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://va.v.liveperson.net/api/js/22554410?sid=xD2M7VuaRzush56fUXtNkw&cb=lpCb67512x23609&t=sp&ts=1628659901032&pid=8809011165&tid=7916049064&vid=MwZjUwNjU5YTYyZDUxNjk3&rvt=1628659889992&pt=Shopping%20Cart%20-%20Lowes.com&u=https%3A%2F%2Fwww.lowes.com%2Fcart&r=https%3A%2F%2Fwww.lowes.com%2Fpd%2FGE-6000-BTU-Portable-Air-Conditioner%2F5000143961&sec=%5B%22lowes%20%3A%20shopping-cart%20%3A%20checkout%2Cshopping-cart%22%2C%221%22%5D&df=0&os=2&identities=%5B%7B%22iss%22%3A%22LivePerson%22%2C%22acr%22%3A%220%22%7D%5D
+Host: va.v.liveperson.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:41 GMT
+content-type: application/javascript
+cache-control: no-store
+server: ws
+access-control-allow-methods: GET, POST, PATCH
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token
+access-control-expose-headers: X-Requested-With, X-HTTP-Method-Override, LP-DOMAIN-REFERER, LP-URL, ETag, ac-revision, X-LP-Last-Modified, If-Match, Authentication-Method, Credit-Card-Ref, Automation-Secret, Email-Token, x-lp-host, Lp-Req-Time, date, x-application-context, strict-transport-security, x-content-type-options, x-download-options, x-xss-protection, x-cache-status, x-amz-id-2, x-amz-request-id, expires, last-modified, set-cookie, content-security-policy, x-frame-options
+access-control-allow-credentials: true
+content-encoding: gzip
+----
+

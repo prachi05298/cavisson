@@ -1,0 +1,90 @@
+--Request 
+POST https://rs.fullstory.com/rec/page
+Host: rs.fullstory.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"OrgId":"Q8RZE","UserId":"","Url":"https://www.lowes.com/","Base":"https://www.lowes.com/","Width":1273,"Height":501,"ScreenWidth":1360,"ScreenHeight":663,"Referrer":"","Preroll":6265,"Doctype":"<!DOCTYPE html>","CompiledVersion":"11e53d809a","CompiledTimestamp":1628185160}
+--Response 
+HTTP/1.1 200
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.lowes.com
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+date: Wed, 11 Aug 2021 05:30:45 GMT
+via: 1.1 google
+alt-svc: clear
+----
+--Request 
+GET https://dpm.demdex.net/ibs:dpid=411&dpuuid=YRNggwAAAL9ULAPw
+Host: dpm.demdex.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: demdex=75585395299652916281105585907935456939
+----
+--Response 
+HTTP/1.1 200 OK
+Cache-Control: no-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private
+content-encoding: gzip
+Content-Type: image/gif
+DCS: dcs-prod-ind1-1-v012-0db8c3c2e.edge-ind1.demdex.com 6.3.1.20210623115127
+Expires: Thu, 01 Jan 1970 00:00:00 UTC
+P3P: policyref=\"/w3c/p3p.xml\", CP=\"NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS PUR COM NAV INT\"
+Pragma: no-cache
+set-cookie: dpm=75585395299652916281105585907935456939; Max-Age=15552000; Expires=Mon, 7 Feb 2022 05:30:44 GMT; Path=/; Domain=.dpm.demdex.net; Secure; SameSite=None
+set-cookie: demdex=75585395299652916281105585907935456939; Max-Age=15552000; Expires=Mon, 7 Feb 2022 05:30:44 GMT; Path=/; Domain=.demdex.net; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-TID: LCj+7AcuSrk=
+Content-Length: 59
+Connection: keep-alive
+----
+--Request 
+GET https://maps.googleapis.com/maps/api/js?v=3.42&client=gme-loweshomecenters
+Host: maps.googleapis.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=UTF-8
+date: Wed, 11 Aug 2021 05:30:45 GMT
+expires: Wed, 11 Aug 2021 06:00:45 GMT
+cache-control: public, max-age=1800
+vary: Accept-Language
+cross-origin-resource-policy: cross-origin
+content-encoding: gzip
+server: mafe
+content-length: 42507
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+server-timing: gfet4t7; dur=10
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

@@ -1,0 +1,19 @@
+--Request 
+POST https://rs.fullstory.com/rec/bundle?OrgId=Q8RZE&UserId=4938477446668288&SessionId=6554343464542208&PageId=5209984341155840&Seq=3&PageStart=1628659896691&PrevBundleTime=1628659903404&SkipResponseBody=true
+Host: rs.fullstory.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.lowes.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+ POSTDATA {"Seq":3,"When":5815,"Evts":[{"Kind":63,"Args":["POST","https://collector-px61wvsvi8.px-cloud.net/api/v2/collector",376,200,"content-type: application/x-www-form-urlencoded\r\n","content-length: 10\r\ncontent-type: application/json; charset=utf-8\r\n",1628659901782,3041,10,null,null],"When":5815},{"Kind":9,"Args":[5920,193,177,-20,-23.52941176470588,97,79,-15,-23.52941176470588,80],"When":5820},{"Kind":9,"Args":[6053,174,138,-40.949999999999996,-13.76470588235294,75,28,-46.8,-13.76470588235294,80],"When":5936},{"Kind":9,"Args":[6204,138,139,0,3.970588235294118,27,17,-7.941176470588236,-7.941176470588236,62],"When":6069},{"Kind":57,"Args":[2,"https://va.v.liveperson.net/api/js/22554410?sid=xD2M7VuaRzush56fUXtNkw&cb=lpCb32449x41979&t=pl&ts=1628659901062&pid=8809011165&tid=7916049064&vid=MwZjUwNjU5YTYyZDUxNjk3",9536.31000000007,396.4650000000365,"script",0,0,9536.31000000007,0,0,0,0,0,0,0,9932.775000000107,0,0,0],"When":6157},{"Kind":9,"Args":[6303,139,143,4.882352941176471,5.1875,16,13,0,-5.1875,62],"When":6220},{"Kind":8,"Args":[144,12,62],"When":6337},{"Kind":9,"Args":[6487,145,166,7.941176470588236,23.823529411764707,12,10,0,0,62],"When":6352},{"Kind":9,"Args":[6553,167,171,2.941176470588235,3.125,9,7,0,-3.125,62],"When":6503},{"Kind":9,"Args":[6637,172,176,8.375,4.1875,7,5,-4.1875,0,62],"When":6570},{"Kind":9,"Args":[6703,177,179,0,3,3,0,-2.8235294117647056,-3,62],"When":6655},{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=Q8RZE&UserId=4938477446668288&SessionId=6554343464542208&PageId=5209984341155840&Seq=2&PageStart=1628659896691&PrevBundleTime=1628659898029&LastActivity=15",1382,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1628659902245,225429,29,null,null],"When":7314},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=Q8RZE&UserId=4938477446668288&SessionId=6554343464542208&PageId=5209984341155840&Seq=2&PageStart=1628659896691&PrevBundleTime=1628659898029&LastActivity=15",9876.925000000028,1375.2450000000645,"xmlhttprequest",0,0,9876.925000000028,0,0,0,0,0,0,0,11252.170000000093,0,0,0],"When":7471},{"Kind":53,"Args":[],"When":9405},{"Kind":23,"Args":[7],"When":9503}]}
+
+

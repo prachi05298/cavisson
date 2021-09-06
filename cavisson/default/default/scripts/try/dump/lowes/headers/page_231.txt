@@ -1,0 +1,318 @@
+
+--Response 
+HTTP/1.1 200
+content-type: application/json; charset=utf-8
+content-length: 30
+x-envoy-upstream-service-time: 1
+server: istio-envoy
+date: Wed, 11 Aug 2021 05:31:38 GMT
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=1112
+server-timing: origin; dur=171
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: akaalb_prod_dual=1628746298~op=PROD_GCP_EAST_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_B:PROD_EAST_B|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=32~m=PROD_DEFAULT_EAST:0|PROD_EAST_B:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=9bb1df895c71b3d3a098534b3450e98c; path=/; Expires=Thu, 12 Aug 2021 05:31:38 GMT; HttpOnly; Secure; SameSite=None
+set-cookie: bm_sv=525C8651404D5C4B0FDD136E4EFCE742~ikQT35wHGWWWeupE4VYAImWuOSc3ZeO3F43ia2GnSLI6bXn7eHOBy/GCBr3XMeNaTJ+aRRKaZPWqApEZCAbdgBf2uogNvILXU7DPZpmWBZvzmSAT1hzm3nDXgy7FbbqsEXLyAA2gtIJBx1dDDXLx5fr9hu6VKg2SaM3QZH+BLZU=; Domain=.lowes.com; Path=/; Max-Age=7143; HttpOnly
+----
+--Request 
+GET https://consumer.krxd.net/consent/get/e30196c7-5053-416c-94a4-c1acfb09b619?idt=device&dt=kxcookie&callback=Krux.ns.lowes.kxjsonp_consent_get_0
+Host: consumer.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm; e_LfeEca87^0|%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D=1628659888
+----
+
+--Request 
+GET https://consumer.krxd.net/consent/get/e30196c7-5053-416c-94a4-c1acfb09b619?idt=device&dt=kxcookie&callback=Krux.ns.lowes.kxjsonp_consent_get_0
+Host: consumer.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cdn.krxd.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm; e_LfeEca87^0|%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D=1628659888
+----
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=UTF-8
+cache-control: max-age=1800
+content-encoding: gzip
+x-age: 0
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:30:46 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: consumer-a001-pdx-prod.krxd.net, cache-bom4726-BOM
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1628659847.688976,VS0,VE263
+vary: Accept-Encoding
+content-length: 182
+----
+--Request 
+GET https://ad.doubleclick.net/activity;src=6450450;type=vfpro00;cat=shopp0;qty=1;cost=349.00;gtm=2od891;auiddc=1926396264.1628659852;u1=;u3=1985;u4=99701;u24=;u25=;u26=;u5=;u6=349;u7=1;u10=1;u13=GE;u14=6100-BTU%20DOE%20(8000-BTU%20ASHRAE)%20115-Volt%20White%20Portable%20Air%20Conditioner;u15=;u18=5000143961;u19=349.00;u20=storePickup;~oref=https%3A%2F%2Fwww.lowes.com%2Fcart?
+Host: ad.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: IDE=AHWqTUlr80c_yZndCCR_UFmaFuX5O75HgWrFlfcM_RbhzSlp9jRZqbBaHQmL_3HdWno
+----
+--Response 
+HTTP/1.1 302
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+follow-only-when-prerender-shown: 1
+location: https://ad.doubleclick.net/activity;dc_pre=COOQz_WeqPICFUJLaAod1FcPHg;src=6450450;type=vfpro00;cat=shopp0;qty=1;cost=349.00;gtm=2od891;auiddc=1926396264.1628659852;u1=;u3=1985;u4=99701;u24=;u25=;u26=;u5=;u6=349;u7=1;u10=1;u13=GE;u14=6100-BTU%20DOE%20(8000-BTU%20ASHRAE)%20115-Volt%20White%20Portable%20Air%20Conditioner;u15=;u18=5000143961;u19=349.00;u20=storePickup;~oref=https%3A%2F%2Fwww.lowes.com%2Fcart?
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+server: cafe
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.googletagmanager.com/a?id=AW-1031919983&cv=1&v=3&t=t&pid=1774684362&rv=891&es=1&e=gtm.js&eid=4&tc=1&tr=1rep&ti=1rep&z=0
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+vary: *
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.googletagmanager.com/a?id=AW-1031919983&cv=1&v=3&t=t&pid=1774684362&rv=891&es=1&e=*&eid=5&tc=1&z=0
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+vary: *
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.googletagmanager.com/a?id=AW-1031919983&cv=1&v=3&t=t&pid=1774684362&rv=891&es=1&e=*&eid=6&tc=1&z=0
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 204
+vary: *
+date: Wed, 11 Aug 2021 05:31:38 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+content-type: image/gif
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=UTF-8
+cache-control: max-age=1800
+content-encoding: gzip
+x-age: 0
+accept-ranges: bytes
+date: Wed, 11 Aug 2021 05:31:38 GMT
+via: 1.1 varnish
+age: 51
+x-served-by: consumer-a001-pdx-prod.krxd.net, cache-bom4726-BOM
+x-cache: MISS, HIT
+x-cache-hits: 0, 1
+x-timer: S1628659898.299258,VS0,VE0
+vary: Accept-Encoding
+content-length: 182
+----
+--Request 
+GET https://beacon.krxd.net/optout_check?callback=Krux.ns.lowes.kxjsonp_optOutCheck
+Host: beacon.krxd.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _kuid_=OS0grtrm; e_LfeEca87^0|%7B%22atc_itemid%22%3A%222759118-83-APFD06JASW%22%2C%22atc_category%22%3A%22portable_air_conditioners%22%2C%22atc_prodid%22%3A%225000143961%22%2C%22atc_brand%22%3A%22GE%22%2C%22atc_qty%22%3A1%7D=1628659888
+----
+--Response 
+HTTP/1.1 200
+date: Wed, 11 Aug 2021 05:31:38 GMT
+content-type: text/javascript
+cache-control: private, max-age=0, s-max-age=0
+x-served-by: beacon-n016-pdx-prod.krxd.net
+x-request-time: D=39 t=1628659898
+----
+--Request 
+GET https://bat.bing.com/bat.js
+Host: bat.bing.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MUID=14422038252A63D71F5A30A824986279; MR=0
+----
+--Response 
+HTTP/1.1 200
+cache-control: private,max-age=1800
+content-length: 9024
+content-type: application/javascript
+content-encoding: gzip
+last-modified: Wed, 28 Jul 2021 18:27:37 GMT
+accept-ranges: bytes
+etag: \"80f2963dde83d71:0\"
+vary: Accept-Encoding
+access-control-allow-origin: *
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 46FE687D27734FA8941C264117BD8972 Ref B: BOM02EDGE0513 Ref C: 2021-08-11T05:30:51Z
+date: Wed, 11 Aug 2021 05:30:50 GMT
+----
+--Request 
+GET https://connect.facebook.net/signals/config/1128484153951961?v=2.9.44&r=stable
+Host: connect.facebook.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://vice1.lowescdn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: application/x-javascript; charset=utf-8
+x-fb-rlafr: 0
+cross-origin-resource-policy: cross-origin
+pragma: public
+cache-control: public, max-age=1200
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+content-security-policy: default-src * data: blob: 'self';script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.google.com 127.0.0.1:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';block-all-mixed-content;upgrade-insecure-requests;
+x-frame-options: DENY
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-fb-debug: dHfVtJNYbEw0BAtaiukpmAuIuBPi6jes8R/nnQYAalXsSDeB88YXUx5VTy39NU+f7MLVADDwrydX661nyu7PPQ==
+content-length: 73567
+x-fb-trip-id: 1588961438
+date: Wed, 11 Aug 2021 05:31:38 GMT
+alt-svc: h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600
+----
+--Request 
+GET https://assets.adobedtm.com/0c85fa4ac103/23b3840ffae3/df09e394a55e/RCbd6afff198e94e748b5e2fd73f28d207-source.min.js
+Host: assets.adobedtm.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.lowes.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-type: application/x-javascript
+etag: \"db7fbefec66cc5b2938c0466bcb9e00a:1627383860.007362\"
+last-modified: Tue, 27 Jul 2021 11:04:20 GMT
+server: AkamaiNetStorage
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=3600
+expires: Wed, 11 Aug 2021 06:30:50 GMT
+date: Wed, 11 Aug 2021 05:30:50 GMT
+content-length: 770
+access-control-allow-origin: https://www.lowes.com
+timing-allow-origin: *
+----
+

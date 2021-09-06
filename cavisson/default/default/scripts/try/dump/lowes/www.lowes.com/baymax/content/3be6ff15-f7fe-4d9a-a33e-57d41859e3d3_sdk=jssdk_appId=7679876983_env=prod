@@ -1,0 +1,1 @@
+{"sId":"bym-global-selector","scripts":["\nwindow.dotdBadgeTest = 'B';\nwindow.dispatchEvent(new CustomEvent(\"dotdBadgeTestCreated\"));\n"],"html":"","variantData":{"sId":"bym-global-selector","html":"","scripts":["\nwindow.dotdBadgeTest = 'B';\nwindow.dispatchEvent(new CustomEvent(\"dotdBadgeTestCreated\"));\n"]}}
